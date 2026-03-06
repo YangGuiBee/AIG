@@ -241,7 +241,7 @@
 
 <br>
 
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s11.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s11.PNG'> 
 
 <br>
 
