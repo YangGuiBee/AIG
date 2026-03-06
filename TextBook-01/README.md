@@ -281,7 +281,7 @@
 
 <br>
 
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s21.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s21.PNG'> 
 
 <br>
 
@@ -321,7 +321,7 @@ img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/ma
 
 <br>
 
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s31.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s31.PNG'> 
 
 <br>
 
@@ -362,7 +362,7 @@ img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/ma
 
 <br>
 
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s41.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s41.PNG'> 
 
 <br>
 
@@ -405,9 +405,7 @@ img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/ma
 
 <br>
 
-
-
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s51.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s51.PNG'> 
 
 <br>
 
@@ -450,9 +448,7 @@ img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/ma
 
 <br>
 
-
-
-img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s61.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/s61.PNG'> 
 
 <br>
 
