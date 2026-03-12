@@ -245,19 +245,19 @@
 
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/AIG02_37.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_37.PNG'> 
 
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/AIG02_38.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_38.PNG'> 
 
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/AIG02_39.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_39.PNG'> 
 
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/AIG02_40.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_40.PNG'> 
 
 <br>
 
