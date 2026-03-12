@@ -1,6 +1,4 @@
 
-# AI거버넌스 - 관련 법과 국제표준 : 제2강 
-
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_1.PNG'> 
 
 <br>
