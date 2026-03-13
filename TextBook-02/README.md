@@ -143,8 +143,6 @@
 
 <br>
 
-
-
 **인공지능 윤리원칙 분류 모형 및 윤리 측정지표 개발과 신뢰성에 관한 연구(소순주, 2023)**
 인공지능 윤리 측정지표(EMI-AI) 전체 86개 지표<br>
 
@@ -241,7 +239,6 @@
 | 안전성 | 프라이버시 보호 | 미동의 데이터 수집 방지 | E19 |
 | 안전성 | 프라이버시 보호 | 데이터 주권 보장 | E20 |
 
-<br>
 
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_37.PNG'> 
 
@@ -256,6 +253,18 @@
 <br>
 
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_40.PNG'> 
+
+<br>
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_41.PNG'> 
+
+<br>
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_42.PNG'> 
+
+<br>
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_43.PNG'> 
 
 <br>
 
