@@ -43,7 +43,7 @@
 
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_12.PNG'> 
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-02/images/AIG02_12.png'> 
 
 <br>
 
