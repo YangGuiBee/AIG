@@ -116,9 +116,9 @@ EU의 공공‧민간 기업뿐만 아니라 역내에서 실제로 막대한 �
 <br>
 
 ## (5) EU가 발표한 다른 법률과 상호 보완적인 역할을 한다.
-디지털 서비스법(Digital Service Act, DSA)<br>  
-디지털 시장법(Digital Markets Act, DMA)<br> 
-디지털 거버넌스법(Digital Governance Act, DGA)<br> 
+디지털 서비스법(Digital Service Act, DSA)<br>
+디지털 시장법(Digital Markets Act, DMA)<br>
+디지털 거버넌스법(Digital Governance Act, DGA)<br>
 일반 개인정보보호법(GDPR)<br>
 
 <br>
