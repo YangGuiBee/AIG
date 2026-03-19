@@ -110,41 +110,6 @@ EU의 공공‧민간 기업뿐만 아니라 역내에서 실제로 막대한 �
 
 <br>
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_15.PNG'> 
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_16.PNG'> 
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_17.PNG'> 
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_18.PNG'> 
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_19.PNG'> 
-
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_20.PNG'> 
-
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_21.PNG'> 
-
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_22.PNG'> 
-
-<br>
-
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_09.PNG'> 
 
 <br>
@@ -637,6 +602,8 @@ EU뿐만 아니라 독일연방정부 내에서도 입법과정에서 가장 논
 ### 제8항. 적용 예외
 이 조는 인공지능 관행이 다른 유럽연합 법령을 위반하는 경우에 적용되는 금지에는 영향을 미치지 아니한다. <br>
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_15.PNG'> 
+
 <br>
 
 # 위험별 인공지능 시스템의 분류 및 규제사항
@@ -651,6 +618,14 @@ EU AI Act는 AI 시스템을 위험 수준에 따라<br>
 <br>
 
 ## 1) 금지된 인공지능 시스템(Prohibited AI Systems)
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_16.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_17.PNG'> 
+
+<br>
+
 ‘금지된 인공지능 시스템(Prohibited AI Systems)’은 사람들에게 위협으로 간주되고, 인간의 존엄성, 자유, 평등, 민주주의, 법치주의 등 유럽연합의 기본적 윤리 및 가치 규범에 반하는 시스템으로 원칙적으로 제작 및 공급이 허용되지 않는다. 금지된 AI 시스템의 유형에는 의사결정 저해, 사회적 약자 차별, 소셜스코어링(social scoring), 일상의 무분별 활용, 생체정보 불법수집 등이 있다. 구체적 내용을 보면,<br> 
 ① 인간의 잠재의식 또는 특정 집단의 취약점을 악용하여 피해를 유발할 수 있는 시스템 <br>
 ② 사회적 행동이나 개인의 특성에 기반하여 생성･수집된 정보로 개인이나 집단의 소셜스코어링(social scoring)을 도출하여 불리한 대우를 유발할 수 있는 시스템<br> 
@@ -661,6 +636,12 @@ EU AI Act는 AI 시스템을 위험 수준에 따라<br>
 <br>
 
 ## 2) 고위험 인공지능 시스템(High risk AI System, 제6조)
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_18.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_19.PNG'> 
+
 ‘고위험 인공지능 시스템(High risk AI Systems)’은<br>
 ⓐ EU 법의 적용을 받는 제품 또는 안전부품(safety compenent)으로 사용되며 제3자 적합성 평가 대상인 AI 시스템을 말하고(제6조제1항),<br> 
 ⓑ EU AI Act 부속서 Ⅲ에 명시된 8가지 목적54)을 위해 사용되는 AI 시스템을 포함한다(제6조제3항). 고위험 AI 시스템의 이해관계자를 7개 유형(제공자·배포자·공인대리인, 수입·유통업자, 제품 제조업자·공급자)으로 구분하여 의무사항을 규정하고 있다.<br>
@@ -689,12 +670,22 @@ GPAI 모델을 고위험 AI 시스템으로 변경하여 사용하는 경우, �
 <br>
 
 ## 3) 제한적 위험 인공지능 시스템(Limited risk AI System)
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_20.PNG'> 
+
+<br>
+
 ‘제한적 위험 인공지능 시스템(Limited risk AI System)’62)이란, 의사결정 결과에 실질적 영향을 주지 않고 인간의 건강, 안전 또는 기본권에 중대한 위해를 가할 위험이 없는 AI 시스템을 말한다. 인간과 상호작용하는 AI 시스템 중 딥페이크 기술과 같이 비인격화, 기만, 조작 등의 문제를 일으킬 수 있는 기술은 제한된 위험성을 갖는 시스템으로 분류된다. 제한적 위험 AI 시스템(Limited risk AI System)은 인간과 상호작용을 기반으로 작동하는 상대적으로 위험성이 낮은 시스템으로서 공급자 또는 배포자가 투명성의 의무(Transparency Obligation)를 준수하는 경우 제작 및 사용이 허용된다.
 제한적 위험 AI 시스템 제공자와 사용자는 투명성 의무를 갖는바, 제공자는 배포자가 해당 시스템의 작동 방식, 기능과 한계를 잘 이해할 수 있도록 설계하고, 판매 시, 사용 지침을 함께 제공해야 하며, 사용자도 해당 시스템을 통해 인위적으로 생성･조작한 콘텐츠에 대해 출처를 표시하고 공개하여야 한다. 투명성 의무란, 시스템 제공자가 AI 사용 상황과 맥락을 고려하여, 상대방이 AI 시스템과 상호작용하고 있다는 사실을 인식할 수 있도록 고지해야 하는 의무를 말한다. 제한된 위험의 AI 시스템은 사용자가 정보에 입각한 결정을 내릴 수 있도록 최소한의 투명성 요구 사항을 준수해야 함. 사용자는 어플과 상호작용한 후 해당 어플을 계속 사용할지 여부를 결정함. 사용자는 AI와 상호작용할 때 이를 인지해야 한다. 여기에는 이미지, 오디오 또는 비디오 콘텐츠(예: 딥페이크(deepfake))를 생성하거나 조작하는 AI 시스템이 포함된다. 제한적 위험 AI 시스템 관련 투명성 의무를 위반한 제공자 및 사용자에 대해서는 스타트업 및 중소기업의 경우, 제99조 제3항~5항에 언급된 금액 또는 비율 중 낮은 금액이 벌금으로 부과된다(제99조제6항).
 
 <br>
 
 ## 4) 최소위험 인공지능 시스템(Minimul risk AI System)
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_21.PNG'> 
+
+<br>
+
 ‘최소위험 인공지능 시스템(Minimul risk AI System)’이란, 사용자의 안전, 프라이버시, 법적·윤리적 위험성이 가장 낮은 시스템으로, 일상생활에서 작업을 자동화 또는 편리화하기 위해 제작된 시스템을 의미한다. 최소위험 인공지능 시스템은 금지된 AI 시스템, 고위험 AI 시스템, 제한적 위험 AI 시스템에 속하지 않는 AI 시스템으로 별도의 규제가 없다. 비디오 게임이나 스팸 필터(spam filters)에 사용되는 AI 시스템을 예로 들 수 있으며, AI 애플리케이션이 여기에 해당된다. 저위험 AI 시스템의 경우에는 거버넌스 메커니즘을 포함해 명확한 목표 및 성과지표에 기초한 자발적인 행동 강령(Code of Conduct) 작성하고, 행동강령을 고위험 AI 시스템에 적용되는 의무의 일부 또는 전부를 자발적으로 적용하도록 장려한다.
 
 <br>
@@ -719,7 +710,7 @@ GPAI 모델 공급자의 의무사항은 다음과 같다.<br>
 (ⅲ) 심각한 사건 및 이를 해결하기 위한 가능한 시정조치 정보를 지체없이 추적하고 문서화하여 AI 사무국과 국가 유관 당국에 보고할 것,<br>
 (ⅳ) 시스템적 위험이 있는 범용 AI 모델과 물리적 인프라에 대한 적절한 수준의 사이버 보안 보호를 보장할 것 등의 의무사항을 갖춰야 한다(제55조제1항).
 
-
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_22.PNG'> 
 
 
 
