@@ -1,3 +1,108 @@
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_01.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_02.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_03.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_04.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_05.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_06.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_07.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_08.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_09.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_10.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_11.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_12.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_13.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_14.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_15.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_16.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_17.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_18.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_19.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_20.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_21.PNG'> 
+
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_22.PNG'> 
+
+
+
+
+
 # EU AI Act 전체 타임라인 (2021-2031)
 
 ## EU 인공지능법(AI Act) 발의부터 이행까지 전체 일정표
