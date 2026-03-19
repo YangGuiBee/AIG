@@ -40,14 +40,6 @@
 
 <br>
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_11.PNG'> 
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_12.PNG'> 
-
-<br>
-
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_13.PNG'> 
 
 <br>
@@ -237,8 +229,13 @@ EU의 공공‧민간 기업뿐만 아니라 역내에서 실제로 막대한 �
 | **전체 (발의 → 완전 적용)** | 2021.04.21 ~ 2027.08.02 | **약 6년 4개월** |
 
 <br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_11.PNG'> 
+
 <br>
-<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_12.PNG'> 
+
 
 
 ---
