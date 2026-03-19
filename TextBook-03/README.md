@@ -40,16 +40,6 @@
 
 <br>
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_09.PNG'> 
-
-
-<br>
-
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_10.PNG'> 
-
-
-<br>
-
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_11.PNG'> 
 
 <br>
@@ -95,9 +85,11 @@
 
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_22.PNG'> 
 
+<br>
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_09.PNG'> 
 
-
+<br>
 
 # EU AI Act 전체 타임라인 (2021-2031)
 
@@ -153,6 +145,9 @@
 
 ---
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_10.PNG'> 
+
+<br>
 
 # EU AI Act 법의 구성 및 체계 (통합 표)
 
