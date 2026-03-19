@@ -44,11 +44,11 @@
 
 <br>
 
-# EU AI Act의 주요 특징
-
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_14.PNG'> 
 
 <br>
+
+# EU AI Act의 주요 특징
 
 ## (1) AI 활용에 따른 세계 최초의 ‘위험기반접근방식(risk-based approach)’의 포괄적 규제법이다. 
 기본적으로 EU 역내국가의 AI 산업을 보호하면서도 AI가 초래할 수 있는 위험으로부터 기본권과 안전을 보장하는데 초점을 두고, AI 활용의 투명성과 안정성에 초점을 맞추고, 인공지능 모델에 대한 폭넓은 의무·규제를 규정한다.<br> 
