@@ -46,10 +46,6 @@
 
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_14.PNG'> 
 
-<br>
-
-# EU AI Act의 주요 특징
-
 ## (1) AI 활용에 따른 세계 최초의 ‘위험기반접근방식(risk-based approach)’의 포괄적 규제법이다. 
 기본적으로 EU 역내국가의 AI 산업을 보호하면서도 AI가 초래할 수 있는 위험으로부터 기본권과 안전을 보장하는데 초점을 두고, AI 활용의 투명성과 안정성에 초점을 맞추고, 인공지능 모델에 대한 폭넓은 의무·규제를 규정한다.<br> 
 참고로 미국은 자국의 기업을 지원한다는 목적이 강하고, EU는 행정벌칙부과가 중심이다. 미국은 국방물자생산법(Defense Production Act)에 의거 미국기업의 AI 기술을 이용하는 외국기업은 명단을 의무적으로 신고해야 한다.<br>
