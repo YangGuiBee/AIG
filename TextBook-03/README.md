@@ -99,10 +99,6 @@ EU의 공공‧민간 기업뿐만 아니라 역내에서 실제로 막대한 �
 
 <br>
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-03/images/AIG03_09.PNG'> 
-
-<br>
-
 # EU AI Act 전체 타임라인 (2021-2031)
 
 ## EU 인공지능법(AI Act) 발의부터 이행까지 전체 일정표
