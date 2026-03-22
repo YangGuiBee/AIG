@@ -251,13 +251,13 @@
 
 # 제7장. 거버넌스 (EU AI Office, 위원회, 국가 감독)
 
-  제50조 (EU AI Office, European Artificial Intelligence Office)
-  제51조 (AI Office의 권한, Powers of the AI Office)
-  제52조 (유럽 AI 위원회, European Artificial Intelligence Board)
-  제53조 (회원국 관할기관, National competent authorities)
-  제54조 (통보기관, Notifying authorities)
-  제55조 (인증 및 지정 요건, Requirements for notified bodies)
-  제56조 (실무규약, Codes of practice)
+	제50조 (EU AI Office, European Artificial Intelligence Office)
+	제51조 (AI Office의 권한, Powers of the AI Office)
+	제52조 (유럽 AI 위원회, European Artificial Intelligence Board)
+	제53조 (회원국 관할기관, National competent authorities)
+	제54조 (통보기관, Notifying authorities)
+	제55조 (인증 및 지정 요건, Requirements for notified bodies)
+	제56조 (실무규약, Codes of practice)
 
 ---
 
