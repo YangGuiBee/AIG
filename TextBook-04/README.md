@@ -563,6 +563,7 @@
 ---
 
 # 부속서 (Annexes)
+부속서는 EU AI Act의 본문 조항을 구체화하고 실행 가능하게 만드는 기술적·행정적 기준 집합에 해당함. 추상적 규범을 실제 설계, 문서화, 평가, 등록, 감독 절차로 연결함으로써, EU AI Act가 선언적 법률이 아니라 작동 가능한 규제 체계로 기능하도록 뒷받침함.
 
 	부속서 I (조화법률 목록, List of Union harmonisation legislation)
 	부속서 II (범죄 목록, List of criminal offences)
@@ -579,8 +580,6 @@
 	부속서 XIII (시스템적 위험 AI 모델 기준, Criteria for systemic risk AI models)
 
 ---
-
-부속서는 EU AI Act의 본문 조항을 구체화하고 실행 가능하게 만드는 기술적·행정적 기준 집합에 해당함. 추상적 규범을 실제 설계, 문서화, 평가, 등록, 감독 절차로 연결함으로써, EU AI Act가 선언적 법률이 아니라 작동 가능한 규제 체계로 기능하도록 뒷받침함.
 
 <br>
 
