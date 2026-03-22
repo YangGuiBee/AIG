@@ -1,7 +1,38 @@
 
 
 ---
+
 # 제3장. 고위험 인공지능 시스템
+
+제6조 (고위험 인공지능시스템의 분류 규칙, Classification rules for high-risk AI systems)
+제7조 (부속서 III의 개정, Amendments to Annex III)
+제8조 (요건의 준수, Compliance with the requirements)
+제9조 (위험관리시스템, Risk management system)
+제10조 (데이터 및 데이터 거버넌스, Data and data governance)
+제11조 (기술문서, Technical documentation)
+제12조 (기록 관리, Record-keeping)
+제13조 (투명성 및 정보 제공, Transparency and provision of information)
+제14조 (인적 감독, Human oversight)
+제15조 (정확성·견고성·사이버보안, Accuracy, robustness and cybersecurity)
+제16조 (제공자의 의무, Obligations of providers)
+제17조 (품질관리시스템, Quality management system)
+제18조 (문서 관리, Documentation keeping)
+제19조 (자동 생성 로그, Automatically generated logs)
+제20조 (시정조치 및 정보의무, Corrective actions and information duties)
+제21조 (관할기관과의 협력, Cooperation with competent authorities)
+제22조 (수권대리인, Authorised representative)
+제23조 (수입업자의 의무, Obligations of importers)
+제24조 (유통업자의 의무, Obligations of distributors)
+제25조 (배포자의 의무, Obligations of deployers)
+제26조 (사용자의 의무, Obligations of users)
+제27조 (기본권 영향평가, Fundamental rights impact assessment)
+제28조 (고위험 AI 사용 고지, Transparency obligations for high-risk AI use)
+제29조 (데이터 품질 관련 사용자 의무, User obligations regarding data quality)
+제30조 (기록 보관 의무, Record retention)
+제31조 (사고 및 중대 사건 보고, Reporting of serious incidents)
+제32조 (정보 제공 및 협력, Information sharing and cooperation)
+제33조 (표준의 적용, Use of harmonised standards)
+
 ---
 
 ## 제6조 (고위험 인공지능시스템의 분류 규칙, Classification rules for high-risk AI systems)
