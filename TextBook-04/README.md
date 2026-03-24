@@ -1,4 +1,29 @@
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_01.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_02.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_03.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_04.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_05.PNG'> 
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-04/images/ML04_06.PNG'> 
+
+<br>
+
+
 
 ---
 
