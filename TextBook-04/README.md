@@ -563,12 +563,20 @@ GPAI 제공자의 의무 :<br>
 <br>
 |구분|정량적 기준|법적 의미|
 |---|---|---|
-|① 학습 연산량 (Training Compute)|≥ 10²⁵ FLOPs|시스템적 위험 GPAI로 “추정(presumed)”|
+|① 학습 연산량 (Training Compute)|≥ 10²⁵ FLOPs|시스템적 위험 GPAI로 추정|
 |② 모델 규모|수십억-수백억 파라미터 이상|단독 기준은 아니나 보조 지표|
 |③ 학습 비용|수천만-수억 유로 수준|접근 통제 불가성의 근거|
 |④ 범용성 지수|다수 고위험 분야에서 재사용 가능|다목적 악용 가능성|
 |⑤ 배포 범위|대규모 사용자·다수 파생 모델|사회적 영향 규모|
-|⑥ 위험 외부성|악용 시 피해가 광범위·비가역적|“systemic” 판단 핵심|
+|⑥ 위험 외부성|악용 시 피해가 광범위·비가역적|systemic 판단 핵심|
+
+**FLOPs(Floating Point Operations) :** 컴퓨터가 실수 연산(덧셈·곱셈 등)을 몇 번 수행했는지를 나타내는 계산량의 단위로 속도가 아니라 총 작업량(모델을 학습시키는 데 실제로 쓴 노력) → AI 모델의 ‘계산적 투입량’을 나타내는 정량 지표로서, 모델의 능력(capability)과 사회적 영향 가능성의 대리 변수로 사용되어 EU AI Act는 이를 기반으로 시스템적 위험 여부를 판단<br>
+<br>
+FLOPs ≈<br>
+(모델 크기 = 파라미터 수)<br>
+× (데이터 양 = 토큰 수/샘플 수)<br>
+× (학습 반복 횟수 = 에폭 수)<br>
+× (상수 계수 = forward + backward 계산)<br>
 
 <br>
 
@@ -609,6 +617,15 @@ GPAI 제공자의 의무 :<br>
 	제48조 (SME·스타트업 지원, Measures for SMEs and start-ups)
 
 ---
+
+**규제 샌드박스 :** 새로운 기술이나 서비스를 실제 환경과 유사한 조건에서 시험할 수 있도록 규제 당국이 한시적·통제된 규제 완화를 제공하는 제도적 실험 공간(면제가 아니라 통제된 실험) → 공공 감독 하에서 AI 시스템을 실제 환경에 가깝게 시험할 수 있도록 하여, 혁신을 저해하지 않으면서도 고위험 AI의 위험을 사전에 식별·완화하기 위한 제도<br>
+
+|기존 방식|샌드박스 방식|
+|---|---|
+|사전금지|조건부 허용|
+|일률적 규제|맞춤형 감독|
+|위반후 제재|실험중 학습|
+
 <br>
 
 ## 제45조 (AI 규제 샌드박스 설정, Establishment of AI regulatory sandboxes)
@@ -911,9 +928,8 @@ EU AI Office의 역할 :<br>
 ## 제64조 (CE 마킹, CE marking)
 이 조항은 <ins>고위험 인공지능 시스템이 EU 시장에 유통되기 위해 CE 마킹을 부착해야 함을 규정</ins>한 조항임. CE 마킹은 해당 인공지능 시스템이 EU AI Act 및 관련 조화법률의 요구사항을 충족함을 외부에 표시하는 제도적 수단에 해당함. CE 마킹이 부착된 인공지능 시스템은 EU 전역에서 자유롭게 유통될 수 있음. 이 조항은 고위험 인공지능 시스템을 기존 EU 제품안전 체계와 연결하는 핵심 규정임.<br>
 <br>
-CE 마킹의 의미 :<br> 
-(1) CE 마킹은 고위험 AI 시스템이 EU AI Act 및 관련 EU 조화법률(예: 기계류 규정, 의료기기 규정 등)의 요구사항을 충족했다는 것을 시장에 공식적으로 선언하는 표시<br>
-이는 EU 시장 내 제품 안전 규제에서 기존에도 사용되던 방식으로, AI Act는 고위험 AI를 기존 EU 제품안전 체계에 편입<br>
+**CE(Conformité Européenne) 마킹의 의미 :** 해당 제품이 EU 법령에서 요구하는 안전·보건·환경·기본권 보호 요건을
+충족했음을 제조자(제공자)가 공식적으로 선언하는 표시(이는 EU 시장 내 제품 안전 규제에서 기존에도 사용되던 방식으로, AI Act는 고위험 AI를 기존 EU 제품안전 체계에 편입) → EU나 정부가 품질을 보증해 주는 개념이 아닌 제공자 스스로가 "나는 EU법을 지켰다"고 법적책임을 선언하는 표시<br>
 <br>
 CE 마킹 부착 요건 :<br>
 (1) 적합성 평가(CONFORMITY ASSESSMENT) 완료<br>
@@ -1040,12 +1056,12 @@ CE 마킹의 효과 :<br>
 	제76조 (기존 법령과의 관계, Relationship with other Union law)
 	제77조 (시행일 및 적용일, Entry into force and application)
 	제78조 (추가 부칙, Additional transitional provisions)
-	제79조~제97조 (부칙, Transitional and final provisions)
+	제79조-제97조 (부칙, Transitional and final provisions)
 	제98조 (위원회 절차, Committee procedure)
 	제99조 (벌칙, Penalties)
 	제100조 (EU 기관 과징금, Fines for Union institutions)
 	제101조 (범용 AI 모델 과징금, Fines for general-purpose AI models)
-	제102조~제110조 (개정, Amendments)
+	제102조-제110조 (개정, Amendments)
 	제111조 (기존 AI 시스템의 적용, Existing AI systems)
 	제112조 (평가 및 심사, Evaluation and assessment)
 	제113조 (시행 및 적용, Final entry into force and application)
@@ -1094,7 +1110,7 @@ CE 마킹의 효과 :<br>
 
 <br>
 
-## 제79조~제97조 (부칙, Transitional and final provisions)
+## 제79조-제97조 (부칙, Transitional and final provisions)
 이 조항들은 EU AI Act의 시행과 적용 과정에서 필요한 다양한 경과 규정과 세부 조정을 포괄적으로 규정한 부칙에 해당함. 여기에는 특정 유형의 인공지능 시스템이나 이해관계자에 대한 단계적 적용, 예외적 처리, 행정적 조정 사항 등이 포함됨. 이 조항들은 본 규정이 실제 환경에 안착하기 위한 실무적 기반을 제공함.<br>
 
 <br>
@@ -1119,7 +1135,7 @@ CE 마킹의 효과 :<br>
 
 <br>
 
-## 제102조~제110조 (개정, Amendments)
+## 제102조-제110조 (개정, Amendments)
 이 조항들은 EU AI Act의 시행에 따라 기존 EU 법령의 일부 조항을 수정하거나 조정하는 내용을 담고 있음. 이를 통해 AI Act가 기존 법체계와 충돌하지 않고 정합적으로 작동하도록 함. 이 조항들은 법체계 간 연결과 조정을 담당함.<br>
 
 <br>
