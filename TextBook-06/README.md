@@ -1,5 +1,3 @@
-
-
 |국내 인공지능기본법|EU AI Act|
 |---|---|
 |제1조(목적)|제1조 Subject matter (주제)|
@@ -47,64 +45,64 @@
 |제41조(공무원 의제)|제62조 Penalties for Union institutions (EU 기관 벌칙)|
 |제42조(벌칙)|제60조 Penalties (벌칙)|
 |제43조(과태료)|제61조 Reduction of administrative fines (과징금 감경)|
-|——제5조 Prohibited AI practices (금지된 AI 관행)|
-|——제7조 Amendments to Annex III (부속서 III 개정)|
-|——제11조 Technical documentation (기술문서)|
-|——제12조 Record-keeping (기록 관리)|
-|——제14조 Human oversight (인적 감독)|
-|——제17조 Quality management system (품질관리시스템)|
-|——제18조 Documentation keeping (문서 관리)|
-|——제19조 Automatically generated logs (자동 생성 로그)|
-|——제20조 Corrective actions and duty of information (시정조치 및 정보의무)|
-|——제21조 Cooperation with competent authorities (관할기관 협력)|
-|——제23조 Obligations of importers (수입업자 의무)|
-|——제24조 Obligations of distributors (유통업자 의무)|
-|——제25조 Obligations of deployers (배포자 의무)|
-|——제26조 Obligations of users (사용자 의무)|
-|——제28조 Information to persons affected (영향받는 자에 대한 정보 제공)|
-|——제29조 Data quality obligations for users (데이터 품질 사용자 의무)|
-|——제30조 Logging obligations (기록 보관 의무)|
-|——제31조 Incident and malfunction reporting (사고 보고)|
-|——제32조 Information and cooperation (정보 제공 및 협력)|
-|——제35조 Conversational AI disclosure (대화형 AI 고지)|
-|——제36조 Emotion recognition and biometric categorisation disclosure (감정인식·생체분류 고지)|
-|——제38조 Definition of general-purpose AI models (범용 AI 모델 정의)|
-|——제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무)|
-|——제40조 Technical documentation for GPAI (범용 AI 기술문서)|
-|——제41조 Open models and open weights (오픈 모델·웨이트)|
-|——제42조 Systemic risk criteria (시스템적 위험 기준)|
-|——제43조 Obligations for systemic risk models (시스템적 위험 모델 의무)|
-|——제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
-|——제45조 AI regulatory sandboxes (AI 규제 샌드박스)|
-|——제46조 Sandbox operational requirements (샌드박스 운영 요건)|
-|——제47조 Testing in real world conditions (실세계 조건 시험)|
-|——제48조 Support for SMEs and start-ups (중소기업·스타트업 지원)|
-|——제49조 Data access support (데이터 접근 지원)|
-|——제50조 EU AI Office (EU AI 사무국)|
-|——제51조 Powers of the AI Office (AI Office 권한)|
-|——제52조 European Artificial Intelligence Board (유럽 AI 위원회)|
-|——제53조 National competent authorities (회원국 관할기관)|
-|——제54조 Notifying authorities (통보기관)|
-|——제55조 Requirements for conformity assessment bodies (인증기관 요건)|
-|——제56조 Codes of practice (실무규약)|
-|——제57조 Market surveillance rules (시장감시 규칙)|
-|——제63조 Right to redress (피해 구제)|
-|——제64조 CE marking (CE 마킹)|
-|——제65조 EU declaration of conformity (EU 적합성 선언)|
-|——제66조 Registration of high-risk AI systems (고위험 AI 등록)|
-|——제67조 Technical documentation register (기술문서 목록)|
-|——제68조 Standards and common specifications (표준·공통규격)|
-|——제69조 Conformity assessment procedures (적합성 평가 절차)|
-|——제70조 Certificates (인증서 발급·취소)|
-|——제72조 Committee procedure (위원회 절차)|
-|——제77조 Entry into application (시행·적용일)|
-|——제78조 Additional transitional provisions (추가 부칙)|
-|——제79조–제97조 Transitional provisions (경과규정)|
-|——제98조 Committee procedure (위원회 절차)|
-|——제99조 Penalties (벌칙)|
-|——제100조 Fines for Union institutions (EU 기관 과징금)|
-|——제101조 Fines for general-purpose AI models (범용 AI 모델 과징금)|
-|——제102조–제110조 Amendments (개정)|
-|——제111조 Existing AI systems (기존 AI 시스템 적용)|
-|——제112조 Evaluation and review (평가 및 심사)|
-|——제113조 Entry into force and application (시행 및 적용)|
+|—|제5조 Prohibited AI practices (금지된 AI 관행)|
+|—|제7조 Amendments to Annex III (부속서 III 개정)|
+|—|제11조 Technical documentation (기술문서)|
+|—|제12조 Record-keeping (기록 관리)|
+|—|제14조 Human oversight (인적 감독)|
+|—|제17조 Quality management system (품질관리시스템)|
+|—|제18조 Documentation keeping (문서 관리)|
+|—|제19조 Automatically generated logs (자동 생성 로그)|
+|—|제20조 Corrective actions and duty of information (시정조치 및 정보의무)|
+|—|제21조 Cooperation with competent authorities (관할기관 협력)|
+|—|제23조 Obligations of importers (수입업자 의무)|
+|—|제24조 Obligations of distributors (유통업자 의무)|
+|—|제25조 Obligations of deployers (배포자 의무)|
+|—|제26조 Obligations of users (사용자 의무)|
+|—|제28조 Information to persons affected (영향받는 자에 대한 정보 제공)|
+|—|제29조 Data quality obligations for users (데이터 품질 사용자 의무)|
+|—|제30조 Logging obligations (기록 보관 의무)|
+|—|제31조 Incident and malfunction reporting (사고 보고)|
+|—|제32조 Information and cooperation (정보 제공 및 협력)|
+|—|제35조 Conversational AI disclosure (대화형 AI 고지)|
+|—|제36조 Emotion recognition and biometric categorisation disclosure (감정인식·생체분류 고지)|
+|—|제38조 Definition of general-purpose AI models (범용 AI 모델 정의)|
+|—|제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무)|
+|—|제40조 Technical documentation for GPAI (범용 AI 기술문서)|
+|—|제41조 Open models and open weights (오픈 모델·웨이트)|
+|—|제42조 Systemic risk criteria (시스템적 위험 기준)|
+|—|제43조 Obligations for systemic risk models (시스템적 위험 모델 의무)|
+|—|제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
+|—|제45조 AI regulatory sandboxes (AI 규제 샌드박스)|
+|—|제46조 Sandbox operational requirements (샌드박스 운영 요건)|
+|—|제47조 Testing in real world conditions (실세계 조건 시험)|
+|—|제48조 Support for SMEs and start-ups (중소기업·스타트업 지원)|
+|—|제49조 Data access support (데이터 접근 지원)|
+|—|제50조 EU AI Office (EU AI 사무국)|
+|—|제51조 Powers of the AI Office (AI Office 권한)|
+|—|제52조 European Artificial Intelligence Board (유럽 AI 위원회)|
+|—|제53조 National competent authorities (회원국 관할기관)|
+|—|제54조 Notifying authorities (통보기관)|
+|—|제55조 Requirements for conformity assessment bodies (인증기관 요건)|
+|—|제56조 Codes of practice (실무규약)|
+|—|제57조 Market surveillance rules (시장감시 규칙)|
+|—|제63조 Right to redress (피해 구제)|
+|—|제64조 CE marking (CE 마킹)|
+|—|제65조 EU declaration of conformity (EU 적합성 선언)|
+|—|제66조 Registration of high-risk AI systems (고위험 AI 등록)|
+|—|제67조 Technical documentation register (기술문서 목록)|
+|—|제68조 Standards and common specifications (표준·공통규격)|
+|—|제69조 Conformity assessment procedures (적합성 평가 절차)|
+|—|제70조 Certificates (인증서 발급·취소)|
+|—|제72조 Committee procedure (위원회 절차)|
+|—|제77조 Entry into application (시행·적용일)|
+|—|제78조 Additional transitional provisions (추가 부칙)|
+|—|제79조–제97조 Transitional provisions (경과규정)|
+|—|제98조 Committee procedure (위원회 절차)|
+|—|제99조 Penalties (벌칙)|
+|—|제100조 Fines for Union institutions (EU 기관 과징금)|
+|—|제101조 Fines for general-purpose AI models (범용 AI 모델 과징금)|
+|—|제102조–제110조 Amendments (개정)|
+|—|제111조 Existing AI systems (기존 AI 시스템 적용)|
+|—|제112조 Evaluation and review (평가 및 심사)|
+|—|제113조 Entry into force and application (시행 및 적용)|
