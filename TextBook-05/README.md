@@ -78,6 +78,9 @@ AI제품·서비스에 의해 자신의 생명, 신체의 안전 및 기본권�
 
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/duty0.png'> 
 
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/duty.png'> 
+
 ---
 
 # AI기본법 시행령
