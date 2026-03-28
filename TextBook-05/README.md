@@ -60,7 +60,11 @@
 
 ## AI제품·서비스
 ① (AI제품) AI시스템 또는 이를 요소로 포함하는 제품을 의미하며, AI의 결과물은 AI제품이 아니며, AI시스템 그 자체 또는 AI시스템이 탑재된 AI휴대폰, 자율주행자동차 등을 의미(생성형AI로 만든 ‘사진’은 AI제품이 아님)<br>
-② (AI서비스) AI 또는 AI제품을 제공하거나, AI를 활용하여 제공하는 서비스로, 제공 과정에서 정보 분석·예측·추천·창작 등의 기능 제공하며, AI가 아닌 AI의 결과물을 활용한 서비스는 AI서비스가 아님(생성형AI로 만든 ‘영상’을 관람객들에게 상영하는 서비스는 AI서비스가 아님)
+② (AI서비스) AI 또는 AI제품을 제공하거나, AI를 활용하여 제공하는 서비스로, 제공 과정에서 정보 분석·예측·추천·창작 등의 기능 제공하며, AI가 아닌 AI의 결과물을 활용한 서비스는 AI서비스가 아님(생성형AI로 만든 ‘영상’을 관람객들에게 상영하는 서비스는 AI서비스가 아님)<br>
+③ (고영향AI) 사람의생명, 신체의안전 및 기본권에 중대한 영향을 미치는인공지능시스템<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/HR.png'>
+
 <br>
 
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/user.png'> 
