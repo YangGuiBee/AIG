@@ -83,7 +83,7 @@ AI제품·서비스에 의해 자신의 생명, 신체의 안전 및 기본권�
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/duty0.png'> 
 
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/duty.png'> 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/duty.png'> 
 
 ---
 
@@ -115,4 +115,4 @@ AI제품·서비스에 의해 자신의 생명, 신체의 안전 및 기본권�
 ① (국내대리인 지정 사업자 기준) ➊전년도 매출액 1조원이상, ➋AI서비스 부문 매출액 100억원 이상, ➌일 평균 국내 이용자 수 100만명 이상, ➍AI서비스 관련 사고로 자료 제출을 요구받은 경우(제28조)<br>
 ② (사실조사) 이미 충분한 증거 확보가 되어있거나 부당한 목적의 신고·민원에 대해서는 사실조사를 하지 않을 수 있도록근거 마련(제31조)<br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/etcLAW.png'> 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/etcLAW.png'> 
