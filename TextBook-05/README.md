@@ -113,7 +113,7 @@
 |국내 인공지능기본법|EU AI Act|
 |---|---|
 |제1조(목적)|제1조 Subject matter (주제)|
-|제2조(정의)|제3조 Definitions (정의)|
+|제2조(정의)|제3조 Definitions (정의),<br>제38조 Definition of general-purpose AI models (범용 AI 모델 정의)|
 |제3조(기본원칙 및 국가 등의 책무)|제4조 AI literacy (인공지능 문해력),<br>제13조 Transparency and provision of information (투명성 및 정보 제공)|
 |제4조(적용범위)|제2조 Scope (적용범위)|
 |제5조(다른 법률과의 관계)|제76조 Relationship with other Union law (기존 법령과의 관계)|
@@ -158,6 +158,6 @@
 |제42조(벌칙)|제60조 Penalties (벌칙),<br>제99조 Penalties (벌칙)|
 |제43조(과태료)|제61조 Reduction of administrative fines (과징금 감경),<br>제100조 Fines for Union institutions (EU 기관 과징금),<br>제101조 Fines for general-purpose AI models (범용 AI 모델 과징금)|
 |—|제5조 Prohibited AI practices (금지된 AI 관행)|
-|—|제38조 Definition of general-purpose AI models (범용 AI 모델 정의),<br>제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무),<br>제40조 Technical documentation for GPAI (범용 AI 기술문서),<br>제41조 Open models and open weights (오픈 모델·웨이트),<br>제42조 Systemic risk criteria (시스템적 위험 기준),<br>제43조 Obligations for systemic risk models (시스템적 위험 모델 의무),<br>제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
+|—|제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무),<br>제40조 Technical documentation for GPAI (범용 AI 기술문서),<br>제41조 Open models and open weights (오픈 모델·웨이트),<br>제42조 Systemic risk criteria (시스템적 위험 기준),<br>제43조 Obligations for systemic risk models (시스템적 위험 모델 의무),<br>제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
 |—|제64조 CE marking (CE 마킹),<br>제65조 EU declaration of conformity (EU 적합성 선언),<br>제66조 Registration of high-risk AI systems (고위험 AI 등록),<br>제67조 Technical documentation register (기술문서 목록)|
 |—|제77조 Entry into application (시행·적용일),<br>제78조 Additional transitional provisions (추가 부칙),<br>제79조–제97조 Transitional provisions (경과규정),<br>제111조 Existing AI systems (기존 AI 시스템 적용),<br>제113조 Entry into force and application (시행 및 적용)|
