@@ -1,4 +1,63 @@
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_1.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_2.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_3.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_4.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_5.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_6.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_7.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_8.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_9.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_10.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_11.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_12.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_13.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_14.PNG'>
+
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-05/images/AIG05_15.PNG'>
+
+<br>
 
 
 |국내 인공지능기본법|EU AI Act|
