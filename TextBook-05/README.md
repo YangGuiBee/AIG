@@ -2,7 +2,7 @@
 |---|---|
 |제1조(목적)|제1조 Subject matter (주제)|
 |제2조(정의)|제3조 Definitions (정의)|
-|제3조(기본원칙 및 국가 등의 책무)|제4조 AI literacy (인공지능 문해력), 제13조 Transparency and provision of information (투명성 및 정보 제공)|
+|제3조(기본원칙 및 국가 등의 책무)|제4조 AI literacy (인공지능 문해력),<br> 제13조 Transparency and provision of information (투명성 및 정보 제공)|
 |제4조(적용범위)|제2조 Scope (적용범위)|
 |제5조(다른 법률과의 관계)|제76조 Relationship with other Union law (기존 법령과의 관계)|
 |제6조(인공지능 기본계획의 수립)|제74조 Evaluation and review (평가 및 재검토)|
@@ -13,7 +13,7 @@
 |제11조(인공지능정책센터)|제50조 EU AI Office (EU 인공지능 사무국)|
 |제12조(인공지능안전연구소)|제59조 Incident reporting and risk monitoring (사고 보고 및 위험 모니터링)|
 |제13조(인공지능기술 개발 및 안전한 이용 지원)|제45조 AI regulatory sandboxes (AI 규제 샌드박스)|
-|제14조(인공지능기술의 표준화)|제33조 Application of standards (표준 적용), 제68조 Standards and common specifications (표준 및 공통규격)|
+|제14조(인공지능기술의 표준화)|제33조 Application of standards (표준 적용),<br>제68조 Standards and common specifications (표준 및 공통규격)|
 |제15조(학습용데이터 시책)|제10조 Data and data governance (데이터 및 데이터 거버넌스)|
 |제16조(기술 도입·활용 시책)|제48조 Support for SMEs and start-ups (중소기업·스타트업 지원)|
 |제17조(중소기업 특별지원)|제48조 Support for SMEs and start-ups (중소기업·스타트업 지원)|
@@ -32,8 +32,8 @@
 |제28조(민간자율윤리위원회)|제56조 Codes of practice (실무규약)|
 |제29조(신뢰 기반 조성)|제8조 Compliance with the requirements (요건 준수)|
 |제30조(안전성·신뢰성 검·인증)|제69조 Conformity assessment procedures (적합성 평가 절차)|
-|제31조(투명성 확보 의무)|제34조 Transparency obligations (투명성 의무), 제37조 Deep fake labelling obligation (딥페이크 표시 의무)|
-|제32조(안전성 확보 의무)|제9조 Risk management system (위험관리체계), 제15조 Accuracy, robustness and cybersecurity (정확성·견고성·사이버보안)|
+|제31조(투명성 확보 의무)|제34조 Transparency obligations (투명성 의무),<br>제37조 Deep fake labelling obligation (딥페이크 표시 의무)|
+|제32조(안전성 확보 의무)|제9조 Risk management system (위험관리체계),<br>제15조 Accuracy, robustness and cybersecurity (정확성·견고성·사이버보안)|
 |제33조(고영향 인공지능 확인)|제6조 Classification rules for high-risk AI systems (고위험 AI 분류 규칙)|
 |제34조(고영향 AI 사업자 책무)|제16조 Obligations of providers (제공자의 의무)|
 |제35조(고영향 AI 영향평가)|제27조 Fundamental rights impact assessment (기본권 영향평가)|
