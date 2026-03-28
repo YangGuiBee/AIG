@@ -149,7 +149,7 @@
 |제33조(고영향 인공지능 확인)|제6조 Classification rules for high-risk AI systems (고위험 AI 분류 규칙),<br>제7조 Amendments to Annex III (부속서 III 개정)|
 |제34조(고영향 AI 사업자 책무)|제16조 Obligations of providers (제공자의 의무),<br>제20조 Corrective actions and duty of information (시정조치 및 정보의무),<br>제21조 Cooperation with competent authorities (관할기관 협력)|
 |제35조(고영향 AI 영향평가)|제27조 Fundamental rights impact assessment (기본권 영향평가)|
-|제36조(국내대리인 지정)|제22조 Authorised representative (수권대리인),<br>제23조 Obligations of importers (수입업자 의무),<br>제24조 Obligations of distributors (유통업자 의무),<br>제25조 Obligations of deployers (배포자 의무),<br>제26조 Obligations of users (사용자 의무)|
+|제36조(국내대리인 지정)|제22조 Authorised representative (수권대리인),<br>제23조 Obligations of importers (수입업자 의무),<br>제24조 Obligations of distributors (유통업자 의무),<br>제25조 Obligations of deployers (배포자 의무),<br>제26조 Obligations of users (사용자 의무),<br>제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무)|
 |제37조(재원 확충)|제48조 Support for SMEs and start-ups (중소기업·스타트업 지원)|
 |제38조(실태조사·통계)|제74조 Evaluation and review (평가 및 재검토)|
 |제39조(권한의 위임·위탁)|제71조 Delegated acts (위임법),<br>제72조 Committee procedure (위원회 절차),<br>제98조 Committee procedure (위원회 절차)|
@@ -158,6 +158,6 @@
 |제42조(벌칙)|제60조 Penalties (벌칙),<br>제99조 Penalties (벌칙)|
 |제43조(과태료)|제61조 Reduction of administrative fines (과징금 감경),<br>제100조 Fines for Union institutions (EU 기관 과징금),<br>제101조 Fines for general-purpose AI models (범용 AI 모델 과징금)|
 |—|제5조 Prohibited AI practices (금지된 AI 관행)|
-|—|제39조 Obligations of GPAI model providers (범용 AI 모델 제공자 의무),<br>제40조 Technical documentation for GPAI (범용 AI 기술문서),<br>제41조 Open models and open weights (오픈 모델·웨이트),<br>제42조 Systemic risk criteria (시스템적 위험 기준),<br>제43조 Obligations for systemic risk models (시스템적 위험 모델 의무),<br>제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
+|—|제40조 Technical documentation for GPAI (범용 AI 기술문서),<br>제41조 Open models and open weights (오픈 모델·웨이트),<br>제42조 Systemic risk criteria (시스템적 위험 기준),<br>제43조 Obligations for systemic risk models (시스템적 위험 모델 의무),<br>제44조 Security audit and risk mitigation (보안 감사 및 위험 완화)|
 |—|제64조 CE marking (CE 마킹),<br>제65조 EU declaration of conformity (EU 적합성 선언),<br>제66조 Registration of high-risk AI systems (고위험 AI 등록),<br>제67조 Technical documentation register (기술문서 목록)|
 |—|제77조 Entry into application (시행·적용일),<br>제78조 Additional transitional provisions (추가 부칙),<br>제79조–제97조 Transitional provisions (경과규정),<br>제111조 Existing AI systems (기존 AI 시스템 적용),<br>제113조 Entry into force and application (시행 및 적용)|
