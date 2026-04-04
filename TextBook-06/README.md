@@ -19,7 +19,6 @@
 
 <br>
 
-
 ---
 
 [1] AI 투명성 확보 가이드라인(과학기술정보통신부)<br>
@@ -27,6 +26,23 @@
 [3] 고영향 AI 판단 가이드라인(과학기술정보통신부)<br>
 [4] 고영향 AI 사업자 책무 가이드라인(과학기술정보통신부)<br>
 [5] AI 영향평가 가이드라인(과학기술정보통신부)<br>
+
+1. 인공지능 투명성 확보 가이드라인 : AI 사용·생성 결과를 사용자에게 명확히 알림
+https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006744&cfRename=1._260126_인공지능_투명성_확보_가이드라인.pdf
+
+2. 인공지능 안전성 확보 가이드라인 : 위험관리·리스크 완화 체계 구축
+https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006743&cfRename=2._260122_인공지능_안전성_확보_가이드라인.pdf
+
+3. 고영향 인공지능 판단 가이드라인 : 어떤 AI가 고영향 AI인지 판정하는 기준 제공
+https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006746&cfRename=3._260213_고영향_인공지능_판단_가이드라인_최종_v.4.pdf
+
+4. 고영향 인공지능 사업자 책무 가이드라인 : 고영향 AI 운영자에 대한 구체적 책임 규정
+https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006747&cfRename=4._260122_고영향_인공지능_사업자_책무_가이드라인-1.pdf
+
+5. 인공지능 영향평가 가이드라인 : 기본권·사회적 영향의 사전·사후 평가
+https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006748&cfRename=5._260122_인공지능_영향평가_가이드라인.pdf
+
+<img width="2475" height="618" alt="image" src="https://github.com/user-attachments/assets/17a8a984-cfa5-48d9-9681-86bde891f5be" />
 
 ---
 
