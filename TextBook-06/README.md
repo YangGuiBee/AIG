@@ -21,6 +21,8 @@
 
 ---
 
+![](./images/AIG.png)
+
 **[1] AI 투명성 확보 가이드라인(과학기술정보통신부)** : AI 사용·생성 결과를 사용자에게 명확히 알림<br>
 https://www.sw.or.kr/common/files/Download.do?cfGroup=COMMON&cfIdx=CF00006744&cfRename=1._260126_인공지능_투명성_확보_가이드라인.pdf
 <br>
