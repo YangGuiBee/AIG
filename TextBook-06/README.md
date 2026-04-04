@@ -1,21 +1,21 @@
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG06_1.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG_06_1.PNG'>
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG06_2.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG_06_2.PNG'>
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG06_3.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG_06_3.PNG'>
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG06_4.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG_06_4.PNG'>
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG06_5.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/images/AIG_06_5.PNG'>
 
 <br>
 
