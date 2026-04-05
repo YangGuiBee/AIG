@@ -42,7 +42,7 @@ https://www.sw.or.kr/AI_act_helpdesk/board.jsp?bcIdx=64993<br>
 
 이용자가 인공지능 기반 제품 및 서비스를 이용하고 있다는 사실과, 제공되는 결과물이 인공지능에 의해 생성된 것임을 명확히 인식할 수 있도록 하고, 정보 이용 과정에서의 혼동과 오인 방지 및 사회적 신뢰를 제고하기 위한 제도적 장치를 마련<br>
 
-https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide1.pdf
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide1.pdf
 
 ---
 
@@ -353,7 +353,7 @@ G7(회원국은 미국･일본･독일･영국･프랑스･이탈리아･�
 
 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」 제32조 및 시행령 제24조에 따라 제정된「인공지능 안전성 확보 의무의 이행방법 등에 관한 고시」에서 규정한 인공지능 안전성 확보 의무를 실제 인공지능을 개발/운영하는 인공지능사업자가 이행하는 데 필요한 기준과 절차를 체계적으로 정리한 참고 문서<br>
 
-https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide2.pdf
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide2.pdf
 
 ---
 
@@ -1463,7 +1463,7 @@ https://internationalaisafetyreport.org<br>
 인공지능기본법의 입법목적에 따라 사업자가 책무 유무를 스스로 판단할 수 있도록 고영향 인공지능의 기준과 예시 등을 마련하여 사업자의 예측가능성을 제고하고 산업현장에서의 혼란을 방지<br>
 본 가이드라인을 통하여 인공지능사업자로서의 지위를 확정적으로 판단할 수 없는 경우에는 과학기술정보통신부장관에게 고영향 인공지능 해당여부에 대해 확인을 요청<br> 
 
-https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide3.pdf
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide3.pdf
 
 ---
 
@@ -1474,7 +1474,7 @@ https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide3.pdf
 
 본 가이드라인은 사업자들이 법적 의무를 명확히 이해하고 이행할 수 있도록 지원하며 기준과 예시를 통해 사업자들이 자사의 고영향 인공지능에 대해 적절한 조치를 취함으로써 인공지능 기술의 안전성과 , 신뢰성을 확보하는 데 기여할 것으로 기대<br>
 
-https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide4.pdf
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide4.pdf
 
 ---
 
@@ -1485,7 +1485,7 @@ https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide4.pdf
 
 사업자가 영향평가를 통해 인공지능 제품ㆍ서비스가 인간의 존엄성과 기본권에 미치는 잠재적 영향을 사전에 식별·분석하고, 이를 존중ㆍ보호하는 방향으로 스스로 개선방안을 마련ㆍ이행하도록 유도하고 국민의 기본권을 보호함과 동시에 글로벌 상호운용성 확보<br>
 
-https://github.com/YangGuiBee/ML/blob/main/TextBook-06/AIG_guide5.pdf
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide5.pdf
 
 ---
 
