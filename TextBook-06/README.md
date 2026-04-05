@@ -1463,6 +1463,7 @@ https://internationalaisafetyreport.org<br>
 인공지능기본법의 입법목적에 따라 사업자가 책무 유무를 스스로 판단할 수 있도록 고영향 인공지능의 기준과 예시 등을 마련하여 사업자의 예측가능성을 제고하고 산업현장에서의 혼란을 방지<br>
 본 가이드라인을 통하여 인공지능사업자로서의 지위를 확정적으로 판단할 수 없는 경우에는 과학기술정보통신부장관에게 고영향 인공지능 해당여부에 대해 확인을 요청<br> 
 
+80MB 이상의 대용량 파일로 업로드 실패<br>
 https://github.com/YangGuiBee/AIG/blob/main/TextBook-06/AIG_guide3.pdf
 
 ---
