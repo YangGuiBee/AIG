@@ -34,7 +34,7 @@
 
 <br>
 
-![](./images/pipc.png)
+![](./images/pipc2.png)
 
 <br>
 
