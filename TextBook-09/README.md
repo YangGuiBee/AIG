@@ -98,6 +98,16 @@
 39 전 분야 마이데이터 전송 절차 및 기술 가이드라인<br>
 
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic1.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic2.png'>
+
+<br>
+
+---
+
 ## 개인정보란?
 「개인정보 보호법」에서 정의하는 개인정보는 살아 있는 개인에 관한 정보로 아래에 해당하는 정보<br>
 ① 성명, 주민등록번호 및 영상 등을 통하여 개인을 알아볼 수 있는 정보<br>
