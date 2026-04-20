@@ -26,6 +26,14 @@
 
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/law3.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/law_rr.png'>
+
+<br>
+
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-07.PNG'>
 
 <br>
