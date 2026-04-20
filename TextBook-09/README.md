@@ -34,13 +34,10 @@
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-07.PNG'>
+![](./images/pipc.png)
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-08.PNG'>
-
-<br>
 
 ## 개인정보란?
 「개인정보 보호법」에서 정의하는 개인정보는 살아 있는 개인에 관한 정보로 아래에 해당하는 정보<br>
@@ -133,8 +130,16 @@
 38 일반수신자 등재 안내서<br>
 39 전 분야 마이데이터 전송 절차 및 기술 가이드라인<br>
 
-
 ---
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-07.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-08.PNG'>
+
+<br>
+
 
 ## 개인정보보호법
 「개인정보 보호법」은 개인정보 보호에 관해 규정한 일반법으로, 개인정보의 유출, 오용, 남용으로부터<br> 
