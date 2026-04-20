@@ -147,3 +147,7 @@
 
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-09.PNG'>
+
+<br>
+
