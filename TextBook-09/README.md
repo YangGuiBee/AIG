@@ -67,6 +67,14 @@
 
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic1.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic2.png'>
+
+<br>
+
 ### 개인정보보호위원회 업무
 개인정보 보호와 관련된 법령 개선, 정책·제도·계획 수립·집행, 권리침해에 대한 조사·처분, 고충처리·권리구제 및 분쟁조정, 국제기구 및 외국의 개인정보 보호기구와의 교류·협력, 법령·정책·제도·실태 등의 조사·연구, 교육, 홍보, 기술개발의 지원·보급 및 전문인력의 양성 등에 대한 업무를 수행(「개인정보 보호법」 제7조의8).<br>
 <br>
@@ -125,15 +133,6 @@
 37 개인정보관리 전문기관 지정안내서(중계전문기관 편)<br>
 38 일반수신자 등재 안내서<br>
 39 전 분야 마이데이터 전송 절차 및 기술 가이드라인<br>
-
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic1.png'>
-
-<br>
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/pic2.png'>
-
-<br>
 
 ---
 
