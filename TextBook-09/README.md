@@ -1,4 +1,34 @@
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-01.PNG'>
 
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-02.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-03.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-04.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-05.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-06.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-07.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-08.PNG'>
+
+<br>
 
 ## 개인정보란?
 「개인정보 보호법」에서 정의하는 개인정보는 살아 있는 개인에 관한 정보로 아래에 해당하는 정보<br>
@@ -19,6 +49,11 @@
 <br>
 
 ![](./images/pi.png)
+
+<br>
+
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/vs.png'>
 
 <br>
 
