@@ -313,10 +313,45 @@
 ||제47조 (양벌규정)|||
 ||제48조 (과태료)|||
 ||제49조 (위임)|||
-|EU AI Act 단독조항||Article 5 (Prohibited AI practices)|사회적 점수화, 실시간 원격 생체인식 등 전면 금지|
-|||Article 52a (General-purpose AI models)|범용 AI(GPAI) 별도 규율|
-|||Article 53-55 (GPAI with systemic risk)|시스템 리스크 GPAI 규제|
-|||Article 56-58 (AI Office)|EU 차원의 중앙 AI 감독기구|
-|||Annex III|고위험 AI 사용 분야 목록|
-|||Annex IV-VIII|기술문서·적합성 평가 세부기준|
-
+|EU AI Act 단독조항||| |
+|| |Article 5 (Prohibited AI practices)|사회적 점수화, 잠재적 조작, 취약계층 악용, 실시간 원격 생체인식 등 기본권 침해 AI를 전면 금지하는 절대적 금지 규정|
+|| |Article 6(3) - (5) (Exemptions for high-risk AI)|고위험 AI 분류에서 제외되는 예외 규정(보조적 기능, 단순 개선 목적 등)|
+|| |Article 7 (Amendments to Annex III)|고위험 AI 목록을 EU 차원에서 탄력적으로 개정할 수 있는 권한 규정|
+|| |Article 8 (Compliance with other Union law)|AI Act와 다른 EU 기본권·안전 법령 간의 관계 정립|
+|| |Article 11 (Technical documentation)|고위험 AI에 대한 상세 기술문서 작성 의무|
+|| |Article 14 (Human oversight)|고위험 AI에 대한 인간 개입·감독 의무를 독립 조항으로 규정|
+|| |Article 15 (Accuracy, robustness and cybersecurity)|정확성·강건성·사이버보안을 법적 요구사항으로 명문화|
+|| |Article 18 (Obligations of importers)|EU 역외 AI 수입자에 대한 별도 의무 부과|
+|| |Article 19 (Obligations of distributors)|AI 유통자(distributor)의 독립적 법적 책임 규정|
+|| |Article 22 (Authorised representatives)|EU 외 사업자를 위한 EU 내 법정대리인 제도|
+|| |Article 23 (Obligations of deployers)|AI 실제 사용자인 deployer의 책임과 의무 명시|
+|| |Article 28 (Obligations for high-risk AI systems used by public authorities)|공공기관이 사용하는 고위험 AI에 대한 추가 의무|
+|| |Article 29 (Fundamental rights impact assessment)|공공부문 고위험 AI에 대해 기본권 영향평가(FRIA) 의무화|
+|| |Article 47 (Notifying authorities)|적합성 평가를 담당하는 통지기관 제도|
+|| |Article 48 (Conformity assessment bodies)|AI 적합성 평가기관의 지정·요건|
+|| |Article 49 (EU declaration of conformity)|EU 적합성 선언 제도(CE 마킹과 연계)|
+|| |Article 50 (CE marking of AI systems)|AI 시스템에 대한 CE 마킹 의무|
+|| |Article 52 (Transparency obligations for certain AI systems)|딥페이크, 감정인식, 챗봇 등에 대한 사용 사실 고지 의무|
+|| |Article 52a (General-purpose AI models)|범용 AI(GPAI) 모델에 대한 독립 규율 체계|
+|| |Article 53 (Obligations for GPAI models)|GPAI 제공자의 문서화·정보제공 의무|
+|| |Article 54 (Systemic risk GPAI)|시스템 리스크를 갖는 GPAI에 대한 강화 규제|
+|| |Article 55 (Additional obligations for systemic risk GPAI)|대규모 연산, 모델 평가, 사고 대응 의무|
+|| |Article 56 (AI Office)|EU 집행위원회 산하 중앙 AI 감독기구 설치|
+|| |Article 57 (Tasks of the AI Office)|AI Office의 조사·조정·집행 권한|
+|| |Article 58 (Scientific panel of independent experts)|독립적 과학자문 패널 제도|
+|| |Article 59 (EU database for high-risk AI systems)|고위험 AI의 EU 등록 데이터베이스|
+|| |Article 60 (Confidentiality)|기업 영업비밀 보호 규정|
+|| |Article 66 (Union safeguard procedure)|EU 차원의 긴급 위험 대응 절차|
+|| |Article 68 (Right to lodge a complaint)|개인·단체의 감독기관에 대한 민원 제기권|
+|| |Article 69 (Whistleblower protection)|AI 내부고발자 보호 규정|
+|| |Article 70 (Penalties for non-compliance)|위반 유형별 차등 과징금 체계|
+|| |Article 71 (Administrative fines)|최대 전 세계 매출액 7퍼센트 과징금|
+|| |Article 72 (Exercise of the delegation)|집행위원회의 위임입법 권한|
+|| |Annex I (AI techniques and approaches)|AI 기술 유형 목록(ML, logic-based 등)|
+|| |Annex II (Union harmonisation legislation)|다른 EU 안전법령과의 연계 목록|
+|| |Annex III (High-risk AI use cases)|고위험 AI 사용 분야 전면 열거|
+|| |Annex IV (Technical documentation)|기술문서 필수 기재사항|
+|| |Annex V (EU declaration of conformity)|적합성 선언서 형식|
+|| |Annex VI (Conformity assessment procedures)|적합성 평가 절차|
+|| |Annex VII (Post-market monitoring)|사후 모니터링 요구사항|
+|| |Annex VIII (Information for deployers)|사용자 제공 정보 목록|
