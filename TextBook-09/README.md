@@ -255,3 +255,68 @@
 |||제58조(적용 제외)|AI기본법은 적용 제외 규정 구조 상이|
 |||제59조(비밀유지의무)|AI기본법은 일반적 윤리·책임 중심|
 
+
+|구분|인공지능기본법|EU AI Act|비교내용|
+|---|---|---|---|
+|총칙|제1조 (목적)|Article 1 (Subject matter)|AI 규율의 목적 및 적용 범위 선언|
+||제2조 (정의)|Article 3 (Definitions)|AI 시스템, 제공자, 배포자 등 기본 개념 정의|
+||제3조 (국가 등의 책무)|Article 4 (AI literacy)|국가·사회 차원의 AI 책임 및 역량 제고|
+||제4조 제1항 (인간의 존엄과 기본권 보호)|Article 1(1), Recital 1|기본권 보호를 AI 규율의 최상위 원칙으로 설정|
+||제4조 제2항 (개인정보 보호)|Article 10(5) (Data governance)|AI 학습·운영 시 개인정보 보호 요구|
+||제4조 제3항 (차별금지 및 공정성)|Article 5(1)(a)-(c) (Prohibited AI practices)|차별적·권리침해적 AI 사용 금지|
+||제4조 제4항 (투명성 및 설명가능성)|Article 13 (Transparency and provision of information)|AI 시스템의 투명성·설명 의무|
+||제4조 제5항 (안전성 및 신뢰성)|Article 9 (Risk management system)|AI 안전성 확보를 위한 위험관리|
+|정책·기반 조성|제5조 (기본계획 수립)|Article 56 (AI Office)|국가·EU 차원의 AI 거버넌스 기구|
+||제6조 (시행계획 수립)|||
+||제7조 (실태조사)|||
+||제8조 (통계 작성)|||
+|연구·산업 진흥|제9조 (연구개발 촉진)|Recital 72|AI 혁신 및 기술 발전 촉진|
+||제10조 (표준화)|Article 40 (Harmonised standards)|조화표준을 통한 기술 신뢰 확보|
+||제11조 (전문인력 양성)|||
+||제12조 (산업 육성)|||
+||제13조 (국제협력)|Article 59 (International cooperation)|AI 국제 공조 및 규범 확산|
+||제14조 (중소기업 지원)|Article 55 (SME support)|중소기업·스타트업 지원|
+||제15조 (시험·실증)|Article 53 (AI regulatory sandboxes)|규제 샌드박스를 통한 실증|
+||제16조 (데이터의 책임 있는 활용)|Article 10 (Data and data governance)|학습·검증 데이터 품질 관리|
+||제17조 (가명·익명정보 활용 촉진)|||
+||제18조 (공공데이터 활용)|||
+|고위험 인공지능|제19조 (위험 기반 접근)|Article 6 (Classification rules for high-risk AI)|위험 기반 규율 구조 채택|
+||제20조 (고위험 인공지능 지정)|Article 6(2), Annex III|고위험 AI 범주 열거|
+||제21조 (분류 기준)|||
+||제22조 (사전 조치)|||
+||제23조 (고위험 인공지능의 정의)|Article 6 (High-risk AI systems)|고위험 AI 개념 정립|
+||제24조 (위험관리체계 구축)|Article 9 (Risk management system)|사전·사후 위험 관리|
+||제25조 (인공지능 영향평가)|Article 27 (Fundamental rights impact assessment)|AIA-FRIA 대응|
+||제26조 (관리·감독 체계)|Article 17 (Quality management system)|조직적 관리체계|
+||제27조 (기록 및 보관)|Article 12 (Record-keeping)|로그·기록 의무|
+||제28조 (사후 관리)|Article 61 (Post-market monitoring)|사후 감시 체계|
+||제29조 (개선조치)|Article 62 (Corrective actions)|시정 및 개선|
+|이용자 권리 보호|제30조 (이용자 보호 일반)|Article 13 (Transparency obligations)|이용자 보호 원칙|
+||제31조 제1항 (설명 요구권)|Article 13(1)-(3)|AI 사용 사실 및 기능 설명|
+||제31조 제2항 (이의제기 및 구제)|Article 68 (Complaints)|권리침해 구제 절차|
+||제31조 (자동화된 의사결정 등)|Article 22 GDPR 연계, Article 68|자동화 판단 통제|
+||제32조 (취약계층 보호)|Article 5(1)(b)|아동·취약계층 보호|
+||제33조 (이용자 고지)|Article 52 (Transparency obligations for certain AI systems)|AI 사용 고지|
+|사업자 책임|제34조 (인공지능사업자의 책임)|Article 16 (Obligations of providers)|AI 제공자 책임|
+||제35조 (기술적·관리적 조치)|Article 15 (Accuracy, robustness and cybersecurity)|정확성·보안|
+||제36조 (인공지능 책임자 지정)|||
+||제37조 (위탁 관리)|Article 25 (Obligations of deployers)|배포자·사용자 책임|
+||제38조 (공급망 관리)|Article 24 (Traceability)|공급망 투명성|
+||제39조 (보험 등)|||
+|감독·제재|제40조 (보고 및 자료 제출)|Article 64 (Powers of market surveillance authorities)|감독기관 권한|
+||제41조 (현장조사)|Article 65 (Access to data)|조사 권한|
+||제42조 (시정권고)|||
+||제43조 (시정명령)|Article 71 (Penalties)|행정 제재|
+||제44조 (공표)|||
+||제45조 (이행강제금)|||
+||제46조 (벌칙)|Article 71(3)-(5) (Fines)|과징금·벌금|
+||제47조 (양벌규정)|||
+||제48조 (과태료)|||
+||제49조 (위임)|||
+|EU AI Act 단독조항||Article 5 (Prohibited AI practices)|사회적 점수화, 실시간 원격 생체인식 등 전면 금지|
+|||Article 52a (General-purpose AI models)|범용 AI(GPAI) 별도 규율|
+|||Article 53-55 (GPAI with systemic risk)|시스템 리스크 GPAI 규제|
+|||Article 56-58 (AI Office)|EU 차원의 중앙 AI 감독기구|
+|||Annex III|고위험 AI 사용 분야 목록|
+|||Annex IV-VIII|기술문서·적합성 평가 세부기준|
+
