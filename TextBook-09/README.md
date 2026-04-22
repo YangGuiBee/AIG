@@ -54,6 +54,12 @@
 
 <br>
 
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/vs.png'>
+
+<br>
+
+
 |구분|인공지능기본법|개인정보보호법|비교내용|
 |---|---|---|---|
 |**총칙 및 기본원칙**|제4조제1항(인간의 존엄과 가치 및 기본권 보호)|제3조(개인정보 보호 원칙)|개인정보 자기결정권 및 인간 존엄성의 헌법적 가치 구현|
@@ -353,10 +359,6 @@
 
 
 
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/vs.png'>
-
-<br>
 
 
 
