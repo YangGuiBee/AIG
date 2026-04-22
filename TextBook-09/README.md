@@ -253,7 +253,11 @@
 || |Annex I(AI techniques and approaches)|AI 기술 유형 목록(ML, logic-based 등)|
 || |Annex II(Union harmonisation legislation)|다른 EU 안전법령과의 연계 목록|
 || |Annex III(High-risk AI use cases)|고위험 AI 사용 분야 전면 열거|
-
+|| |Annex IV(Technical documentation)|기술문서 필수 기재사항|
+|| |Annex V(EU declaration of conformity)|적합성 선언서 형식|
+|| |Annex VI(Conformity assessment procedures)|적합성 평가 절차|
+|| |Annex VII(Post-market monitoring)|사후 모니터링 요구사항|
+|| |Annex VIII(Information for deployers)|사용자 제공 정보 목록|
 
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/law2.png'>
@@ -356,8 +360,3 @@
 
 
 
-|| |Annex IV(Technical documentation)|기술문서 필수 기재사항|
-|| |Annex V(EU declaration of conformity)|적합성 선언서 형식|
-|| |Annex VI(Conformity assessment procedures)|적합성 평가 절차|
-|| |Annex VII(Post-market monitoring)|사후 모니터링 요구사항|
-|| |Annex VIII(Information for deployers)|사용자 제공 정보 목록|
