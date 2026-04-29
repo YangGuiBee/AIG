@@ -346,6 +346,10 @@
 38 일반수신자 등재 안내서<br>
 39 전 분야 마이데이터 전송 절차 및 기술 가이드라인<br>
 
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/3personal.jpg'>
+
+
 ---
 <!--
 ![](./images/3pip.png)
