@@ -617,6 +617,33 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 
 ---
 
+### ▣ 생성형 AI 개발･활용 단계
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/process.png'>
+
+<br>
+
+### ▣ 1. 목적 설정
+
+
+### ▣ 2. 전략 수립
+
+
+### ▣ 3. AI 학습 및 개발
+
+
+### ▣ 4. 시스템 적용 및 관리
+
+
+### ▣ 5. AI 프라이버시 거버넌스 체계
+
+
+### ▣ AI 개발･활용 유형별 프라이버시 고려사항
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/duty.png'>
+
+---
+
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-09_1.PNG'>
 
 <br>
