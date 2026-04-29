@@ -524,7 +524,7 @@ AI 모델이 사람의 의도에 부합하게 안전하고 바람직한 답변�
 → 사례 : 개인의 사생활을 묻는 프롬프트에 대하여 사생활이 포함된 답변에는 (-1)의 보상을, 회피하는 답변에는 (+1)의 보상을 제공<br>
 정책 최적화(Policy Optimization): 보상모델을 사용하여 AI 모델의 정책을 최적화하는 단계로, 주로 정책 그라디언트 강화학습 알고리즘인 PPO(Proximal Policy Optimization)을 활용하여 미세조정<br>
 
-<img width ='800' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/detail.jpg'>
+<img width ='800' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/detail1.jpg'>
 
 <img width ='800' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/detail2.jpg'>
  
