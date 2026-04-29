@@ -647,3 +647,37 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 
 <br>
 
+<img width ='800' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk1.png'>
+
+<br>
+
+<img width ='800' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk2.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk3.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk4.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk5.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk6.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk7.png'>
+
+<br>
+
+<img width ='800' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/chk8.png'>
+
+<br>
+
+
+
