@@ -615,6 +615,30 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk0.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk0_1.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk0_2.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk0_3.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk0_4.png'>
+
+<br>
+
 ---
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AIG09-09_1.PNG'>
