@@ -697,16 +697,16 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 
 ![](./images/ex1-2.jpg)
 
-![](./images/ex1-3.jpg)
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-3.jpg'>
 
 **당초 수집 목적과 별개의 신규 서비스 개발**
 가명･익명처리나 새로운 적법근거 마련 없이 개인정보를 당초 수집 범위를 벗어나 이용하는 경우에는 적법하지 않은 목적 외 이용으로 판단될 수 있습니다. 단, 해당 이용이 혁신성, 공익성 등을 갖춘 경우에는 규제샌드박스 제도를 활용해 강화된 안전조치 등 일정 요건을 전제로 개인정보 처리 근거를 확보할 수 있음
 
-![](./images/ex1-4.jpg)
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-4.jpg'>
 
 **특수한 개인정보의 처리**
 
-![](./images/ex1-5.jpg)
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-5.jpg'>
 
 ### ▣ 2. 전략 수립
 
