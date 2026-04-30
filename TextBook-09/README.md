@@ -688,29 +688,25 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 생성형 AI의 사용 맥락･대상･기술적 한계 등을 고려하여 목적을 구체화해야 함<br>
 ① AI가 어떤 맥락에서 누구를 대상으로 사용되는지 의도된 용례(intended use)를 명확히 정의<br>
 ② AI의 기능･성능이 용례에 부합하는지 검토하고, 예견 가능한 오용(foreseeable misuse) 등 한계점을 사전에 파악하는 과정을 포함<br>
-
 ![](./images/ex1-0.jpg)
 
 ![](./images/ex1-1.jpg)
 
-**수집 목적과의 합리적 관련성 있는 이용**
-
+**수집 목적과의 합리적 관련성 있는 이용**<br>
 ![](./images/ex1-2.jpg)
 
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-3.jpg'>
 
-**당초 수집 목적과 별개의 신규 서비스 개발**
-가명･익명처리나 새로운 적법근거 마련 없이 개인정보를 당초 수집 범위를 벗어나 이용하는 경우에는 적법하지 않은 목적 외 이용으로 판단될 수 있습니다. 단, 해당 이용이 혁신성, 공익성 등을 갖춘 경우에는 규제샌드박스 제도를 활용해 강화된 안전조치 등 일정 요건을 전제로 개인정보 처리 근거를 확보할 수 있음
-
+**당초 수집 목적과 별개의 신규 서비스 개발**<br>
+가명･익명처리나 새로운 적법근거 마련 없이 개인정보를 당초 수집 범위를 벗어나 이용하는 경우에는 적법하지 않은 목적 외 이용으로 판단될 수 있습니다. 단, 해당 이용이 혁신성, 공익성 등을 갖춘 경우에는 규제샌드박스 제도를 활용해 강화된 안전조치 등 일정 요건을 전제로 개인정보 처리 근거를 확보할 수 있음<br>
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-4.jpg'>
 
-**특수한 개인정보의 처리**
-
+**특수한 개인정보의 처리**<br>
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex1-5.jpg'>
 
 ### ▣ 2. 전략 수립
 
-**생성형 AI 개발 방식 분류**
+**생성형 AI 개발 방식 분류**<br>
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/LLM.jpg'>
 
 생성형 AI 개발･활용 전략은 제품 및 서비스의 기획, 개발, 활용 전 과정에서 개인정보 보호법 준수를 사전에 보장하는 접근인 <ins>개인정보 안심설계(PbD, Privacy by Design)</ins> 원칙을 반영<br> 
@@ -736,8 +732,7 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 ### ▣ 5. AI 프라이버시 거버넌스 체계
 
 
-### ▣ AI 개발･활용 유형별 프라이버시 고려사항
-
+**AI 개발･활용 유형별 프라이버시 고려사항**<br>
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/duty.png'>
 
 ---
