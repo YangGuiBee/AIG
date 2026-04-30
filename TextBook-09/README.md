@@ -657,11 +657,24 @@ AI 프라이버시 위험에 대한 점검·평가 결과 및 개선조치에 �
 <br>
 
 ---
+## Ⅰ. 개요
 
-### ▣ 생성형 AI 개발･활용 단계
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/reLaw.jpg'>
+<br>
+
+### ▣ AI 개인정보 처리 관련 조사･처분 등 집행사례
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/reLaw1.jpg'>
+<br>
+
+### ▣ AI 개인정보 처리･보호 관련 분야 혁신지원제도 사례
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/reLaw2.jpg'>
+<br>
+
+## Ⅱ. 생성형 AI 개발･활용 단계
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/process.png'>
-
 <br>
 
 ### ▣ 1. 목적 설정
