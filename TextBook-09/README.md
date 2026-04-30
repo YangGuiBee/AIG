@@ -766,13 +766,13 @@ AI 시스템이 외부와 API로 연동되는 경우, 접근제어는 프라이�
 (b) 제3자의 권리를 침해하는 방식으로 서비스를 이용하거나 고객 콘텐츠를 사용하는 행위<br>
 (c) 부모 또는 법정대리인의 동의 없이 미성년자가 OpenAI 서비스를 이용하도록 허용하는 행위<br>
 (h) 서비스에 간섭하거나 서비스를 방해하는 행위로서, 서비스에 적용된 속도 제한이나 기타 제한을 회피하거나, 보호조치 또는 안전 완화 조치를 우회하는 행위를 포함<br>
-<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex4-2.jpg'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex4-2.jpg'>
 
 ### ▣ 5. AI 프라이버시 거버넌스 체계
 
-<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex4-3.jpg'>
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex4-3.jpg'>
 
-<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/risk.jpg'>
+<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/ex-risk.jpg'>
 
 
 **AI 개발･활용 유형별 프라이버시 고려사항**<br>
