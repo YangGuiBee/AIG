@@ -1,6 +1,8 @@
 
-![](./images/AI-law_all.png)
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-09/images/AI-law_all.png'>
+
+<br>
 
 ![](./images/k-law.png)
 
