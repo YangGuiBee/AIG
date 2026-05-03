@@ -1,6 +1,6 @@
 
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AI-law_all.png'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AI-law_all_1.png'>
 
 <br>
 
