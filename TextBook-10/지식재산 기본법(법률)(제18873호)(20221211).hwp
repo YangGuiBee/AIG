@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HWPML [
+	<!ENTITY nbsp	"&#160;">
+]>
+<HWPML Version="2.1"><HEAD SecCnt="1">
+<DOCSUMMARY>
+<TITLE>지식재산 기본법</TITLE>
+<SUBJECT>본문</SUBJECT>
+<AUTHOR>법제처 국가법령정보센터</AUTHOR>
+<DATE></DATE> 
+<KEYWORDS>법제처 국가법령정보센터</KEYWORDS>
+<COMMENTS> </COMMENTS>
+</DOCSUMMARY>
+<DOCSETTING><BEGINNUMBER Page="1" Footnote="1" Endnote="1" Picture="1" Table="1" Equation="1"/>
+<CARETPOS List="0" Para="0" Pos="24"/>
+</DOCSETTING>
+<MAPPINGTABLE><BINDATALIST Count="4"><BINITEM Type="Embedding" BinData="1" Format="jpg"/>
+<BINITEM Type="Embedding" BinData="2" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="3" Format="bmp"/>
+{국가법령이미지로고목록}
+{이미지파일목록}
+<BINITEM Type="Embedding" BinData="4" Format="png"/>
+</BINDATALIST>
+<FACENAMELIST><FONTFACE Lang="Hangul" Count="8"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="6" Type="hft" Name="휴먼명조"><TYPEINFO FamilyType="1" SerifStyle="0" Weight="0" Proportion="0" Contrast="0" StrokeVariation="0" ArmStyle="0" Letterform="0" Midline="0" XHeight="0"/>
+</FONT>
+<FONT Id="7" Type="hft" Name="휴먼고딕"><TYPEINFO FamilyType="2" SerifStyle="0" Weight="0" Proportion="0" Contrast="0" StrokeVariation="0" ArmStyle="0" Letterform="0" Midline="0" XHeight="0"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Latin" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Hanja" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Japanese" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Other" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Symbol" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="User" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+</FACENAMELIST>
+<BORDERFILLLIST Count="38"><BORDERFILL Id="1" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+<BORDERFILL Id="2" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="3" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="4" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="5" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="6" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="7" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="8" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="9" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="10" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="11" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="12" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="13" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="14" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="15" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="16" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="17" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="SlimThick" Width="0.7mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="18" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="19" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="20" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="21" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="22" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="23" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="24" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="25" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="26" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="27" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="28" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.4mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="15198183" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="29" Shadow="false" Slash="0" ThreeD="false">
+						<LEFTBORDER Type="Solid" Width="0.12mm"/>
+						<RIGHTBORDER Type="Solid" Width="0.12mm"/>
+						<TOPBORDER Type="Solid" Width="0.3mm"/>
+						<BOTTOMBORDER Type="Solid" Width="0.12mm"/>
+						<DIAGONAL Type="Solid" Width="0.12mm"/>
+						<FILLBRUSH>
+							<WINDOWBRUSH Alpha="0" FaceColor="14079702" HatchColor="0"/>
+						</FILLBRUSH>
+					</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="30" Shadow="false" Slash="0" ThreeD="false">
+						<LEFTBORDER Type="Solid" Width="0.12mm"/>
+						<RIGHTBORDER Type="Solid" Width="0.12mm"/>
+						<TOPBORDER Type="Solid" Width="0.12mm"/>
+						<BOTTOMBORDER Type="Solid" Width="0.3mm"/>
+						<DIAGONAL Type="Solid" Width="0.12mm"/>
+					</BORDERFILL>
+<BORDERFILL Id="31" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.4mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="32" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="None" Width="0.12mm"/><BOTTOMBORDER Type="None" Width="0.12mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="33" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="Solid" Width="0.12mm"/><BOTTOMBORDER Type="None" Width="0.12mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="34" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="None" Width="0.12mm"/><BOTTOMBORDER Type="Solid" Width="0.3mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+<BORDERFILL Id="35" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="36" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="37" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+</BORDERFILLLIST>
+<CHARSHAPELIST Count="83">
+<CHARSHAPE Id="0" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="1" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="2" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="3" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="4" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+	<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+	<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="5" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+	<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="6" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{조문폰트}<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="7" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="8" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="2" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="9" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="10" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="-50" Latin="-50" Hanja="-50" Japanese="-50" Other="-50" Symbol="-50" User="-50"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="11" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="12" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="13" Height="1100" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="14" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="15" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="16" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="17" Height="1700" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="18" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="19" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="20" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="21" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="22" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="23" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="24" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="25" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="26" Height="3200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="5" Latin="5" Hanja="5" Japanese="0" Other="5" Symbol="5" User="5"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="27" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="28" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="29" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="30" Height="2200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="31" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="32" Height="1700" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="33" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="34" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="35" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="36" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<UNDERLINE Type="Bottom" Shape="Solid" Color="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="37" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="38" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="39" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<UNDERLINE Type="Bottom" Shape="Solid" Color="16711680"/>
+</CHARSHAPE>
+<CHARSHAPE Id="40" Height="1600" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="41" Height="1300" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="42" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="43" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="44" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="45" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="46" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="47" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="48" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="49" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="50" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="51" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="52" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="53" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="54" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="55" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="56" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="5" Latin="5" Hanja="5" Japanese="5" Other="5" Symbol="5" User="5"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1200" Id="57" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="900" Id="58" ShadeColor="4294967295" SymMark="0" TextColor="16711680" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="0" Japanese="0" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1000" Id="59" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1200" Id="60" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="4" Japanese="4" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="900" Id="61" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="62" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="63" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="64" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="65" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="66" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="67" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="68" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="69" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="4" Japanese="2" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="70" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="71" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="72" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="73" Height="3200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="5" Latin="5" Hanja="5" Japanese="0" Other="5" Symbol="5" User="5"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="74" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="75" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="76" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="77" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="78" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="79" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="2" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="80" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{조문폰트}<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="81" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1000" Id="82" ShadeColor="4294967295" SymMark="0" TextColor="16711680" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="0" Japanese="0" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+</CHARSHAPELIST>
+<TABDEFLIST Count="4"><TABDEF Id="0" AutoTabLeft="false" AutoTabRight="false"/>
+<TABDEF Id="1" AutoTabLeft="true" AutoTabRight="false"/>
+<TABDEF Id="2" AutoTabLeft="false" AutoTabRight="true"/>
+<TABDEF Id="3" AutoTabLeft="false" AutoTabRight="false"><TABITEM Pos="86662" Type="Right" Leader="Dot"/>
+</TABDEF>
+</TABDEFLIST>
+<NUMBERINGLIST Count="1"><NUMBERING Id="1" Start="0"><PARAHEAD Level="1" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit">^1.</PARAHEAD>
+<PARAHEAD Level="2" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="HangulSyllable">^2.</PARAHEAD>
+<PARAHEAD Level="3" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit">^3)</PARAHEAD>
+<PARAHEAD Level="4" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="HangulSyllable">^4)</PARAHEAD>
+<PARAHEAD Level="5" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="6" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="7" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+</NUMBERING>
+</NUMBERINGLIST>
+<PARASHAPELIST Count="82"><PARASHAPE Id="0" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="1" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2620" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="1" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="true"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="2" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="3" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="3000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="4" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="5" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="1" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="6" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="2" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="6000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="7" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="3" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="8000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="8" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="4" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="10000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="9" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="5" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="12000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="10" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="6" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="14000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="11" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="12" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="13" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="100"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="14" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="15" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="16" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="17" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="18" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="19" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="20" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="21" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="22" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="23" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2336" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="24" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="25" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="26" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="3826" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="27" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="28" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="29" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="1854" Right="1906" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="30" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="31" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="32" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9646" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="33" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9148" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="34" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10152" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="35" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="200"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="36" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="37" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="38" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="39" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7800" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="40" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="41" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4840" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="42" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4672" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="43" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4122" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="44" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="45" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="46" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4000" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="47" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="-600" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="48" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9600" Left="2400" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="49" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="50" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4840" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="51" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="52" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-12000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="53" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2600" Left="1600" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="54" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="55" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="2296" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="56" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="57" Align="Left" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="58" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-5890" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="59" Align="Left" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8864" Left="3826" Right="3552" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="60" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="61" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="62" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="63" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="64" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="65" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="66" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="67" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="68" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="69" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="70" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="71" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="72" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="37" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="73" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7496" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="74" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="75" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="76" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="77" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1900" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="78" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="79" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-6500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="80" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="81" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="82" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+</PARASHAPELIST>
+<STYLELIST Count="14"><STYLE Id="0" Type="Para" Name="바탕글" EngName="Normal" ParaShape="2" CharShape="2" NextStyle="0" LangId="1042"/>
+<STYLE Id="1" Type="Para" Name="본문" EngName="Body" ParaShape="3" CharShape="2" NextStyle="1" LangId="1042"/>
+<STYLE Id="2" Type="Para" Name="개요 1" EngName="Outline 1" ParaShape="4" CharShape="2" NextStyle="2" LangId="1042"/>
+<STYLE Id="3" Type="Para" Name="개요 2" EngName="Outline 2" ParaShape="5" CharShape="2" NextStyle="3" LangId="1042"/>
+<STYLE Id="4" Type="Para" Name="개요 3" EngName="Outline 3" ParaShape="6" CharShape="2" NextStyle="4" LangId="1042"/>
+<STYLE Id="5" Type="Para" Name="개요 4" EngName="Outline 4" ParaShape="7" CharShape="2" NextStyle="5" LangId="1042"/>
+<STYLE Id="6" Type="Para" Name="개요 5" EngName="Outline 5" ParaShape="8" CharShape="2" NextStyle="6" LangId="1042"/>
+<STYLE Id="7" Type="Para" Name="개요 6" EngName="Outline 6" ParaShape="9" CharShape="2" NextStyle="7" LangId="1042"/>
+<STYLE Id="8" Type="Para" Name="개요 7" EngName="Outline 7" ParaShape="10" CharShape="2" NextStyle="8" LangId="1042"/>
+<STYLE Id="9" Type="Para" Name="쪽 번호" EngName="Page Number" ParaShape="2" CharShape="1" NextStyle="9" LangId="1042"/>
+<STYLE Id="10" Type="Para" Name="머리말" EngName="Header" ParaShape="11" CharShape="3" NextStyle="10" LangId="1042"/>
+<STYLE Id="11" Type="Para" Name="각주" EngName="Footnote" ParaShape="0" CharShape="4" NextStyle="11" LangId="1042"/>
+<STYLE Id="12" Type="Para" Name="미주" EngName="Endnote" ParaShape="0" CharShape="4" NextStyle="12" LangId="1042"/>
+<STYLE Id="13" Type="Para" Name="메모" EngName="Memo" ParaShape="1" CharShape="5" NextStyle="13" LangId="1042"/>
+</STYLELIST>
+</MAPPINGTABLE>
+</HEAD>
+<BODY><SECTION Id="0">
+{법령집표지}
+{인쇄저장표지}
+{머리글}
+<P ColumnBreak="false" PageBreak="true" ParaShape="74"><TEXT CharShape="11"><CHAR>지식재산 기본법</CHAR></TEXT></P><P ParaShape="74"><TEXT CharShape="62"><CHAR>[시행 2022. 12. 11.] [법률 제18873호, 2022. 6. 10., 일부개정]</CHAR></TEXT></P><P></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>       </CHAR></TEXT><TEXT CharShape="7"><CHAR>제1장 총칙</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제1조(목적)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제2조(기본이념)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제3조(정의)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제4조(국가 등의 책무)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제5조(다른 법률과의 관계)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>       </CHAR></TEXT><TEXT CharShape="7"><CHAR>제2장 지식재산 정책의 수립 및 추진 체계</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제6조(국가지식재산위원회의 설치 및 기능)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제7조(국가지식재산위원회의 구성 및 운영)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제8조(국가지식재산 기본계획의 수립)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제9조(국가지식재산 시행계획의 수립)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제10조(추진상황의 점검 및 평가)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제11조(국가지식재산위원회의 사무기구)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제12조(지식재산정책책임관의 지정)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제13조(관계 법령의 제정ㆍ개정 등의 통보)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제14조(관계 기관 등에 대한 협조 요청)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제15조(연차보고서)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>       </CHAR></TEXT><TEXT CharShape="7"><CHAR>제3장 지식재산의 창출ㆍ보호 및 활용의 촉진</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>         </CHAR></TEXT><TEXT CharShape="7"><CHAR>제1절 지식재산의 창출 촉진</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제16조(지식재산의 창출 촉진)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제17조(연구개발과 지식재산 창출의 연계)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제18조(신지식재산 창출 등 지원)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제19조(지식재산 창출자에 대한 보상)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>         </CHAR></TEXT><TEXT CharShape="7"><CHAR>제2절 지식재산의 보호 강화</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제20조(지식재산의 권리화 및 보호 촉진)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제21조(소송 체계의 정비 등)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제22조(재판 외 분쟁해결 절차 활성화)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제23조(지식재산권 침해행위에 대한 대응)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제24조(외국에서의 지식재산 보호)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>         </CHAR></TEXT><TEXT CharShape="7"><CHAR>제3절 지식재산의 활용 촉진</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제25조(지식재산의 활용 촉진)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제26조(지식재산서비스산업의 육성)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제27조(지식재산의 가치 평가 체계 확립 등)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제28조(지식재산의 공정한 이용 질서 확립)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>       </CHAR></TEXT><TEXT CharShape="7"><CHAR>제4장 지식재산의 창출ㆍ보호 및 활용 촉진을 위한 기반 조성</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제29조(지식재산 친화적 사회환경 조성)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제29조의2(지식재산의 날)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제30조(지식재산의 국제표준화)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제31조(지식재산 정보의 수집ㆍ분석 및 제공 등)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제32조(경제적ㆍ사회적 약자에 대한 지원)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제33조(지식재산 교육 강화)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제34조(지식재산 전문인력 양성)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제35조(지식재산 연구기관 등의 육성)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제36조(지식재산 제도의 국제화)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제37조(개발도상국에 대한 지원)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제38조(남북 간 지식재산 교류협력)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>       </CHAR></TEXT><TEXT CharShape="7"><CHAR>제5장 보칙</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제39조(비밀 누설의 금지)</CHAR></TEXT></P><P ParaShape="20"><TEXT CharShape="76"><CHAR>             </CHAR></TEXT><TEXT CharShape="7"><CHAR>제40조(벌칙 적용에서의 공무원 의제)</CHAR></TEXT></P>
+<P ParaShape="15" PageBreak="true"><TEXT CharShape="6"><SECDEF SpaceColumns="1134" TabStop="8000" OutlineShape="1"><STARTNUMBER PageStartsOn="Both" Page="0" Figure="0" Table="0" Equation="0"/>
+<HIDE Header="false" Footer="false" MasterPage="false" Border="false" Fill="false" PageNumPos="false" EmptyLine="false"/>
+<PAGEDEF Landscape="0" Width="59528" Height="84188" GutterType="LeftOnly"><PAGEMARGIN Left="4252" Right="4252" Top="5669" Bottom="4252" Header="3600" Footer="3600" Gutter="0"/>
+</PAGEDEF>
+<FOOTNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="5cm" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="283"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EachColumn" BeneathText="false"/>
+</FOOTNOTESHAPE>
+<ENDNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="14692344" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="0"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EndOfDocument" BeneathText="false"/>
+</ENDNOTESHAPE>
+<PAGEBORDERFILL Type="Both" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Even" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Odd" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+</SECDEF>
+<COLDEF Type="Newspaper" Count="1" Layout="Left" SameSize="true"/>
+<PICTURE><SHAPEOBJECT InstId="1417942632" ZOrder="14" NumberingType="Figure" TextWrap="BehindText" Lock="false"><SIZE Width="5668" Height="5668" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="false" VertRelTo="Para" HorzRelTo="Column" VertAlign="Top" HorzAlign="Left" VertOffset="-902" HorzOffset="45188" FlowWithText="false" AllowOverlap="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="-3384" YPos="-2576" GroupLevel="0" OriWidth="10208" OriHeight="12300" CurWidth="8161" CurHeight="9823" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="2834" CenterY="2834"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="-3384.00" E4="0.00" E5="1.00" E6="-2576.00"/><SCAMATRIX E1="0.80" E2="0.00" E3="-166.03" E4="0.00" E5="0.80" E6="2941.45"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.82" E2="0.00" E3="-17.00" E4="0.00" E5="0.79" E6="0.00"/><ROTMATRIX E1="1.21" E2="0.00" E3="-927.59" E4="0.00" E5="1.45" E6="227.53"/><SCAMATRIX E1="0.70" E2="0.00" E3="5430.00" E4="0.00" E5="0.73" E6="-584.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="0.69" E6="-195.65"/></RENDERINGINFO></SHAPECOMPONENT><LINESHAPE Color="11866128" Width="85" Style="Solid" EndCap="Round" OutlineStyle="Outer"/><IMAGERECT X0="0" Y0="0" X1="10208" Y1="0" X2="10208" Y2="12300" X3="0" Y3="12300"/><IMAGECLIP Left="1417" Top="1417" Right="13583" Bottom="13583"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="4"/></PICTURE><FIELDBEGIN Type="Bookmark" Name="지식재산 기본법" InstId="1526823554" Editable="false" Dirty="false" Property="2"/><CHAR/></TEXT></P><P ParaShape="74"><TEXT CharShape="11"><CHAR>지식재산 기본법</CHAR><FIELDEND Type="Bookmark" Editable="false" Property="2"/></TEXT><TEXT CharShape="11"><CHAR></CHAR></TEXT></P>
+<P ParaShape="16"><TEXT CharShape="42"><HEADER ApplyPageType="Both" TextWidth="51024" TextHeight="3600" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Top"><P ParaShape="13"><TEXT CharShape="9"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="1" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155746" ZOrder="0" NumberingType="Table" Lock="false"><SIZE Width="50929" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/><ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="50929" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="4"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="13"><TEXT CharShape="9"><CHAR>지식재산 기본법</CHAR></TEXT></P></PARALIST></CELL></ROW></TABLE><CHAR></CHAR></TEXT></P><P ParaShape="12"><TEXT CharShape="10"/></P></PARALIST></HEADER><FOOTER ApplyPageType="Both" TextWidth="51024" TextHeight="3600" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Bottom"><P ParaShape="14"><TEXT CharShape="10"/></P><P ParaShape="15"><TEXT CharShape="10"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="3" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155747" ZOrder="1" NumberingType="Table" Lock="false"><SIZE Width="50947" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/><ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="18" Style="10"><TEXT CharShape="9"><PICTURE><SHAPEOBJECT InstId="1201155748" ZOrder="2" NumberingType="Figure" Lock="false"><SIZE Width="1828" Height="1131" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="0" YPos="-2469" GroupLevel="0" OriWidth="23760" OriHeight="14700" CurWidth="22847" CurHeight="14137" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="360" CenterX="914" CenterY="565"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-2469.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="0.96" E2="0.00" E3="0.00" E4="0.00" E5="0.96" E6="94.48"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.08" E2="0.00" E3="0.00" E4="0.00" E5="0.08" E6="2469.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/></RENDERINGINFO></SHAPECOMPONENT><IMAGERECT X0="0" Y0="0" X1="23760" Y1="0" X2="23760" Y2="14700" X3="0" Y3="14700"/><IMAGECLIP Left="0" Top="0" Right="23700" Bottom="14640"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="3"/></PICTURE><CHAR>&nbsp;법제처</CHAR></TEXT><TEXT CharShape="9"><CHAR></CHAR></TEXT></P></PARALIST></CELL><CELL ColAddr="1" RowAddr="0" ColSpan="1" RowSpan="1" Width="25701" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="17" Style="10"><TEXT CharShape="61"><CHAR>-&nbsp;</CHAR><AUTONUM Number="3" NumberType="Page"><AUTONUMFORMAT Type="Digit" Superscript="false"/></AUTONUM><CHAR>&nbsp;/&nbsp;</CHAR><AUTONUM Number="1" NumberType="TotalPage"><AUTONUMFORMAT Type="Digit" Superscript="false"/></AUTONUM><CHAR>&nbsp;-</CHAR></TEXT></P></PARALIST></CELL><CELL ColAddr="2" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="19" Style="10"><TEXT CharShape="9"><PICTURE><SHAPEOBJECT InstId="1310949373" ZOrder="3" NumberingType="Figure" Lock="false"><SIZE Width="1417" Height="1417" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="0" YPos="-887" GroupLevel="0" OriWidth="2760" OriHeight="2760" CurWidth="1416" CurHeight="1416" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="708" CenterY="708"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-887.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="3.12"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="3.12"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.01" E2="0.00" E3="0.00" E4="0.00" E5="1.01" E6="-5.67"/><SCAMATRIX E1="0.51" E2="0.00" E3="0.00" E4="0.00" E5="0.51" E6="887.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/></RENDERINGINFO></SHAPECOMPONENT><IMAGERECT X0="0" Y0="0" X1="2760" Y1="0" X2="2760" Y2="2760" X3="0" Y3="2760"/><IMAGECLIP Left="0" Top="0" Right="2700" Bottom="2700"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="2"/></PICTURE><CHAR>&nbsp;국가법령정보센터</CHAR></TEXT></P></PARALIST></CELL></ROW></TABLE><CHAR></CHAR></TEXT></P></PARALIST></FOOTER></TEXT><TEXT CharShape="62"><CHAR>[시행 2022. 12. 11.] [법률 제18873호, 2022. 6. 10., 일부개정]</CHAR></TEXT></P><P ParaShape="75"><TEXT CharShape="74"/></P><P ParaShape="76"><TEXT CharShape="74"><CHAR>지식재산처(지식재산정책과) 042-481-8180</CHAR></TEXT></P><P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>       제1장 총칙
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제1조(목적)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 이 법은 지식재산의 창출ㆍ보호 및 활용을 촉진하고 그 기반을 조성하기 위한 정부의 기본 정책과 추진 체계를 마련하여 우리 사회에서 지식재산의 가치가 최대한 발휘될 수 있도록 함으로써 국가의 경제ㆍ사회 및 문화 등의 발전과 국민의 삶의 질 향상에 이바지하는 것을 목적으로 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제2조(기본이념)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 지식재산 관련 정책을 다음 각 호의 기본이념에 따라 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 저작자, 발명가, 과학기술자 및 예술가 등 지식재산 창출자가 창의적이고 안정적으로 활동할 수 있도록 함으로써 우수한 지식재산의 창출을 촉진한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산을 효과적이고 안정적으로 보호하고, 그 활용을 촉진하는 동시에 합리적이고 공정한 이용을 도모한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산이 존중되는 사회환경을 조성하고 전문인력과 관련 산업을 육성함으로써 지식재산의 창출ㆍ보호 및 활용을 촉진하기 위한 기반을 마련한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 지식재산에 관한 국내규범과 국제규범 간의 조화를 도모하고 개발도상국의 지식재산 역량 강화를 지원함으로써 국제사회의 공동 발전에 기여한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제3조(정의)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 이 법에서 사용하는 용어의 뜻은 다음과 같다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. “지식재산”이란 인간의 창조적 활동 또는 경험 등에 의하여 창출되거나 발견된 지식ㆍ정보ㆍ기술, 사상이나 감정의 표현, 영업이나 물건의 표시, 생물의 품종이나 유전자원(遺傳資源), 그 밖에 무형적인 것으로서 재산적 가치가 실현될 수 있는 것을 말한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. “신지식재산”이란 경제ㆍ사회 또는 문화의 변화나 과학기술의 발전에 따라 새로운 분야에서 출현하는 지식재산을 말한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. “지식재산권”이란 법령 또는 조약 등에 따라 인정되거나 보호되는 지식재산에 관한 권리를 말한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. “공공연구기관”이란 다음 각 목의 어느 하나에 해당하는 기관을 말한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    가. 국가 또는 지방자치단체가 직접 설립ㆍ운영하는 연구기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    나. 「고등교육법」 제2조에 따른 학교</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    다. 「정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」 제2조에 따른 정부출연연구기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    라. 「과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」 제2조에 따른 과학기술분야 정부출연연구기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    마. 「지방자치단체출연 연구원의 설립 및 운영에 관한 법률」 제2조에 따른 지방자치단체출연연구원</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    바. 「특정연구기관 육성법」 제2조에 따른 특정연구기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    사. 「산업기술혁신 촉진법」 제42조에 따른 전문생산기술연구소</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    아. 「공익법인의 설립ㆍ운영에 관한 법률」 제2조에 따른 공익법인 중 지식재산의 창출이나 활용과 관련된 업무를 수행하는 기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="79"><TEXT CharShape="6"><CHAR>    자. 「공공기관의 운영에 관한 법률」 제4조에 따라 공공기관으로 지정된 기관 중 지식재산의 창출이나 활용과 관련된 업무를 수행하는 기관</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. “사업자등”이란 공공연구기관 외의 자로서 지식재산과 관련된 사업을 하거나 연구ㆍ지원 등의 업무를 수행하는 자를 말한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제4조(국가 등의 책무)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 국가는 이 법의 목적과 기본이념에 따라 지식재산의 창출ㆍ보호 및 활용을 촉진하고 그 기반을 조성하기 위한 종합적인 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 지방자치단체는 제1항에 따른 국가의 시책과 지역적 특성을 고려하여 지역별 지식재산 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 공공연구기관과 사업자등은 우수한 지식재산의 창출과 적극적인 활용 및 소속 연구자와 창작자의 처우 개선을 위하여 노력하여야 하며, 그 성과에 대한 정당한 보상이 이루어지도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 국가, 지방자치단체, 공공연구기관 및 사업자등은 지식재산의 창출ㆍ보호 및 활용 촉진과 그 기반 조성을 위한 정부의 시책이 효과적으로 추진될 수 있도록 서로 협력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제5조(다른 법률과의 관계)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 지식재산과 관련되는 다른 법률을 제정하거나 개정하는 경우에는 이 법의 목적과 기본이념에 맞도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 지식재산 정책의 추진에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>       제2장 지식재산 정책의 수립 및 추진 체계
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제6조(국가지식재산위원회의 설치 및 기능)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 지식재산에 관한 정부의 주요 정책과 계획을 심의ㆍ조정하고 그 추진상황을 점검ㆍ평가하기 위하여 대통령 소속으로 국가지식재산위원회(이하 “위원회”라 한다)를 둔다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원회는 다음 각 호의 사항을 심의ㆍ조정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 제8조에 따른 국가지식재산 기본계획 및 제9조에 따른 국가지식재산 시행계획의 수립ㆍ변경에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 제10조에 따른 기본계획 및 시행계획의 추진상황에 대한 점검ㆍ평가에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산 관련 재원의 배분방향 및 효율적 운용에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 이 법에 따른 지식재산의 창출ㆍ보호 및 활용 촉진과 그 기반 조성을 위한 시책에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 그 밖에 지식재산의 창출ㆍ보호 및 활용 촉진과 그 기반 조성을 위하여 위원장이 필요하다고 인정하거나 관계 중앙행정기관의 장 또는 특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치도지사(이하 “시ㆍ도지사”라 한다)가 요청하는 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 위원회는 위원회가 심의ㆍ조정하려는 사항이 다른 법률에 따라 수립된 정책이나 계획과 관련된 경우에는 미리 해당 정책이나 계획을 주관하는 기관과 협의하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제7조(국가지식재산위원회의 구성 및 운영)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 위원회는 위원장 2명을 포함한 40명 이내의 위원으로 구성한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원장은 국무총리와 제3항제2호의 위원 중에서 대통령이 지명하는 사람이 된다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 위원은 다음 각 호의 사람이 된다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 관계 중앙행정기관의 장 및 정무직 공무원 중에서 대통령령으로 정하는 사람</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산에 관한 학식과 경험이 풍부한 사람 중에서 대통령이 위촉하는 사람</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 제3항제2호의 위원의 임기는 2년으로 하며, 한 차례만 연임할 수 있다. 다만, 위원의 사임 등으로 새로 위촉된 위원의 임기는 전임(前任)위원 임기의 남은 기간으로 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 위원장은 각자 위원회를 대표하며, 국무총리인 위원장은 위원회의 회의를 소집하고 그 의장이 되며, 국무총리인 위원장이 부득이한 사유로 직무를 수행할 수 없을 때는 제2항에 따라 대통령이 지명한 위원장이 그 직무를 대행한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑥ 위원회의 업무를 효율적으로 수행하기 위하여 위원회에 분야별 전문위원회를 둘 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑦ 그 밖에 위원회와 전문위원회의 구성 및 운영에 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제8조(국가지식재산 기본계획의 수립)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 이 법의 목적을 효율적으로 달성하기 위하여 5년마다 지식재산에 관한 중장기 정책 목표 및 기본방향을 정하는 국가지식재산 기본계획(이하 “기본계획”이라 한다)을 수립하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 기본계획을 수립하거나 변경하려는 경우에는 위원회의 심의를 거쳐 확정하고, 지체 없이 이를 공고하여야 한다. 다만, 대통령령으로 정하는 경미한 사항을 변경하려는 경우에는 그러하지 아니하다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 기본계획에는 다음 각 호의 사항이 포함되어야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산 정책의 목표와 기본방향</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산 및 신지식재산의 창출ㆍ보호 및 활용 전략</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 산업계, 학계, 연구계, 문화예술계 등의 지식재산 창출역량 강화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 외국에서의 대한민국 국민(국내법에 따라 설립된 법인ㆍ단체를 포함한다. 이하 같다)의 지식재산 보호에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 지식재산 침해행위로 인한 국민의 안전 등에 대한 위해(危害) 방지 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  6. 지식재산의 공정한 이용 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  7. 지식재산 친화적 사회환경 조성에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  8. 지식재산의 국제표준화에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  9. 지식재산 관련 정보의 수집ㆍ분석 및 제공에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  10. 중소기업, 농어업인 등의 지식재산 역량 강화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  11. 경제적ㆍ사회적 소외 계층의 지식재산 접근 지원에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  12. 지식재산 전문인력의 양성 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  13. 지식재산 관련 제도의 국제화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  14. 지식재산 정책의 추진을 위한 정부예산 투입 계획</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  15. 지식재산 관련 문화ㆍ교육ㆍ금융 제도 등의 개선을 위한 법령 정비 계획</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  16. 그 밖에 지식재산의 창출ㆍ보호 및 활용 촉진과 그 기반 조성에 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 기본계획의 수립과 변경에 관한 세부 절차는 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제9조(국가지식재산 시행계획의 수립)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 관계 중앙행정기관의 장과 시ㆍ도지사로부터 제8조의 기본계획에 따른 추진계획을 제출받아 매년 국가지식재산 시행계획(이하 “시행계획”이라 한다)을 수립하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 시행계획을 수립하거나 변경하려는 경우에는 위원회의 심의를 거쳐 확정한다. 다만, 대통령령으로 정하는 경미한 사항을 변경하려는 경우에는 그러하지 아니하다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 시행계획의 수립과 변경에 관한 세부 절차는 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제10조(추진상황의 점검 및 평가)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 위원회는 기본계획과 시행계획의 추진상황을 점검ㆍ평가하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원회는 기본계획과 시행계획의 원활한 추진을 위하여 필요한 경우에는 관계 중앙행정기관의 장이나 시ㆍ도지사에게 제1항에 따른 점검ㆍ평가 결과를 반영한 개선의견을 통보할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제2항에 따라 개선의견을 통보받은 관계 중앙행정기관의 장이나 시ㆍ도지사는 그 개선에 필요한 계획을 수립하여 위원회에 제출하여야 하며, 위원회는 해당 기관이 제출한 계획의 이행 상황을 점검하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 그 밖에 기본계획 및 시행계획의 추진상황을 점검ㆍ평가하기 위하여 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제11조(국가지식재산위원회의 사무기구)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 위원회의 업무를 지원하기 위하여 위원회에 사무기구를 둘 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원회는 위원회의 업무를 효율적으로 수행하기 위하여 필요한 경우에는 중앙행정기관, 지방자치단체, 그 밖의 관계 기관ㆍ단체 등의 장에게 그 소속 공무원 또는 임직원의 파견 또는 겸임을 요청할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제1항에 따른 사무기구의 구성 및 운영에 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제12조(지식재산정책책임관의 지정)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 관계 중앙행정기관의 장과 시ㆍ도지사는 해당 기관의 지식재산 정책을 효율적으로 수립ㆍ시행하기 위하여 소속 공무원 중에서 지식재산정책책임관을 지정할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제13조(관계 법령의 제정ㆍ개정 등의 통보)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 중앙행정기관의 장과 시ㆍ도지사는 지식재산과 관계된 법령 및 조례를 제정 또는 개정하려거나, 주요 정책 및 계획(이하 이 조에서 “주요정책등”이라 한다)을 수립 또는 변경하려는 경우에는 위원회에 그 내용을 통보하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원회는 제1항에 따라 통보받은 법령, 조례 또는 주요정책등에 대하여 의견을 제시할 수 있으며, 중앙행정기관의 장이나 시ㆍ도지사는 위원회의 의견이 반영될 수 있도록 노력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제1항의 통보 및 제2항의 의견 제시에 관한 세부 절차는 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제14조(관계 기관 등에 대한 협조 요청)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 위원회는 위원회의 업무 수행을 위하여 필요한 경우에는 중앙행정기관, 지방자치단체, 그 밖의 관계 기관ㆍ단체나 전문가에게 자료 또는 의견의 제출을 요청하거나 조사 또는 연구를 의뢰할 수 있다. 이 경우 위원회는 예산의 범위에서 필요한 경비를 지급할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제15조(연차보고서)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 매 회계연도 경과 후 3개월 이내에 해당 회계연도의 시행계획 추진실적에 대한 연차보고서를 작성하여 국회에 제출하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제1항에 따른 연차보고서의 작성 등에 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>       제3장 지식재산의 창출ㆍ보호 및 활용의 촉진
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>         제1절 지식재산의 창출 촉진
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제16조(지식재산의 창출 촉진)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 우수한 지식재산의 창출을 촉진하기 위하여 다음 각 호의 사항을 포함하는 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산 관련 통계 및 지표의 조사ㆍ분석</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 미래 지식재산의 발전 추세 및 관련 산업ㆍ시장에 대한 전망</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 공공연구기관 및 사업자등의 지식재산 역량을 강화하기 위한 지원</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 연구자, 창작자 및 지식재산 관리자의 역량을 강화하기 위한 교육</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 우수한 지식재산의 창출을 촉진하기 위한 법ㆍ제도 개선</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  6. 공공연구기관 및 사업자등의 국내외 공동연구개발 활성화 지원</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  7. 그 밖에 우수한 지식재산의 창출을 촉진하기 위하여 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제17조(연구개발과 지식재산 창출의 연계)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 연구개발 결과가 우수한 지식재산의 창출로 이어질 수 있도록 지원하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 연구개발의 기획, 관리, 평가 등의 전 과정에서 관련 지식재산 정보가 활용될 수 있도록 지원하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 연구개발에 대한 평가가 지식재산 창출 성과를 기준으로 이루어질 수 있도록 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제18조(신지식재산 창출 등 지원)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 신지식재산의 창출ㆍ보호 및 활용을 촉진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 신지식재산의 창출ㆍ보호 및 활용 촉진을 위하여 신지식재산의 현황을 조사ㆍ분석하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 신지식재산이 적절히 보호될 수 있도록 관계 법령을 정비하고, 이와 관련된 기술적 보호수단의 개발과 이용 활성화를 위한 지원 등 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제19조(지식재산 창출자에 대한 보상)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 지식재산을 창출한 개인이 정당한 보상을 받을 수 있는 사회적 환경과 기반을 마련하고, 이에 필요한 시책을 수립하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>         제2절 지식재산의 보호 강화
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제20조(지식재산의 권리화 및 보호 촉진)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 지식재산이 신속ㆍ정확하게 권리로 확정되고 효과적으로 보호될 수 있도록 다음 각 호의 사항을 포함하는 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산의 심사ㆍ심판ㆍ등록 체계 등의 정비 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산의 보호를 위한 법적ㆍ행정적 조치 강화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산의 보호를 위한 보안 체계와 정보시스템 구축 등 기술적 조치 강화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 국내외 지식재산 보호 관계 기관ㆍ단체와의 협력 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 지식재산의 권리화 및 보호 관련 전문인력 확보 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  6. 그 밖에 지식재산의 권리화 및 보호 촉진을 위하여 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제21조(소송 체계의 정비 등)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산 관련 분쟁이 신속하고 공정하게 해결되어 권리 구제가 충실히 이루어질 수 있도록 소송 절차를 간소화하는 등 제도 개선에 노력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산 관련 분쟁해결의 전문성을 확보하기 위하여 소송 체계를 정비하고 관련 인력의 전문성을 강화하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제22조(재판 외 분쟁해결 절차 활성화)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 지식재산 관련 분쟁이 신속하고 원만하게 해결될 수 있도록 조정ㆍ중재 등 재판 외의 간단하고 편리한 분쟁해결 절차를 활성화하고, 전문성을 제고하며, 쉽게 이용될 수 있도록 안내와 홍보를 강화하는 등 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제23조(지식재산권 침해행위에 대한 대응)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산권을 침해하는 행위에 대한 단속, 점검 등 집행 활동을 강화하기 위하여 다음 각 호의 사항을 포함하는 대응방안을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산 불법 유출과 지식재산권 침해를 방지하기 위한 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산권 침해 물품을 제조ㆍ유통 또는 수출입하는 행위를 근절하기 위한 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산권 침해를 방지하기 위한 관계 기관 간의 협력 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 그 밖에 지식재산권 침해행위에 대응하기 위하여 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 위원회와 관계 중앙행정기관의 장은 제1항의 대응방안을 마련하기 위하여 정보ㆍ수사 기관의 장에게 필요한 정보나 자료의 수집ㆍ제공, 그 밖의 협조를 요청할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제24조(외국에서의 지식재산 보호)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 대한민국 국민이 보유하는 지식재산이 외국에서 적절하게 보호될 수 있도록 노력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 대한민국 국민이 보유하는 지식재산이 외국에서 적절하게 보호받지 못하는 경우 직권 또는 당사자의 요청에 따라 그에 대한 현황 조사, 해당 외국정부에 대한 조치 요구, 국제기구 및 관련 단체와의 협력 등 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>         제3절 지식재산의 활용 촉진
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제25조(지식재산의 활용 촉진)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산의 이전(移轉), 거래, 사업화 등 지식재산의 활용을 촉진하기 위하여 다음 각 호의 사항을 포함하는 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산을 활용한 창업 활성화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산의 수요자와 공급자 간의 연계 활성화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산의 발굴, 수집, 융합, 추가 개발, 권리화 등 지식재산의 가치 증대 및 그에 필요한 자본 조성 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 지식재산의 유동화(流動化) 촉진을 위한 제도 정비 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 지식재산에 대한 투자, 융자, 신탁, 보증, 보험 등의 활성화 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  6. 그 밖에 지식재산 활용 촉진을 위하여 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 국가, 지방자치단체 또는 공공연구기관이 보유ㆍ관리하는 지식재산의 활용을 촉진하기 위하여 노력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제26조(지식재산서비스산업의 육성)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산 관련 정보의 분석ㆍ제공, 지식재산의 평가ㆍ거래ㆍ관리, 지식재산 경영전략의 수립ㆍ자문 등 지식재산에 관련된 서비스 산업(이하 “지식재산서비스산업”이라 한다)을 육성하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산서비스산업에 대하여 창업 지원, 인력 양성, 정보 제공 등 필요한 지원을 할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 우수한 지식재산 서비스를 제공할 수 있는 역량과 실적을 보유한 사업자등을 선정하여 포상하고, 관련 정부사업의 참여에 대한 혜택을 제공하는 등 필요한 지원을 할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 정부는 지식재산서비스산업에 대한 분류 체계를 마련하고, 관련 통계를 수집ㆍ분석하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제27조(지식재산의 가치 평가 체계 확립 등)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산에 대한 객관적인 가치 평가를 촉진하기 위하여 지식재산 가치의 평가 기법 및 평가 체계를 확립하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 제1항에 따른 평가 기법 및 평가 체계가 지식재산 관련 거래ㆍ금융 등에 활용될 수 있도록 지원하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 지식재산의 가치 평가를 활성화하기 위하여 관련 인력을 양성하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제28조(지식재산의 공정한 이용 질서 확립)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산의 공정한 이용을 촉진하고, 지식재산권의 남용을 방지하기 위하여 노력 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 공동의 노력으로 창출된 지식재산이 당사자 간에 공정하게 배분될 수 있도록 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 대기업과 중소기업 간의 불공정한 지식재산의 거래를 방지하고 서로 간의 협력을 촉진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>       제4장 지식재산의 창출ㆍ보호 및 활용 촉진을 위한 기반 조성
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제29조(지식재산 친화적 사회환경 조성)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산이 존중되는 사회환경을 조성하기 위하여 교육, 홍보, 문화행사 등 지식재산에 대한 국민의 인식 제고를 위한 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 각 지역의 지식재산 경쟁력을 높이기 위하여 지역별 지식재산의 창출ㆍ보호 및 활용 촉진을 위한 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제29조의2(지식재산의 날)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 지식재산의 창출ㆍ보호 및 활용에 대한 국민의 이해와 관심을 높이기 위하여 매년 9월 4일을 지식재산의 날로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산의 날의 취지에 적합한 기념행사를 개최할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [본조신설 2017. 12. 19.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제30조(지식재산의 국제표준화)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 연구개발사업에서 창출 중이거나 창출된 지식재산이 「국가표준기본법」 제3조제2호에 따른 국제표준과 연계될 수 있도록 연구의 기획 단계에서부터 표준의 획득에 이르는 전 과정에 걸쳐 필요한 지원시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산의 국제표준화를 지원하기 위하여 국제표준 관련 동향 정보를 수집ㆍ분석ㆍ제공하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제31조(지식재산 정보의 수집ㆍ분석 및 제공 등)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산 정보의 생산ㆍ유통 및 활용을 촉진하기 위하여 다음 각 호의 사항을 포함하는 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 지식재산 정보의 수집ㆍ분석ㆍ가공 및 데이터베이스의 구축 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 지식재산 정보의 분류 체계 마련 및 지식재산 분류표의 작성ㆍ보완 등에 관한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 지식재산 정보망의 구축 및 지식재산 전문 도서관의 설립 등 정보에 대한 접근성 제고 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  4. 지식재산 정보의 수집ㆍ분석 및 제공 활성화를 위하여 필요한 연구개발 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  5. 지식재산 정보의 관리ㆍ유통 전문 기관 육성 방안</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  6. 그 밖에 지식재산 정보의 수집ㆍ분석 및 제공을 위하여 필요한 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 제1항에 따른 시책을 추진할 때에 개인정보나 국가기밀 등이 보호될 수 있도록 필요한 조치를 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제32조(경제적ㆍ사회적 약자에 대한 지원)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 중소기업, 농어업인, 개인 등의 지식재산 창출ㆍ보호 및 활용 역량을 강화하기 위하여 필요한 지원을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산의 창출ㆍ보호 및 활용 촉진에 있어서 전략적인 경영활동을 모범적으로 수행하고 있는 중소기업을 대상으로 대통령령으로 정하는 바에 따라 지식재산 경영인증을 할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 장애인, 노인 등 지식재산에 접근하기 어려운 사람들이 지식재산을 쉽게 이용할 수 있도록 필요한 지원을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제33조(지식재산 교육 강화)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 국민의 지식재산에 대한 인식과 지식재산 창출 및 활용 역량을 높이기 위하여 지식재산에 관한 교육을 강화하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 「초ㆍ중등교육법」 제2조 및 「고등교육법」 제2조에 따른 학교의 정규 교육과정에 지식재산에 관한 내용이 반영되도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 지식재산에 특성화된 학교를 육성하고, 지식재산 관련 학과나 강좌가 개설될 수 있도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 정부는 「평생교육법」 제2조에 따른 평생교육기관의 교육과정에 지식재산에 관한 이해와 관심을 넓힐 수 있는 내용이 포함될 수 있도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제34조(지식재산 전문인력 양성)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산의 창출ㆍ보호 및 활용과 그 기반 조성에 필요한 전문인력을 양성하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 여성 지식재산 전문인력의 양성 및 활용방안을 마련하고 여성이 지식재산 부문에서 그 자질과 능력을 충분히 발휘할 수 있도록 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 지식재산 전문인력을 양성하기 위하여 산업계, 학계, 연구계 및 문화예술계 등과 협력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 정부는 지식재산 전문인력을 양성하기 위하여 공공연구기관이나 사업자등에 대하여 교육설비, 교재개발, 교육시행 등에 필요한 비용의 전부 또는 일부를 지원할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제35조(지식재산 연구기관 등의 육성)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 지식재산 관련 제도나 정책을 전문적으로 조사ㆍ연구하는 연구기관을 육성하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 지식재산의 창출ㆍ보호ㆍ활용, 진흥ㆍ학술활동과 그 기반 조성을 목적으로 설립된 법인이나 단체를 육성하여야 한다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;개정 2022. 6. 10.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 제1항의 연구기관이나 제2항의 법인ㆍ단체에 대하여 그 운영이나 사업추진에 필요한 경비의 전부 또는 일부를 출연하거나 보조할 수 있다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;개정 2022. 6. 10.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 제1항에 따른 연구기관과 제2항에 따른 육성 대상 법인 또는 단체의 범위 등에 관하여 필요한 사항은 대통령령으로 정한다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;신설 2022. 6. 10.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제36조(지식재산 제도의 국제화)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 정부는 국내외에서의 지식재산의 창출ㆍ보호 및 활용이 효과적으로 이루어질 수 있도록 국내의 지식재산 제도가 국제적 합의사항 및 규범과 조화를 이루는 데 필요한 시책을 마련하여 추진하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 정부는 국제적으로 조화될 수 있는 지식재산 제도를 마련하기 위하여 외국정부, 국제기구 등과 협력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 정부는 외국정부, 국제기구 등과의 조약ㆍ협약 등 국제적 합의가 국내의 지식재산 관련 제도ㆍ정책이나 시장에 미칠 수 있는 영향을 조사ㆍ분석하여 적절한 대책을 마련하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제37조(개발도상국에 대한 지원)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 개발도상국의 빈곤퇴치, 경제성장 및 문화발전에 기여하기 위하여 개발도상국의 지식재산 창출ㆍ활용 역량을 높이는 데 필요한 지원을 할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제38조(남북 간 지식재산 교류협력)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 정부는 북한의 지식재산 관련 제도ㆍ정책이나 현황 등에 대한 조사ㆍ연구 활동을 추진함으로써 남북 간 지식재산 분야의 상호교류와 협력을 증진할 수 있도록 노력하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="76"><CHAR>       제5장 보칙
+</CHAR></TEXT><TEXT CharShape="75"><CHAR>&nbsp;</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제39조(비밀 누설의 금지)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 위원회 및 전문위원회의 위원 또는 사무기구의 직원이나 그 직에 있었던 사람, 파견ㆍ위촉ㆍ위탁 등에 의하여 위원회의 업무를 수행하거나 수행하였던 사람은 업무처리 중 알게 된 비밀을 누설하여서는 아니 된다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제40조(벌칙 적용에서의 공무원 의제)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 위원회 및 전문위원회의 위원, 사무기구의 직원 중에서 공무원이 아닌 사람은 「형법」 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 본다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="2"><TEXT CharShape="7"><CHAR>&nbsp;&nbsp;&nbsp;&nbsp;부칙&nbsp;</CHAR></TEXT><TEXT CharShape="8"><CHAR>&nbsp;&lt;제18873호, 2022. 6. 10.&gt; &nbsp;</CHAR></TEXT></P>
+<P ParaShape="21"><TEXT CharShape="6"><CHAR>이 법은 공포 후 6개월이 경과한 날부터 시행한다.</CHAR></TEXT><TEXT CharShape="6"/></P>
+
+{마지막표지}
+</SECTION>
+</BODY>
+<TAIL><BINDATASTORAGE><BINDATA Size="21036" Encoding="Base64" Id="1">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dG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAAA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cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=</BINDATA>
+<BINDATA Size="5721" Encoding="Base64" Id="2">Qk2iBwAAAAAAADYAAAAoAAAAGQAAABkAAAABABgAAAAAAGwHAAASFwAAEhcAAAAAAAAAAAAA/////////////////v7+/v7+/v7+/f7+/f7+/P39u9fMiYJOh1sLilgGmmwquJZr4NHB/f38/f7+//7+////////////////////AP////////7+/v7+/v7+/vz6+sq2pdfGvP7+/pjCsnlnH4dVAIhVAIhVAIdVAIhVAIhWAZxxL9G+o/z6+f7+//7+/v7+/v///////wD////////+/v7+/v7n3diMYTirim39/f3J4txpcjmHVQCJVgCJVgCJVgCJVgCJVgCJVgCHVQCHVQCfdjfq4NX9/v79/v7+/v7///8A/v7+/v7+/f7+2cq/dkQQcj0I6uLd/f7+gburhFwOiFUAiVYAiFYAiFYAiFYAiVYAiFYAh1UAiFUAh1UAjl4P28u3/f7+/v7+////AP3+/v7+/ung3HZEEW85AIJRHfr4+P7+/nG4pI9fBZBcAI1aAIlXAIhWAIhWAIdWAIdWAIhWAIlWAIlWAIlWAI5dD+vh1/7+/v///wD+/v759vWSZz53PgB8QgCLVBj49fP+/v6Ey7mbcBOgZgCeZQCZYgCTXgCMWQCJVgCIVgCJVgCJVgCJVgCJVgCIVgCheTz59/T///8A/v7+5tvTgEYEhEgAiEoAjE0B3su7/v7+tuXafZhVq24Aqm0Ap2wAo2kAnWQAlV8Ai1kAiFUAh1YAiVYAiVYAh1UAh1UAw6mE/f7+APz7+v38/LqUb45OAJFPAJJQAKhyN/n29Pj8+23OtZKSQbFxALBwAK1vAKltAKNpAJxjAJFbAIhWAIlWAIlWAIdVAIdVAI9fEvPt6ADfza3p3MT8+/vAmXaUUgCWUwCXUwDEnHf+/v7h9fBUzbF0rneqgR2ycgCvcACsbgClagCdZACQXACHVgCIVgCIVQCJVgCIVgDPup4AyqliuIkY5dKw/fz74My9toRQoF8aomIjzquP/Pv65/fzjd7LUMqtcK92o4QksHEArG8ApmsAnGQAjloAh1YAiFYAiVYAh1UAsIxXALyPKbWBALmEAsmhTufVtfr49vTs6Ni8qb+Tcr2NbObVyP79/dz173XXwVDLroGiXrFzBKxuAKVqAJpiAItYAIhWAIlWAIdVAJZnIAC3hAe4hAG/jCDElD3Imk7LoFzau43o1Lnz6N359/Ts4Njq3NX8+vn0+/mC28dWzrR4q3GxcgGrbgCiaACUXwCIVgCJVgCIVQCJVwIAt4MAvIkRw5M6yJpOy6BdzqVp0Klx0qx30q15061627yU7N3M/Pv6/v/+2/TvaNO8V861lpA9r3AAqGwAnWQAjFkAh1YAh1YAiFYAALmGA8COJ8aYR8ufWs+ladKqddu8k+XQte7h0fbw6Pz8+/r48/z6+P7+/vf8+37axmbSu22/lrBzBKxuAKFoAJJdAIdWAIhVAIhWAADCkSfDkjbIm1HZuYrs3Mb59vL9/f369u7y69ns4cbs3sD28OP+/v79/v79/v6Q389y1sFh0bmjjTmucACmawCYYQCJVwCHVQCQYBUA0Kpb069t9Ozg/v7++PXs7+PI6Niz59iz6ty89O7g/f38/v7+/v/+/v7+9vz7j9/Oe9nFa9S9i6tzsHEAqWwAnWQAi1gAh1UAp4FGAOnYu/z7+fv69+nasuLKkuTRo+bWr+zewPr59f7+/v7+/v7+/v7+/v7//9n07o7fzoDbyHLWwH+5kLJzBatuAJ9mAI1aAIdWAMSqhgD9/v749Ongx4HexIDhy5Hk0KHs4MP8+/j+/v7////+///+///+/v7v+ven5dmR4NCD28lz1sGCvpi0dg2rbgCgZgCPWwCKWQfp39QA/f7+7+PA2rtj3cJ44ciL5dKj/Pv5/v7+/v7+/v///v7+8/v51/LtrubbnuLVkeDQhNzJdNfBhbmQtHYNq24AoGcAj1sAsY9d/f7+AP7+/vv69t3Cb9u+bN7Ef+bTpP7+/v3+/uL18svv573r4bTo3q7m26Xk2Jrh1I7fz4Dbx3HWwZeqdbN1DKtuAKBmAJlpGfDp4/7+/gD9/v79/v3z6tDZul3cwHLgyIn7+vb8/f2r5tqp5dqq5tqp5dmk5Nic4tWS39GH3ct72cZr1L6vkEaycwOqbQCeZQLXxKr+/v7+/v4A/////////f7969yu2bpf3L9w7eC8/f7+vuvjmOHTm+LUmuHUluHSkN/Qid3MftvIctfCgMCbt3sZsHAAqGwBza+D/fz8/v7+////AP////////3+/v3+/vDlxNq9YNu+avTt2fr9/Kzn24fey4nezIbdyoHcyXnaxnHXwW7NsbGIMrJzAbF2D9zDov7+/f7+/v7+/v///wD////////////////+/v759u7m05nbv2j28eD9/v3R8uuY49Ny2cNu18Fn1b5yx6OtiSu1dgjMomHz6uD+/v7+/v7///////////8A/////////////////v7+/v7+/f7++fbt7+K//Pr2/f7+/f7+9vv6z+PWrrOHyZ1V3L2P9Ovj/v7+/v7+/v7+/v7+////////////AA==</BINDATA>
+<BINDATA Size="252903" Encoding="Base64" Id="3">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dG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAAA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cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=</BINDATA>
+{국가법령이미지로고}
+{이미지파일}
+<BINDATA Size="252903" Encoding="Base64" Id="4">iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABaklEQVR42u2XS26EQAxEC82ilxyBmwwXGwkkLgY36SOw7MUIp8qMFOaTZdxKREsTQd7GKpfLDeyng5Oc5A+QDOCS0diU09aOfGujCX+T2Yxbh15PWzgpaCdLi15JMq51SAFr01NNgo4FViHeH/5zRJrb984FEPdouVIY/nl37+8TPzmZpuTDBAeQ7JokWwfHR3WCiNkim1CYjsLcURqLJjQla9u8Sbih9OHEFgpjGwY9XZ7VCSHfeW0UZuziid7vbA1rK/0KDWswYW0cUUlknlqHrAoiBtWWZvhhaMcTHnVF6og8Z0gEoTkojCkpbOacooknV6pCZ055j+qDe6NI84gLbS9ujN6iiZvDI9OrPKgTRPad5fbUgDwWVyTxrGJI+DWynWqQ/Q7LKckyRz5kVRTxe6OiGuadqkRok4G36NUvsjUI14biYtPejifqj2wCfsus6F5u0RHE97bK2r8kXtwbQM6v95P8N/IFbBJSm/sk+FsAAAAASUVORK5CYII=</BINDATA>
+</BINDATASTORAGE>
+</TAIL>
+</HWPML>
