@@ -33,13 +33,13 @@
 '지적(知的)'재산권이 '지식(知識)'재산권으로 법령에 근거해 명칭이 변경된 것으로,<br> 
 과거에는 지적재산권으로 사용되었고, 현재는 더 포괄적인 의미인 지식재산권을 사용하고 있다.<br>
 
-<ins>지식재산권 (知識財産權)과 지적재산권 (知的財産權) 모두 영문명은 동일하게 Intellectual Property Rights</ins>
-**Article 53(1) : 범용 AI 모델 제공자의 의무(Obligations for providers of general-purpose AI models)**
+<ins>지식재산권 (知識財産權)과 지적재산권 (知的財産權) 모두 영문명은 동일하게 Intellectual Property Rights</ins><br>
+**Article 53(1) : 범용 AI 모델 제공자의 의무(Obligations for providers of general-purpose AI models)** <br>
 (c) 범용 AI 모델의 제공자는,저작권 및 저작인접권에 관한 유럽연합 법령을 준수하도록 하는 정책을 마련해야 하며,특히 EU 저작권 지침(Directive (EU) 2019/790) 제4조 제3항에 따라 표시된 권리 유보(opt-out)를 식별하고 이를 준수해야 하고, 지식재산권을 보호해야 한다.(The provider of a general-purpose AI model shall put in place a policy to ensure compliance with Union law on copyright and related rights, in particular to identify and comply with reservations of rights expressed pursuant to Article 4(3) of Directive (EU) 2019/790, and to protect <ins>intellectual property rights</ins>.)<br>
 (d) 제공자는 범용 AI 모델의 학습에 사용된 데이터에 관하여 그 일반적인 성격을 이해할 수 있을 정도로 충분히 상세한 요약을 공개해야 한다. 다만, 이 요약은 영업비밀(trade secrets) 및 지식재산권을 포함한 기타 기밀 정보의 보호 필요성을 고려하여 작성되어야 한다.(The summary shall be sufficiently detailed to enable the public to understand the general nature of the data used, while taking into account the need to protect trade secrets and other confidential information, including <ins>intellectual property rights</ins>.)<br>
-**Article 50(2) : 특정 AI 시스템에 대한 투명성 의무(Transparency obligations for certain AI systems)**
+**Article 50(2) : 특정 AI 시스템에 대한 투명성 의무(Transparency obligations for certain AI systems)** <br>
 본 조에 따른 투명성 의무는 지식재산권(영업비밀을 포함한다)의 보호를 침해하지 않는 방식으로 이행되어야 한다.(Those obligations shall be implemented in a manner that does not undermine the protection of <ins>intellectual property rights</ins>, including trade secrets.)<br>
-**Recital 60**
+**Recital 60** <br>
 이 규정은 저작권 및 저작인접권을 포함한 유럽연합의 지식재산권 법령에 영향을 미치지 않아야 한다. 따라서 본 규정은 기존의 지식재산권 보호 체계를 변경하거나 약화시키는 방식으로 해석되어서는 안 된다.<br>
 (This Regulation should be without prejudice to Union law on <ins>intellectual property rights</ins> and in particular copyright and related rights.)<br>
 
