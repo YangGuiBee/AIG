@@ -11,11 +11,11 @@
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-4.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-4f.PNG'>
 
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-5.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-5f.PNG'>
 
 <br>
 
