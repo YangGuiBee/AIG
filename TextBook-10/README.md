@@ -1,4 +1,3 @@
-
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-1.PNG'>
 
 <br>
@@ -18,9 +17,6 @@
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AIG10-5f.PNG'>
 
 <br>
-
-
-
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/AI-law_all_1.png'>
 
@@ -54,18 +50,22 @@
 ### 지식재산권 vs 지적재산권
 '지적재산권'은 사람의 지적 창조물, 즉 정신적 창작물 및 연구 결과, 창작된 방법 등을 인정하는 독점적 권리를 말한다.<br>
 정보 사회 및 지식기반 경제 체계가 강화되는 사회 구조 속에서 '지식재산권(知識財産權)'에 대한 공중의 관심과 사회적 중요성이 점차 증가하고 있다.<br>
-지식재산권은 흔히 과거부터 널리 사용해 온 지적재산권과 한 글자 차이로 인해 그 개념에 차이가 있을 것으로 생각되지만,<br> 
 실제로는 동일한 의미를 가진 단어로, 국립국어원 표준국어대사전은 '지적재산권을 지식재산권의 전(前) 용어'로 정의하고 있다.<br> 
 '지적(知的)'재산권이 '지식(知識)'재산권으로 법령에 근거해 명칭이 변경된 것으로,<br> 
 과거에는 지적재산권으로 사용되었고, 현재는 더 포괄적인 의미인 지식재산권을 사용하고 있다.<br>
 
-<ins>지식재산권 (知識財産權)과 지적재산권 (知的財産權) 모두 영문명은 동일하게 Intellectual Property Rights</ins><br>
-**Article 53(1) : 범용 AI 모델 제공자의 의무(Obligations for providers of general-purpose AI models)** <br>
+| 구분 | 지식재산권(知識財産權) | 지적재산권(知的財産權)|
+| :--- | :--- | :--- | 
+| 사전적 의미<br>(표준국어대사전) | 인간의 지적 활동으로 창달된 유무형의 결과물에 대하여 법령 또는 조약 등에 따라 인정하고 보호하는 권리 | 인간의 지적 창작물에 부여된 재산권. 저작권과 산업 재산권 등을 통틀어 이르는 말 | 
+| 법률적 정의 | 지식재산 기본법 제3조 제1호 및 제3호<br>법령 또는 조약 등에 따라 인정되거나 보호되는 지식재산에 관한 권리 | 과거 법령 및 구 국제조약에서 사용하던 용어로, 현재 국내 법체계상 공식 명칭은 '지식재산권'으로 통일됨 | 
+| 영문명 | Intellectual Property Rights | Intellectual Property Rights | 
+
+**<ins>Article 53(1) : 범용 AI 모델 제공자의 의무(Obligations for providers of general-purpose AI models)</ins>** <br>
 (c) 범용 AI 모델의 제공자는,저작권 및 저작인접권에 관한 유럽연합 법령을 준수하도록 하는 정책을 마련해야 하며, 특히 EU 저작권 지침 제4조 제3항에 따라 표시된 권리 유보를 식별하고 이를 준수해야 하고, 지식재산권을 보호해야 한다.(The provider of a general-purpose AI model shall put in place a policy to ensure compliance with Union law on copyright and related rights, in particular to identify and comply with reservations of rights expressed pursuant to Article 4(3) of Directive (EU) 2019/790, and to protect <ins>intellectual property rights</ins>.)<br>
 (d) 제공자는 범용 AI 모델의 학습에 사용된 데이터에 관하여 그 일반적인 성격을 이해할 수 있을 정도로 충분히 상세한 요약을 공개해야 한다. 다만, 이 요약은 영업비밀 및 지식재산권을 포함한 기타 기밀 정보의 보호 필요성을 고려하여 작성되어야 한다.(The summary shall be sufficiently detailed to enable the public to understand the general nature of the data used, while taking into account the need to protect trade secrets and other confidential information, including <ins>intellectual property rights</ins>.)<br>
-**Article 50(2) : 특정 AI 시스템에 대한 투명성 의무(Transparency obligations for certain AI systems)** <br>
+**<ins>Article 50(2) : 특정 AI 시스템에 대한 투명성 의무(Transparency obligations for certain AI systems)</ins>** <br>
 본 조에 따른 투명성 의무는 지식재산권(영업비밀을 포함한다)의 보호를 침해하지 않는 방식으로 이행되어야 한다.(Those obligations shall be implemented in a manner that does not undermine the protection of <ins>intellectual property rights</ins>, including trade secrets.)<br>
-**Recital 60** <br>
+**<ins>Recital 60</ins>** <br>
 이 규정은 저작권 및 저작인접권을 포함한 유럽연합의 지식재산권 법령에 영향을 미치지 않아야 한다. 따라서 본 규정은 기존의 지식재산권 보호 체계를 변경하거나 약화시키는 방식으로 해석되어서는 안 된다.(This Regulation should be without prejudice to Union law on <ins>intellectual property rights</ins> and in particular copyright and related rights.)<br>
 
 
