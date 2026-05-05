@@ -382,7 +382,11 @@
 
 ---
 
-# AI 지식재산권 관련 연구 동향(dbpia.co.kr, 2023~2026)
+# AI 지식재산권 관련 이슈
+
+---
+
+https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/patent.xlsx
 
 
 ---
