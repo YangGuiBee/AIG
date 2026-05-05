@@ -386,12 +386,16 @@
 
 ---
 
-https://www.kipo.go.kr/ko/publication/kpoPublicationPgmMgmt.do?menuCd=SCD0200659&parntMenuCd2=SCD0200281
+## 첨단전략산업 글로벌 기술동향과 특허 - 기술분야별 동향 - 인공지능
+https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0201302
 
+
+## 지식재산과 혁신(2025년)
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/kipo.png'>
 <br>
+https://www.kipo.go.kr/ko/publication/kpoPublicationPgmMgmt.do?menuCd=SCD0200659&parntMenuCd2=SCD0200281
 
-지식재산과 혁신(2025년)
+
 
 	43~61page : 인공지능(AI)의 발명자 적격성(Inventorship)에 대한 소고(지식재산과 혁신, 박재일, 2025)<br>
 	103~123page : 자율주행의 트롤리 딜레마 윤리적, 특허법적 고찰(지식재산과 혁신, 최수혁, 2025)<br>
