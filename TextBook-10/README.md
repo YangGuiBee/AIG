@@ -144,6 +144,13 @@
 |  | 제22조(민간 자율활동 지원) | IP 민간 활동 지원은 AI 기본법에 직접 대응 규정 없음 |
 
 
+![](./images/law.png)
+
+<br>
+
+![](./images/law2.png)
+
+
 ## 인공지능기본법과 특허법 비교
 
 | 인공지능기본법 | 특허법 | 연계 내용 |
@@ -388,6 +395,27 @@
 
 ## 첨단전략산업 글로벌 기술동향과 특허 - 기술분야별 동향 - 인공지능
 https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0201302
+
+![](./images/news.png)
+
+<br>
+
+![](./images/news0.png)
+
+<br>
+
+![](./images/news1.png)
+
+<br>
+
+![](./images/news2.png)
+
+<br>
+
+![](./images/news3.png)
+
+<br>
+
 
 
 ## 지식재산과 혁신(2025년)
