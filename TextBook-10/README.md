@@ -143,8 +143,7 @@
 |  | 제21조(전문인력 양성) | IP 전문인력 정책은 AI 인력 정책과 부분적으로만 교차 |
 |  | 제22조(민간 자율활동 지원) | IP 민간 활동 지원은 AI 기본법에 직접 대응 규정 없음 |
 
-
-![](./images/law.png)
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/law.png'>
 
 <br>
 
