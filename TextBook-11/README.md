@@ -1,4 +1,12 @@
 
+대법원 종합법률정보 (glaw.scourt.go.kr)
+한국저작권위원회 저작권판례 (copyright.or.kr)
+IP-NAVI (지식재산보호 종합포털, ip-navi.or.kr)
+국가법령정보센터 Lawbot (law.go.kr)
+LBOX (lbox.kr)
+BigCase (bigcase.ai)
+
+
 https://portal.scourt.go.kr/pgp/index.on?m=PGP1011M01&l=N&c=900
 
 
