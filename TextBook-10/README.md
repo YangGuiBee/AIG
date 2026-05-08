@@ -89,7 +89,7 @@
 **[3-4] 영업비밀** : 공개되지 아니한 기술상·경영상 정보로서 독립된 경제적 가치를 가지며 합리적으로 비밀 관리되는 정보(부정경쟁방지법에 의해 보호)<br>
 
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/laws.PNG'>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-10/images/laws.jpg'>
 
 <br>
 
