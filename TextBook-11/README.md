@@ -1,4 +1,26 @@
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/AIG11_1.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/AIG11_2.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/AIG11_3.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/AIG11_4.PNG'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/AIG11_5.PNG'>
+
+<br>
+
+
+
 대법원 종합법률정보 (glaw.scourt.go.kr)<br>
 한국저작권위원회 저작권판례 (copyright.or.kr)<br>
 IP-NAVI (지식재산보호 종합포털, ip-navi.or.kr)<br>
