@@ -33,16 +33,6 @@
 
 
 ### IP와 AI에 관한 이슈페이퍼 초안(Draft Issues Paper on Intellectual Property Policy and Artificial Intelligence)
-<!-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table1.png'>
-<br>
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table2.png'>
-<br>
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table3.png'>
-<br>
--->
 
 | 분류 | 이슈 | 주요내용 |
 |---|---|---|
