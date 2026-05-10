@@ -32,6 +32,22 @@
 | **인공지능 창작물 국제적 논의** | - WIPO 등 국제기구를 중심으로 한 인공지능과 지식재산권 논의<br>- 국가별 상이한 법제도와 국제적 조화의 필요성 |
 
 
+### IP와 AI에 관한 이슈페이퍼 초안(Draft Issues Paper on Intellectual Property Policy and Artificial Intelligence)
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table1.png'>
+
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table2.png'>
+
+<br>
+
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-11/images/table3.png'>
+
+<br>
+
+
 
 |시기|정책|주요내용|
 |---|---|---|
