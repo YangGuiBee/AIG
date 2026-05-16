@@ -1,3 +1,19 @@
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-12/images/AIG12_1.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-12/images/AIG12_2.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-12/images/AIG12_3.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-12/images/AIG12_4.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-12/images/AIG12_5.PNG'>
+<br>
+
+
 
 # 글로벌 AI 규제
 전 세계 AI 규제는 각 국가의 정치·경제·사회적 맥락에 따라 다양한 형태로 진화하고 있다. 유럽연합의 엄격한 규제 중심 접근, 미국의 혁신 촉진 중심 접근, 아시아의 균형형 접근이 대표적. 2026년 현재 AI 규제는 위험 기반 차등 규제, 자율규제와 법제화의 병행, 신흥 AI 위협에 대한 사전적 규제 등의 특징을 보임.<br>
