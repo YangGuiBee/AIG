@@ -143,7 +143,7 @@
 
 ---
 
-<img width ='600' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
+<img width ='1000' height = '500' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42f.png'>
 <br>
 
 |Working Group|주요 담당 영역|
