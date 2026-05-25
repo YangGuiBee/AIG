@@ -143,6 +143,12 @@
 
 ---
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
+<br>
+
+
+
+
 # [1] 개념·기술적 기초(Concepts & Technical Foundations)
 
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
