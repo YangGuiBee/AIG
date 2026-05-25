@@ -133,10 +133,12 @@
 - AI 시스템 유형(규칙 기반, ML 기반 등)
 - 머신러닝, 딥러닝, 신경망 관련 용어
 - 생명주기(lifecycle) 개념
+<br>
 ▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 23053 (ML 기반 AI 프레임워크)
-- ISO/IEC 23894 (AI 위험관리)
-- ISO/IEC 42001 (AI 경영시스템)
+- ISO/IEC 23053 (ML 기반 AI 프레임워크)<br>
+- ISO/IEC 23894 (AI 위험관리)<br>
+- ISO/IEC 42001 (AI 경영시스템)<br>
+<br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
 <br>
 
