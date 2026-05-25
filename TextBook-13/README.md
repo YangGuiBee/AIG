@@ -143,7 +143,7 @@
 
 ---
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
 <br>
 
 **ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회로 모든 AI 국제표준의 기획·조정·개발 중심<br>
