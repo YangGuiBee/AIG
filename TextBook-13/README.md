@@ -144,7 +144,7 @@
 <ins>ISO/IEC 23894:2023</ins> 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
 <ins>ISO/IEC 42001:2023</ins> 인공지능 경영시스템 (Artificial intelligence — Management system)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/74296.html<br>
 <br>
 
 ## [1-2] ISO/IEC 23053:2022  머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
@@ -165,7 +165,7 @@ ISO/IEC 22989를 기반으로 한 구조 확장 표준<br>
 <ins>ISO/IEC/IEEE 42010</ins> (아키텍처 기술)<br>
 <ins>ISO/IEC TR 24029-1/2</ins> (강건성)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2023053<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/74438.html<br>
 <br>
 
 ## [1-3] ISO/IEC 38507:2022  AI 사용에 대한 조직 거버넌스(Governance implications of the use of AI by organizations)
@@ -186,7 +186,7 @@ ISO/IEC 38500(IT 거버넌스)의 AI 확장 표준<br>
 <ins>ISO/IEC 42001</ins> (AI 경영시스템)<br>
 <ins>ISO/IEC TR 24368</ins> (윤리·사회적 쟁점)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2038507<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/77493.html<br>
 <br>
 
 ## [1-4] ISO/IEC/IEEE 42010:2022  시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description)
@@ -206,7 +206,7 @@ AI를 포함한 모든 복합 시스템에 적용 가능<br>
 <ins>ISO/IEC 23053</ins> (AI 시스템 프레임워크)<br>
 <ins>ISO/IEC 25010</ins> (시스템·소프트웨어 품질 모델)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2FIEEE%2042010<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/74393.html<br>
 <br>
 
 ## [1-5] ISO/IEC TR 24027:2021  AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
@@ -225,7 +225,7 @@ AI를 포함한 모든 복합 시스템에 적용 가능<br>
 <ins>ISO/IEC TR 24368</ins> (윤리·사회적 쟁점)<br>
 <ins>ISO/IEC 23894</ins> (AI 위험관리)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024027<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/77607.html<br>
 <br>
 
 ## [1-6] ISO/IEC TR 24028:2020  AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
@@ -245,7 +245,7 @@ AI 거버넌스·경영시스템 표준의 기초 문서<br>
 <ins>ISO/IEC 42001</ins> (AI 경영시스템)<br>
 <ins>ISO/IEC TR 24029</ins> (강건성)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024028<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/77608.html<br>
 <br>
 
 ## [1-7] ISO/IEC TR 24029-1:2021  신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
@@ -267,52 +267,71 @@ ISO/IEC TR 24029-2(방법론)의 개념·이론 기반 부가 표준<br>
 <ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
 <ins>ISO/IEC TR 24028:2020</ins> AI 신뢰성 개요 (Overview of trustworthiness in artificial intelligence)<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-1<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/77609.html<br>
 <br>
 
 ## [1-8] ISO/IEC TR 24029-2:2023  신경망 강건성 평가 방법론(Assessment of the robustness of neural networks — Part 2: Methodologies)
-**▣ 개요 :** 신경망 기반 AI 시스템의 강건성을 실제적으로 평가·검증하기 위한 방법론을 제시하는 기술보고서<br>
+**▣ 개요 :** 신경망 기반 AI 시스템의 강건성을 실제적으로 평가·검증하기 위한 방법론을 제시하는 기술보고서로, Part 1의 개념을 기반으로 구체적인 평가 절차와 접근 방법을 제공<br>
+<br>
+**▣ 표준의 특성 :** 비인증 표준<br>
+기술보고서(TR)<br>
+ISO/IEC TR 24029-1의 실행·방법론 확장 표준<br>
+연구·산업 환경에서의 시험·검증 참고용 표준<br>
 <br>
 **▣ 구성 요약 :** <br>
-테스트 기법 및 시나리오
-공격 모델 기반 평가
-정량적 지표 개요
+<ins>강건성 평가 절차 정의 :</ins> 모델 선택, 테스트 설계, 결과 분석에 이르는 단계적 평가 흐름을 설명<br>
+<ins>적대적 공격 기반 평가 :</ins> 다양한 공격 시나리오를 활용하여 모델의 취약성을 검증하는 방법을 제시<br>
+<ins>평가지표 및 기준 :</ins> 성능 저하율, 오류 발생 조건 등 평가 결과를 해석하기 위한 기준을 개괄<br>
+<ins>실무 적용 관점 :</ins> 실제 AI 시스템 개발·운영 환경에서의 적용 가능성과 한계를 설명<br>
 <br>
 **▣ 관련되는 다른 국제 표준 :** <br>
-ISO/IEC TR 24029-1<br>
-ISO/IEC 23894 (위험관리)<br>
+<ins>ISO/IEC TR 24029-1:2021</ins> 신경망 강건성 평가 개요<br>
+<ins>ISO/IEC 23894:2023</ins> 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
+<ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-2<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/86115.html<br>
 <br>
 
 ## [1-9] ISO/IEC TR 24368:2022  AI 시스템의 윤리적·사회적 쟁점 개요(Overview of ethical and societal concerns related to AI systems)
-**▣ 개요 :** AI가 초래하는 윤리적·사회적 영향을 포괄적으로 다룬 개요 문서.<br>
+**▣ 개요 :** AI 시스템의 설계·개발·운영·활용 과정에서 발생하는 윤리적, 사회적, 인간 중심적 쟁점을 종합적으로 정리한 기술보고서<br>
+<br>
+**▣ 표준의 특성 :** 비인증 표준<br>
+윤리 중심 기술보고서(TR)<br>
+AI 거버넌스 및 정책 표준의 이론적·개념적 기반 문서<br>
 <br>
 **▣ 구성 요약 :** <br>
-인간의 존엄성과 자율성
-사회적 불평등 및 차별
-책임성과 설명책임
+<ins>윤리 원칙 체계화 :</ins> 인간 존엄성, 자율성, 프라이버시 보호 등 핵심 윤리 원칙을 중심으로 AI의 영향을 분석<br>
+<ins>사회적 영향 분석 :</ins> 차별, 불평등, 노동 변화, 사회 구조 변화 등 AI가 초래할 수 있는 사회적 영향을 다룸<br>
+<ins>책임성과 설명책임 :</ins> AI 의사결정 결과에 대한 책임 주체와 설명 가능성의 중요성을 강조<br>
+<ins>정책·거버넌스 연계 :</ins> 법·정책·조직 거버넌스 체계와의 연계 필요성을 제시<br>
 <br>
 **▣ 관련되는 다른 국제 표준 :** <br>
-ISO/IEC 38507 (AI 거버넌스)<br>
-ISO/IEC TR 24027 (편향)<br>
+<ins>ISO/IEC 38507:2022</ins> AI 사용에 대한 조직 거버넌스<br>
+<ins>ISO/IEC TR 24027:2021</ins> AI 시스템 및 AI 의사결정의 편향<br>
+<ins>ISO/IEC TR 24028:2020</ins> AI 신뢰성 개요<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024368<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/80055.html<br>
 <br>
 
 ## [1-10] ISO/IEC TR 24030:2021  AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
-**▣ 개요 :** AI 기술의 산업별·분야별 활용 사례(use case)를 정리한 기술보고서.<br>
+**▣ 개요 :** 다양한 산업 및 분야에서의 AI 활용 사례(use case)를 체계적으로 정리하여, AI 표준 개발과 적용을 지원하기 위한 기술보고서<br>
+<br>
+**▣ 표준의 특성 :** 비인증 표준<br>
+사례 중심 기술보고서(TR)<br>
+AI 프레임워크·거버넌스 표준의 참고·보조 문서<br>
 <br>
 **▣ 구성 요약 :** <br>
-의료, 금융, 제조, 공공 분야 사례
-기술 적용 시 고려사항
-표준 개발을 위한 참고 사례
+<ins>AI 활용 사례 분류 :</ins> 의료, 금융, 제조, 공공 등 산업별 AI 적용 사례를 체계적으로 정리<br>
+<ins>적용 맥락 설명 :</ins> 데이터 활용 방식, 기술 선택 배경, 기대 효과를 사례 중심으로 설명<br>
+<ins>공통 구조 및 패턴 도출 :</ins> 여러 사례에서 반복적으로 나타나는 시스템 구조와 문제점을 식별<br>
+<ins>표준화 시사점 제시 :</ins> 향후 AI 국제표준 개발을 위한 참고 요소와 요구사항을 도출<br>
 <br>
 **▣ 관련되는 다른 국제 표준 :** <br>
-ISO/IEC 23053<br>
-ISO/IEC 22989<br>
+<ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크<br>
+<ins>ISO/IEC 22989:2022</ins> 인공지능 개념 및 용어<br>
+<ins>ISO/IEC 38507:2022</ins> AI 사용에 대한 조직 거버넌스<br>
 <br>
-**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024030<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/77611.html<br>
 <br>
 
 
