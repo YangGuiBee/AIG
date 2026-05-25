@@ -112,6 +112,16 @@
 
 ---
 
+### ISO 표준 유형
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
+
+PAS (Publicly Available Specification) : 빠른 공개를 위한 임시 표준<br>
+TR (Technical Report) : 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
+TS (Technical Specification) : 국제표준으로 발전하기 전 단계의 문서로, 합의는 되었지만 아직 충분히 성숙하지 않은 기술 기술 명세서<br>
+IS (International Standard) : 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
+<br>
+
 ### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
 
 **① AWI (Approved / Active Work Item)** <br>
@@ -362,7 +372,7 @@
 ■ 합성곱 (Convolution): 입력 데이터의 지역적 특징을 추출하기 위해 필터를 적용하여 계산하는 연산<br>
 ■ 순환 신경망 (Recurrent network): 이전 단계의 정보를 기억하여 순차 데이터(시간 흐름 데이터 등)를 처리하는 신경망 구조<br>
 <br>
-3.5 신뢰성 및 품질 (약 20개)에 대하여 한글명칭과 정의 설명을 한글로 작성해줘(ISO/IEC 22989:2022 참조하여 작성)<br>
+3.5 신뢰성 및 품질 (약 20개)<br>
 ■ 신뢰성 (Trustworthiness): 인공지능 시스템이 기댓값에 부합하며 안전하고 공정하게 동작한다고 신뢰할 수 있는 특성의 총합<br>
 ■ 설명가능성 (Explainability): 시스템의 결과나 동작 과정을 사람이 이해할 수 있도록 설명할 수 있는 능력<br>
 ■ 해석가능성 (Interpretability): 모델의 내부 구조나 동작 방식이 사람이 직접 이해 가능한 정도<br>
