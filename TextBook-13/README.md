@@ -145,6 +145,7 @@
 
 <img width ='600' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
 <br>
+
 |Working Group|주요 담당 영역|
 |---|---|
 |WG 1|AI 개념, 용어, 기초 프레임워크|
