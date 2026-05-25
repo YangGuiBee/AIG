@@ -125,6 +125,7 @@
 	[1-9] ISO/IEC TR 24368:2022 AI 시스템의 윤리적·사회적 쟁점 개요(Overview of ethical and societal concerns related to AI systems)
 	[1-10] ISO/IEC TR 24030:2021 AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
 
+
 ## [1-1] ISO/IEC 22989:2022  Artificial intelligence — Concepts and terminology
 ▣ 개요 : AI 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 문서로, AI 정책·기술·거버넌스 논의의 공통 언어 역할을 함. 다른 모든 AI 표준의 기초(reference standard)에 해당<br>
 <br>
