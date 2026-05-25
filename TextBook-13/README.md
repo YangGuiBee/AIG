@@ -49,66 +49,66 @@
 
 
 
-[1] 개념·기술적 기초(Concepts & Technical Foundations)
-[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
-[1-2] ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
-[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스, 이사회·임원 지침(Governance of IT — Governance implications of the use of AI by organizations)
-[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description) [2022년 개정판]
-[1-5] ISO/IEC TR 24027:2021 AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
-[1-6] ISO/IEC TR 24028:2020 AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
-[1-7] ISO/IEC TR 24029-1:2021 신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
-[1-8] ISO/IEC TR 24029-2:2023 신경망 강건성 평가 방법론(Assessment of the robustness of neural networks — Part 2: Methodologies)
-[1-9] ISO/IEC TR 24368:2022 AI 시스템의 윤리적·사회적 쟁점 개요(Overview of ethical and societal concerns related to AI systems)
-[1-10] ISO/IEC TR 24030:2021 AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
+	[1] 개념·기술적 기초(Concepts & Technical Foundations)
+	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
+	[1-2] ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
+	[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스, 이사회·임원 지침(Governance of IT — Governance implications of the use of AI by organizations)
+	[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description) [2022년 개정판]
+	[1-5] ISO/IEC TR 24027:2021 AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
+	[1-6] ISO/IEC TR 24028:2020 AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
+	[1-7] ISO/IEC TR 24029-1:2021 신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
+	[1-8] ISO/IEC TR 24029-2:2023 신경망 강건성 평가 방법론(Assessment of the robustness of neural networks — Part 2: Methodologies)
+	[1-9] ISO/IEC TR 24368:2022 AI 시스템의 윤리적·사회적 쟁점 개요(Overview of ethical and societal concerns related to AI systems)
+	[1-10] ISO/IEC TR 24030:2021 AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
 
-[2] 시스템 구축(System Development)
-[2-1] ISO/IEC 42001:2023 AI 관리시스템 요구사항(AI Management System (AIMS) — Requirements)
-[2-2] ISO/IEC 42002:2024 AIMS 요구사항 적용 지침(AIMS — Guidance on the application of ISO/IEC 42001)
-[2-3] ISO/IEC 42003:2024 AIMS 조직 구현 지침(AIMS — Guidance for organizational implementation)
-[2-4] ISO/IEC 8183:2023 AI 데이터 생명주기 프레임워크(Artificial intelligence — Data life cycle framework)
-[2-5] ISO/IEC 5259-1:2023 데이터 품질과 ML 기반 — 개요, 용어 및 예시(Data quality for analytics and ML — Overview, terminology and examples)
-[2-6] ISO/IEC 5259-2:2024 데이터 품질 측정 지표(Data quality measures)
-[2-7] ISO/IEC 5259-3:2024 데이터 품질 요구사항 및 평가(Data quality requirements and evaluation)
-[2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework) [2024년 발행완료]
-[2-9] ISO/IEC 5259-5:2025 데이터 품질 거버넌스 프레임워크(Data quality for analytics and ML — Data quality governance framework) [2025년 발행예정]
-[2-10] ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스(Artificial intelligence — AI system life cycle processes)
+	[2] 시스템 구축(System Development)
+	[2-1] ISO/IEC 42001:2023 AI 관리시스템 요구사항(AI Management System (AIMS) — Requirements)
+	[2-2] ISO/IEC 42002:2024 AIMS 요구사항 적용 지침(AIMS — Guidance on the application of ISO/IEC 42001)
+	[2-3] ISO/IEC 42003:2024 AIMS 조직 구현 지침(AIMS — Guidance for organizational implementation)
+	[2-4] ISO/IEC 8183:2023 AI 데이터 생명주기 프레임워크(Artificial intelligence — Data life cycle framework)
+	[2-5] ISO/IEC 5259-1:2023 데이터 품질과 ML 기반 — 개요, 용어 및 예시(Data quality for analytics and ML — Overview, terminology and examples)
+	[2-6] ISO/IEC 5259-2:2024 데이터 품질 측정 지표(Data quality measures)
+	[2-7] ISO/IEC 5259-3:2024 데이터 품질 요구사항 및 평가(Data quality requirements and evaluation)
+	[2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework) [2024년 발행완료]
+	[2-9] ISO/IEC 5259-5:2025 데이터 품질 거버넌스 프레임워크(Data quality for analytics and ML — Data quality governance framework) [2025년 발행예정]
+	[2-10] ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스(Artificial intelligence — AI system life cycle processes)
 
-[3] 위험·품질 관리(Risk & Quality Management)
-[3-1] ISO/IEC 23894:2023 AI 위험 관리(Artificial intelligence — Risk management)
-[3-2] ISO/IEC 27090:2025 AI 사이버보안 (Cybersecurity — Artificial Intelligence) [FDIS상태, 2025년 발행예정]
-[3-3] ISO/IEC 27091:2024 AI 시스템 특화 보안·개인정보보호 통제(Cybersecurity and privacy — AI system-specific security controls)
-[3-4] ISO/IEC 25010:2011 기존 품질 모델, AI 품질의 기반(Systems and software quality model)
-[3-5] ISO/IEC 25059:2023 AI 시스템 품질 모델(SQuaRE — Quality model for AI systems)
-[3-6] ISO/IEC 25704:AWI AI 개발·운영 프로세스 능력 평가 모델(Artificial intelligence — Process assessment) [개발 중]
-[3-7] ISO/IEC TS 4213:2022 머신러닝 분류 성능 평가(Assessment of machine learning classification performance)
-[3-8] ISO/IEC TS 5469:2024 인공지능 시스템의 기능 안전(Artificial intelligence — Functional safety and AI systems)
+	[3] 위험·품질 관리(Risk & Quality Management)
+	[3-1] ISO/IEC 23894:2023 AI 위험 관리(Artificial intelligence — Risk management)
+	[3-2] ISO/IEC 27090:2025 AI 사이버보안 (Cybersecurity — Artificial Intelligence) [FDIS상태, 2025년 발행예정]
+	[3-3] ISO/IEC 27091:2024 AI 시스템 특화 보안·개인정보보호 통제(Cybersecurity and privacy — AI system-specific security controls)
+	[3-4] ISO/IEC 25010:2011 기존 품질 모델, AI 품질의 기반(Systems and software quality model)
+	[3-5] ISO/IEC 25059:2023 AI 시스템 품질 모델(SQuaRE — Quality model for AI systems)
+	[3-6] ISO/IEC 25704:AWI AI 개발·운영 프로세스 능력 평가 모델(Artificial intelligence — Process assessment) [개발 중]
+	[3-7] ISO/IEC TS 4213:2022 머신러닝 분류 성능 평가(Assessment of machine learning classification performance)
+	[3-8] ISO/IEC TS 5469:2024 인공지능 시스템의 기능 안전(Artificial intelligence — Functional safety and AI systems)
 
-[4] 감사·인증·규정준수(Audit, Certification & Compliance)
-[4-1] ISO/IEC 42005:2025 AI 시스템 영향 평가(Artificial intelligence — Impact assessment)
-[4-2] ISO/IEC 42006:2025 AI 관리시스템 — 감사 및 인증을 제공하는 기관에 대한 요구사항(AIMS — Requirements for bodies providing audit and certification)
-[4-3] ISO/IEC 42007:2024 AI 시스템 적합성 평가 프레임워크(Conformity assessment framework for AI systems)
-[4-4] ISO/IEC 42008:예정 AI 시스템 평가 결과 및 대시보드(Evaluation results and dashboards for AI systems) [2026-2027년 예정]
-[4-5] ISO/IEC CD TS 22443:예정 AI 사회적·윤리적 쟁점 해결 지침(Guidance on addressing societal concerns and ethical considerations of AI systems) [Draft 상태]
-[4-6] ISO/IEC TS 6254:2025 ML 설명가능성 및 해석가능성의 목표와 접근 방법(Objectives and approaches for explainability and interpretability of machine learning (ML) models and artificial intelligence (AI) systems)
+	[4] 감사·인증·규정준수(Audit, Certification & Compliance)
+	[4-1] ISO/IEC 42005:2025 AI 시스템 영향 평가(Artificial intelligence — Impact assessment)
+	[4-2] ISO/IEC 42006:2025 AI 관리시스템 — 감사 및 인증을 제공하는 기관에 대한 요구사항(AIMS — Requirements for bodies providing audit and certification)
+	[4-3] ISO/IEC 42007:2024 AI 시스템 적합성 평가 프레임워크(Conformity assessment framework for AI systems)
+	[4-4] ISO/IEC 42008:예정 AI 시스템 평가 결과 및 대시보드(Evaluation results and dashboards for AI systems) [2026-2027년 예정]
+	[4-5] ISO/IEC CD TS 22443:예정 AI 사회적·윤리적 쟁점 해결 지침(Guidance on addressing societal concerns and ethical considerations of AI systems) [Draft 상태]
+	[4-6] ISO/IEC TS 6254:2025 ML 설명가능성 및 해석가능성의 목표와 접근 방법(Objectives and approaches for explainability and interpretability of machine learning (ML) models and artificial intelligence (AI) systems)
 
-[5] 도메인별 AI 표준 (Domain‑specific AI Standards)
-로봇공학(Robotics)
-[5-1] ISO 8373:2021 로봇 및 로봇 장치 — 용어(Robotics — Vocabulary) [2021년 개정판]
-[5-2] ISO 13482:2014 개인 서비스 로봇 안전 요구사항(Robots and robotic devices — Safety requirements for personal care robots)
-지능형 교통 시스템(Intelligent Transport Systems)
-[5-3] ISO 21217:2020 지능형 교통 시스템 아키텍처(Intelligent transport systems — Station and communication reference architecture) [2020년 개정판]
-[5-4] ISO 23150:2023 차량–외부 장치 간 데이터 통신(Road vehicles — Data communication between vehicles and external equipment) [2023년 개정판]
-보건의료(Health Informatics)
-[5-5] ISO 23903:2021 보건의료 정보 상호운용성·통합 참조 아키텍처(Health informatics — Interoperability and integration reference architecture)
-[5-6] ISO/TR 24291:2021 보건의료 정보학 — 디지털 헬스에서의 머신러닝 적용(Health informatics — Applications of machine learning in digital health)
-제조 및 스마트 팩토리(Manufacturing & Industry 4.0)
-[5-7] ISO 23247-1:2021 제조용 디지털 트윈 프레임워크(Automation systems and integration — Digital twin framework for manufacturing — Part 1: Overview and general principles)
-[5-8] ISO 22400-1:2018 제조 운영 성과 지표 — Part 1(Key performance indicators (KPIs) for manufacturing operations management — Part 1: Overview, concepts and terminology)
-[5-9] ISO 22400-2:2018 제조 운영 성과 지표 — Part 2(Key performance indicators (KPIs) for manufacturing operations management — Part 2: Definitions and descriptions)
-빅데이터(Big Data)
-[5-10] ISO/IEC 20546:2019 빅데이터 개요 및 용어(Big data — Overview and vocabulary)
-[5-11] ISO/IEC TR 20547-1:2020 빅데이터 참조 아키텍처 — Part 1: 프레임워크 및 적용(Big data reference architecture — Part 1: Framework and application guidance)
-[5-12] ISO/IEC 20547-3:2020 빅데이터 참조 아키텍처 — Part 3: 참조 아키텍처(Big data reference architecture — Part 3: Reference architecture)
+	[5] 도메인별 AI 표준 (Domain‑specific AI Standards)
+	로봇공학(Robotics)
+	[5-1] ISO 8373:2021 로봇 및 로봇 장치 — 용어(Robotics — Vocabulary) [2021년 개정판]
+	[5-2] ISO 13482:2014 개인 서비스 로봇 안전 요구사항(Robots and robotic devices — Safety requirements for personal care robots)
+	지능형 교통 시스템(Intelligent Transport Systems)
+	[5-3] ISO 21217:2020 지능형 교통 시스템 아키텍처(Intelligent transport systems — Station and communication reference architecture) [2020년 개정판]
+	[5-4] ISO 23150:2023 차량–외부 장치 간 데이터 통신(Road vehicles — Data communication between vehicles and external equipment) [2023년 개정판]
+	보건의료(Health Informatics)
+	[5-5] ISO 23903:2021 보건의료 정보 상호운용성·통합 참조 아키텍처(Health informatics — Interoperability and integration reference architecture)
+	[5-6] ISO/TR 24291:2021 보건의료 정보학 — 디지털 헬스에서의 머신러닝 적용(Health informatics — Applications of machine learning in digital health)
+	제조 및 스마트 팩토리(Manufacturing & Industry 4.0)
+	[5-7] ISO 23247-1:2021 제조용 디지털 트윈 프레임워크(Automation systems and integration — Digital twin framework for manufacturing — Part 1: Overview and general principles)
+	[5-8] ISO 22400-1:2018 제조 운영 성과 지표 — Part 1(Key performance indicators (KPIs) for manufacturing operations management — Part 1: Overview, concepts and terminology)
+	[5-9] ISO 22400-2:2018 제조 운영 성과 지표 — Part 2(Key performance indicators (KPIs) for manufacturing operations management — Part 2: Definitions and descriptions)
+	빅데이터(Big Data)
+	[5-10] ISO/IEC 20546:2019 빅데이터 개요 및 용어(Big data — Overview and vocabulary)
+	[5-11] ISO/IEC TR 20547-1:2020 빅데이터 참조 아키텍처 — Part 1: 프레임워크 및 적용(Big data reference architecture — Part 1: Framework and application guidance)
+	[5-12] ISO/IEC 20547-3:2020 빅데이터 참조 아키텍처 — Part 3: 참조 아키텍처(Big data reference architecture — Part 3: Reference architecture)
 
 ---
 
