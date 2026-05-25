@@ -111,16 +111,18 @@
 ---
 
 ### ISO 표준 유형
-
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
-
 **PAS (Publicly Available Specification) :** 빠른 공개를 위한 임시 표준<br>
 **TR (Technical Report) :** 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
 **TS (Technical Specification) :** 국제표준으로 발전하기 전 단계의 문서로, 합의는 되었지만 아직 충분히 성숙하지 않은 기술 기술 명세서<br>
 **IS (International Standard) :** 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
+
+
 ### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AWI.png'>
 
 **① AWI (Approved / Active Work Item)** <br>
 새 표준 과제가 공식 승인된 상태, 아직 문서 초안조차 없는 경우도 있음<br>
