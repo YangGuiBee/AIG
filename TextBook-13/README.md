@@ -129,9 +129,8 @@
 ## [1-1] ISO/IEC 22989:2022  인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
 **▣ 개요 :** 인공지능(AI) 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 국제표준으로, AI 기술·정책·거버넌스 논의의 공통 언어를 제공하는 최상위 기초 표준<br>
 <br>
-**▣ 표준의 특성 :** <br>
+**▣ 표준의 특성 :** 비인증 표준<br>
 기본 개념 표준(Foundational standard)<br>
-인증 목적 아님(비인증 표준)<br>
 대부분의 AI 국제표준에서 참조되는 기준 표준<br>
 <br>
 **▣ 구성 요약 :** <br>
@@ -140,155 +139,180 @@
 <ins>머신러닝·딥러닝 용어 정리 :</ins> 지도·비지도·강화학습, 신경망, 딥러닝 등 기술 용어를 일관되게 정의하여 표준 간 개념 혼선을 방지<br>
 <ins>AI 생명주기 개념 :</ins> 설계–개발–학습–배포–운영–유지관리–폐기의 전 과정을 개념적으로 제시<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
 <ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
 <ins>ISO/IEC 23894:2023</ins> 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
 <ins>ISO/IEC 42001:2023</ins> 인공지능 경영시스템 (Artificial intelligence — Management system)<br>
 <br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
 <br>
 
 ## [1-2] ISO/IEC 23053:2022  머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
-▣ 개요 : 머신러닝을 사용하는 AI 시스템의 구성 요소와 상호작용 구조를 체계적으로 정리한 프레임워크 표준<br>
+**▣ 개요 :** 머신러닝을 사용하는 AI 시스템의 구성 요소와 상호작용 구조를 체계적으로 정리한 프레임워크 표준<br>
 <br>
-▣ 표준의 특성
-- 프레임워크 표준
-- 인증 목적 아님
-- ISO/IEC 22989를 기반으로 한 구조 확장 표준
-
-▣ 구성 요약<br>
-- ML 기반 AI 시스템 참조 아키텍처
-- 학습, 추론, 배포, 모니터링 단계
-- 데이터 관리 및 모델 업데이트 개념
+**▣ 표준의 특성 :** 비인증 표준<br>
+프레임워크 표준<br>
+ISO/IEC 22989를 기반으로 한 구조 확장 표준<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 22989 (개념·용어)<br>
-- ISO/IEC/IEEE 42010 (아키텍처 기술)<br>
-- ISO/IEC TR 24029-1/2 (강건성)<br>
+**▣ 구성 요약 :** <br>
+<ins>ML 기반 시스템 구성 요소 정의 :</ins> 데이터 수집·전처리, 학습 모델, 학습 프로세스, 추론 엔진 등 핵심 요소를 식별<br>
+<ins>학습과 추론의 구조적 분리 :</ins> 모델 학습 단계와 운영 단계의 분리를 통해 성능, 책임, 보안 관리의 기반을 제공<br>
+<ins>운영 및 모니터링 단계 :</ins> 배포 이후 모델 성능 저하, 데이터 드리프트, 재학습 필요성을 관리하는 운영 관점을 포함<br>
+<ins>외부 환경 및 인터페이스 :</ins> 사용자, 조직, IT 인프라와의 상호작용을 고려한 실무 중심 구조를 제시<br>
 <br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2023053<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC 22989</ins> (개념·용어)<br>
+<ins>ISO/IEC/IEEE 42010</ins> (아키텍처 기술)<br>
+<ins>ISO/IEC TR 24029-1/2</ins> (강건성)<br>
 <br>
-
-## [1-3] ISO/IEC 38507:2022  Governance implications of the use of AI by organizations
-▣ 개요 : 조직에서 AI를 사용할 때 이사회·경영진 차원의 거버넌스 원칙을 제시하는 표준.<br>
-<br>
-▣ 구성 요약<br>
-- AI 사용에 따른 책임성과 투명성
-- 이사회 및 최고경영진의 의사결정 역할
-- 위험 관리 및 윤리적 고려
-- 기존 IT 거버넌스(ISO/IEC 38500)와의 연계
-<br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 38500 (IT 거버넌스)<br>
-- ISO/IEC 42001 (AI 경영시스템)<br>
-- ISO/IEC TR 24368 (윤리·사회적 쟁점)<br>
-<br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2038507<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2023053<br>
 <br>
 
-## [1-4] ISO/IEC/IEEE 42010:2022  Systems and software engineering — Architecture description
-▣ 개요 : 시스템 및 소프트웨어의 아키텍처 기술 방법을 규정한 핵심 표준. AI 시스템 아키텍처 문서화의 기반.<br>
+## [1-3] ISO/IEC 38507:2022  AI 사용에 대한 조직 거버넌스(Governance implications of the use of AI by organizations)
+**▣ 개요 :** 조직에서 AI를 사용할 때 발생하는 이사회·임원 수준의 거버넌스 책임과 의사결정 원칙을 제시하는 표준<br>
 <br>
-▣ 구성 요약
-- 아키텍처 이해관계자(stakeholder)
-- 뷰(view)와 뷰포인트(viewpoint)
-- 아키텍처 기술 산출물 정의
+**▣ 표준의 특성 :** 비인증 표준<br>
+거버넌스 가이드라인 표준<br>
+ISO/IEC 38500(IT 거버넌스)의 AI 확장 표준<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 23053 (AI 시스템 프레임워크)<br>
-- ISO/IEC 25010 (시스템 품질 모델)<br>
+**▣ 구성 요약 :** <br>
+<ins>AI 거버넌스 원칙 제시 :</ins> 책임성, 투명성, 공정성, 인간 감독의 중요성을 경영진 관점에서 제시<br>
+<ins>이사회·임원의 역할 정의 :</ins> AI 도입 승인, 위험 수용 여부 결정, 윤리 기준 설정 등 전략적 책임을 규정<br>
+<ins>위험 및 영향 관리 :</ins> 법적·윤리적·사회적·평판 리스크를 식별하고 관리하도록 요구<br>
+<ins>기존 IT 거버넌스와의 연계 :</ins> 기존 IT 거버넌스 체계에 AI를 통합하는 방향을 제시<br>
 <br>
-▣ 전문 출처 웹사이트 : https://www.iso.org/search.html?q=ISO%2FIEC%2FIEEE%2042010
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC 38500</ins> (IT 거버넌스)<br>
+<ins>ISO/IEC 42001</ins> (AI 경영시스템)<br>
+<ins>ISO/IEC TR 24368</ins> (윤리·사회적 쟁점)<br>
 <br>
-
-## [1-5] ISO/IEC TR 24027:2021  Bias in AI systems and AI aided decision making
-▣ 개요 : AI 시스템 및 AI 기반 의사결정에서 발생하는 편향(bias)의 유형과 원인을 체계적으로 분석한 기술보고서(TR).<br>
-<br>
-▣ 구성 요약
-- 데이터 편향, 모델 편향, 사용 편향
-- 사회적 차별과 AI의 연관성
-- 편향 완화 전략 개요
-<br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC TR 24368 (윤리·사회적 쟁점)<br>
-- ISO/IEC 23894 (AI 위험관리)<br>
-<br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024027<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2038507<br>
 <br>
 
-## [1-6] ISO/IEC TR 24028:2020  Overview of trustworthiness in artificial intelligence
-▣ 개요 : AI의 신뢰성(trustworthiness) 개념을 종합적으로 정리한 개요 문서.<br>
+## [1-4] ISO/IEC/IEEE 42010:2022  시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description)
+**▣ 개요 :** 시스템 및 소프트웨어의 아키텍처를 일관되게 기술하기 위한 국제 공학 표준<br>
 <br>
-▣ 구성 요약
-- 신뢰성 요소: 투명성, 설명가능성, 안전성, 보안
-- 기술적·조직적 접근
-- 정책 및 표준과의 연계
+**▣ 표준의 특성 :** 비인증 표준<br>
+기본 공학 표준<br>
+AI를 포함한 모든 복합 시스템에 적용 가능<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 42001 (AI 경영시스템)<br>
-- ISO/IEC TR 24029 (강건성)<br>
+**▣ 구성 요약 :** <br>
+<ins>아키텍처 이해관계자 식별 :</ins> 시스템에 영향을 받는 이해관계자와 그 관심사를 구조적으로 정의<br>
+<ins>뷰(View)와 뷰포인트(Viewpoint) :</ins> 복잡한 시스템을 다양한 관점에서 설명할 수 있도록 지원<br>
+<ins>아키텍처 기술 산출물 정의 :</ins> 문서, 모델, 다이어그램 등 표현 수단을 표준화<br>
+<ins>시스템 생명주기 연계 :</ins> 설계부터 운영까지 아키텍처 기술의 지속적 활용을 규정<br>
 <br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024028<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC 23053</ins> (AI 시스템 프레임워크)<br>
+<ins>ISO/IEC 25010</ins> (시스템·소프트웨어 품질 모델)<br>
 <br>
-
-## [1-7] ISO/IEC TR 24029-1:2021  Assessment of the robustness of neural networks — Part 1: Overview
-▣ 개요 : 신경망 기반 AI의 강건성(robustness) 평가 개념과 필요성을 소개.<br>
-<br>
-▣ 구성 요약
-- 적대적 공격 개요
-- 강건성의 정의와 평가 관점
-- 기술적 배경 설명
-<br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC TR 24029-2<br>
-- ISO/IEC 23053<br>
-<br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-1<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%2FIEEE%2042010<br>
 <br>
 
-## [1-8] ISO/IEC TR 24029-2:2023  Assessment of the robustness of neural networks — Part 2: Methodologies
-▣ 개요 : Part 1을 확장하여 신경망 강건성 평가 방법론을 구체적으로 제시.<br>
+## [1-5] ISO/IEC TR 24027:2021  AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
+**▣ 개요 :** AI 시스템 및 AI 기반 의사결정에서 발생하는 편향(bias)의 유형과 원인을 체계적으로 분석한 기술보고서(TR)<br>
+**▣ 표준의 특성 :** 비인증 표준<br>
+기술보고서(TR)<br>
+윤리·위험관리 표준의 보조 문서<br>
 <br>
-▣ 구성 요약
-- 테스트 기법 및 시나리오
-- 공격 모델 기반 평가
-- 정량적 지표 개요
+**▣ 구성 요약 :** <br>
+<ins>편향의 개념 및 유형 분류 :</ins> 데이터, 알고리즘, 인간 개입 과정에서 발생하는 편향을 구분<br>
+<ins>의사결정 영향 분석 :</ins> 채용, 신용평가, 의료 등에서의 차별 가능성을 설명<br>
+<ins>편향 발생 원인 분석 :</ins> 기술적·조직적 원인을 함께 다룸<br>
+<ins>완화 전략 개요 :</ins> 측정, 관리, 거버넌스 차원의 대응 방향을 제시<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC TR 24029-1<br>
-- ISO/IEC 23894 (위험관리)<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC TR 24368</ins> (윤리·사회적 쟁점)<br>
+<ins>ISO/IEC 23894</ins> (AI 위험관리)<br>
 <br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-2<br>
-<br>
-
-## [1-9] ISO/IEC TR 24368:2022  Overview of ethical and societal concerns related to AI systems
-▣ 개요 : AI가 초래하는 윤리적·사회적 영향을 포괄적으로 다룬 개요 문서.<br>
-<br>
-▣ 구성 요약
-- 인간의 존엄성과 자율성
-- 사회적 불평등 및 차별
-- 책임성과 설명책임
-<br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 38507 (AI 거버넌스)<br>
-- ISO/IEC TR 24027 (편향)<br>
-<br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024368<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024027<br>
 <br>
 
-## [1-10] ISO/IEC TR 24030:2021  Artificial intelligence — Use cases
-▣ 개요 : AI 기술의 산업별·분야별 활용 사례(use case)를 정리한 기술보고서.<br>
+## [1-6] ISO/IEC TR 24028:2020  AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
+**▣ 개요 :** 신뢰할 수 있는 AI의 개념과 구성 요소를 종합적으로 정리한 개요 성격의 기술보고서<br>
 <br>
-▣ 구성 요약
-- 의료, 금융, 제조, 공공 분야 사례
-- 기술 적용 시 고려사항
-- 표준 개발을 위한 참고 사례
+**▣ 표준의 특성 :** 비인증 표준<br>
+개요형 기술보고서(TR)<br>
+AI 거버넌스·경영시스템 표준의 기초 문서<br>
 <br>
-▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 23053<br>
-- ISO/IEC 22989<br>
+**▣ 구성 요약 :**
+<ins>AI 신뢰성 개념 정립 :</ins> 기술적·사회적 신뢰성의 의미를 정의<br>
+<ins>핵심 신뢰성 요소 :</ins> 안전성, 보안성, 설명가능성, 투명성, 강건성 등을 설명<br>
+<ins>기술적 대응 접근 :</ins> 설계·개발 단계에서의 확보 방안을 개괄<br>
+<ins>조직·정책적 대응 :</ins> 내부 통제와 표준 준수의 중요성을 강조<br>
 <br>
-▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024030<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC 42001</ins> (AI 경영시스템)<br>
+<ins>ISO/IEC TR 24029</ins> (강건성)<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024028<br>
+<br>
+
+## [1-7] ISO/IEC TR 24029-1:2021  신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
+**▣ 개요 :** 신경망(Neural Network) 기반 AI 시스템이 입력 변화, 노이즈, 공격 환경에서도 안정적으로 동작하는 능력, 즉 *강건성(robustness)*의 개념과 필요성을 설명하는 기술보고서<br>
+<br>
+**▣ 표준의 특성 :** 비인증 표준<br>
+기술보고서(TR)<br>
+ISO/IEC TR 24029-2(방법론)의 개념·이론 기반 부가 표준<br>
+보안·안전·신뢰성 표준을 보조하는 설명 문서<br>
+<br>
+**▣ 구성 요약 :** <br>
+<ins>강건성 개념 정의 :</ins> 입력 데이터의 작은 변화나 예기치 않은 환경에서도 모델의 성능과 판단이 유지되는 능력으로서 강건성을 정의<br>
+<ins>위협 모델 개요 :</ins> 적대적 공격(adversarial attack), 입력 교란, 환경 변화 등 신경망이 취약해질 수 있는 위협 요인을 설명<br>
+<ins>강건성 평가 필요성 :</ins> 안전·보안·신뢰성 요구사항을 충족하기 위해 강건성 검증이 필수적임을 강조<br>
+<ins>평가 접근의 범위 :</ins> 정량적 평가와 정성적 평가를 포함하는 전체적인 평가 관점을 제시<br>
+<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+<ins>ISO/IEC TR 24029-2:2023</ins> 신경망 강건성 평가 방법론 (Assessment of the robustness of neural networks — Part 2: Methodologies)<br>
+<ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
+<ins>ISO/IEC TR 24028:2020</ins> AI 신뢰성 개요 (Overview of trustworthiness in artificial intelligence)<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-1<br>
+<br>
+
+## [1-8] ISO/IEC TR 24029-2:2023  신경망 강건성 평가 방법론(Assessment of the robustness of neural networks — Part 2: Methodologies)
+**▣ 개요 :** 신경망 기반 AI 시스템의 강건성을 실제적으로 평가·검증하기 위한 방법론을 제시하는 기술보고서<br>
+<br>
+**▣ 구성 요약 :** <br>
+테스트 기법 및 시나리오
+공격 모델 기반 평가
+정량적 지표 개요
+<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+ISO/IEC TR 24029-1<br>
+ISO/IEC 23894 (위험관리)<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-2<br>
+<br>
+
+## [1-9] ISO/IEC TR 24368:2022  AI 시스템의 윤리적·사회적 쟁점 개요(Overview of ethical and societal concerns related to AI systems)
+**▣ 개요 :** AI가 초래하는 윤리적·사회적 영향을 포괄적으로 다룬 개요 문서.<br>
+<br>
+**▣ 구성 요약 :** <br>
+인간의 존엄성과 자율성
+사회적 불평등 및 차별
+책임성과 설명책임
+<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+ISO/IEC 38507 (AI 거버넌스)<br>
+ISO/IEC TR 24027 (편향)<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024368<br>
+<br>
+
+## [1-10] ISO/IEC TR 24030:2021  AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
+**▣ 개요 :** AI 기술의 산업별·분야별 활용 사례(use case)를 정리한 기술보고서.<br>
+<br>
+**▣ 구성 요약 :** <br>
+의료, 금융, 제조, 공공 분야 사례
+기술 적용 시 고려사항
+표준 개발을 위한 참고 사례
+<br>
+**▣ 관련되는 다른 국제 표준 :** <br>
+ISO/IEC 23053<br>
+ISO/IEC 22989<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024030<br>
 <br>
 
 
