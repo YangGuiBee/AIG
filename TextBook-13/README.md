@@ -52,8 +52,8 @@
 	[1] 개념·기술적 기초(Concepts & Technical Foundations)
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
 	[1-2] ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
-	[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스, 이사회·임원 지침(Governance of IT — Governance implications of the use of AI by organizations)
-	[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description) [2022년 개정판]
+	[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스(Governance of IT — Governance implications of the use of AI by organizations)
+	[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description)
 	[1-5] ISO/IEC TR 24027:2021 AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
 	[1-6] ISO/IEC TR 24028:2020 AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
 	[1-7] ISO/IEC TR 24029-1:2021 신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
@@ -69,17 +69,17 @@
 	[2-5] ISO/IEC 5259-1:2023 데이터 품질과 ML 기반 — 개요, 용어 및 예시(Data quality for analytics and ML — Overview, terminology and examples)
 	[2-6] ISO/IEC 5259-2:2024 데이터 품질 측정 지표(Data quality measures)
 	[2-7] ISO/IEC 5259-3:2024 데이터 품질 요구사항 및 평가(Data quality requirements and evaluation)
-	[2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework) [2024년 발행완료]
-	[2-9] ISO/IEC 5259-5:2025 데이터 품질 거버넌스 프레임워크(Data quality for analytics and ML — Data quality governance framework) [2025년 발행예정]
+	[2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework)
+	[2-9] ISO/IEC 5259-5:2025 데이터 품질 거버넌스 프레임워크(Data quality for analytics and ML — Data quality governance framework)
 	[2-10] ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스(Artificial intelligence — AI system life cycle processes)
 
 	[3] 위험·품질 관리(Risk & Quality Management)
 	[3-1] ISO/IEC 23894:2023 AI 위험 관리(Artificial intelligence — Risk management)
-	[3-2] ISO/IEC 27090:2025 AI 사이버보안 (Cybersecurity — Artificial Intelligence) [FDIS상태, 2025년 발행예정]
+	[3-2] ISO/IEC 27090:2025 AI 사이버보안 (Cybersecurity — Artificial Intelligence)
 	[3-3] ISO/IEC 27091:2024 AI 시스템 특화 보안·개인정보보호 통제(Cybersecurity and privacy — AI system-specific security controls)
 	[3-4] ISO/IEC 25010:2011 기존 품질 모델, AI 품질의 기반(Systems and software quality model)
 	[3-5] ISO/IEC 25059:2023 AI 시스템 품질 모델(SQuaRE — Quality model for AI systems)
-	[3-6] ISO/IEC 25704:AWI AI 개발·운영 프로세스 능력 평가 모델(Artificial intelligence — Process assessment) [개발 중]
+	[3-6] ISO/IEC 25704:AWI AI 개발·운영 프로세스 능력 평가 모델(Artificial intelligence — Process assessment)
 	[3-7] ISO/IEC TS 4213:2022 머신러닝 분류 성능 평가(Assessment of machine learning classification performance)
 	[3-8] ISO/IEC TS 5469:2024 인공지능 시스템의 기능 안전(Artificial intelligence — Functional safety and AI systems)
 
@@ -87,17 +87,17 @@
 	[4-1] ISO/IEC 42005:2025 AI 시스템 영향 평가(Artificial intelligence — Impact assessment)
 	[4-2] ISO/IEC 42006:2025 AI 관리시스템 — 감사 및 인증을 제공하는 기관에 대한 요구사항(AIMS — Requirements for bodies providing audit and certification)
 	[4-3] ISO/IEC 42007:2024 AI 시스템 적합성 평가 프레임워크(Conformity assessment framework for AI systems)
-	[4-4] ISO/IEC 42008:예정 AI 시스템 평가 결과 및 대시보드(Evaluation results and dashboards for AI systems) [2026-2027년 예정]
-	[4-5] ISO/IEC CD TS 22443:예정 AI 사회적·윤리적 쟁점 해결 지침(Guidance on addressing societal concerns and ethical considerations of AI systems) [Draft 상태]
+	[4-4] ISO/IEC 42008:예정 AI 시스템 평가 결과 및 대시보드(Evaluation results and dashboards for AI systems) 
+	[4-5] ISO/IEC CD TS 22443:예정 AI 사회적·윤리적 쟁점 해결 지침(Guidance on addressing societal concerns and ethical considerations of AI systems)
 	[4-6] ISO/IEC TS 6254:2025 ML 설명가능성 및 해석가능성의 목표와 접근 방법(Objectives and approaches for explainability and interpretability of machine learning (ML) models and artificial intelligence (AI) systems)
 
 	[5] 도메인별 AI 표준 (Domain‑specific AI Standards)
 	로봇공학(Robotics)
-	[5-1] ISO 8373:2021 로봇 및 로봇 장치 — 용어(Robotics — Vocabulary) [2021년 개정판]
+	[5-1] ISO 8373:2021 로봇 및 로봇 장치 — 용어(Robotics — Vocabulary) 
 	[5-2] ISO 13482:2014 개인 서비스 로봇 안전 요구사항(Robots and robotic devices — Safety requirements for personal care robots)
 	지능형 교통 시스템(Intelligent Transport Systems)
-	[5-3] ISO 21217:2020 지능형 교통 시스템 아키텍처(Intelligent transport systems — Station and communication reference architecture) [2020년 개정판]
-	[5-4] ISO 23150:2023 차량–외부 장치 간 데이터 통신(Road vehicles — Data communication between vehicles and external equipment) [2023년 개정판]
+	[5-3] ISO 21217:2020 지능형 교통 시스템 아키텍처(Intelligent transport systems — Station and communication reference architecture)
+	[5-4] ISO 23150:2023 차량–외부 장치 간 데이터 통신(Road vehicles — Data communication between vehicles and external equipment) 
 	보건의료(Health Informatics)
 	[5-5] ISO 23903:2021 보건의료 정보 상호운용성·통합 참조 아키텍처(Health informatics — Interoperability and integration reference architecture)
 	[5-6] ISO/TR 24291:2021 보건의료 정보학 — 디지털 헬스에서의 머신러닝 적용(Health informatics — Applications of machine learning in digital health)
@@ -112,12 +112,43 @@
 
 ---
 
+### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
+
+① AWI (Approved / Active Work Item)<br>
+새 표준 과제가 공식 승인된 상태, 아직 문서 초안조차 없는 경우도 있음<br>
+표준의 “탄생 선언”, 범위(Scope), 목적, 작업반(WG)만 정의, 중단되면 그대로 사라질 수도 있음<br>
+예) ISO/IEC AWI 25704 → AI 프로세스 평가 표준 (현재 개발 중)<br>
+<br>
+② WD (Working Draft)<br>
+작업반 내부에서 작성 중인 비공개 초안, 기술적 실험·논쟁 단계<br>
+외부 배포 안됨, 내용이 자주 바뀜<br>
+<br>
+③ CD (Committee Draft)<br>
+위원회 차원의 공식 초안, 각국 전문가들이 본격적으로 코멘트<br>
+기술적 쟁점이 가장 치열한 단계, 부결되면 다시 WD로 돌아갈 수 있음, "아직 합의가 불완전"<br>
+<br>
+④ DIS (Draft International Standard)<br>
+국제표준 후보안, 모든 회원국이 투표<br>
+구조와 방향은 거의 확정, 기술적 수정은 제한적, “곧 표준이 될 문서”<br>
+예) ISO/IEC DIS 27090 (AI 사이버보안 표준, 2025년 기준)<br>
+<br>
+⑤ FDIS (Final Draft International Standard)<br>
+최종 투표 단계 초안, 내용 수정 거의 불가<br>
+사실상 IS 확정 직전, 형식·문구만 손보는 수준<br>
+<br>
+⑥ IS (International Standard)<br>
+정식 국제표준, 가장 중요한 단계<br>
+법·정책·인증·조직 적용의 기준, 시험, 강의, 실무에서 가장 많이 사용<br>
+<br>
+
+---
+
 # [1] 개념·기술적 기초(Concepts & Technical Foundations)
 
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
 	[1-2] ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
-	[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스, 이사회·임원 지침(Governance of IT — Governance implications of the use of AI by organizations)
-	[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description) [2022년 개정판]
+	[1-3] ISO/IEC 38507:2022 AI 사용에 대한 조직 거버넌스(Governance of IT — Governance implications of the use of AI by organizations)
+	[1-4] ISO/IEC/IEEE 42010:2022 시스템 및 소프트웨어 공학 — 아키텍처 기술(Systems and software engineering — Architecture description)
 	[1-5] ISO/IEC TR 24027:2021 AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
 	[1-6] ISO/IEC TR 24028:2020 AI 신뢰성 개요(Overview of trustworthiness in artificial intelligence)
 	[1-7] ISO/IEC TR 24029-1:2021 신경망 강건성 평가 개요(Assessment of the robustness of neural networks — Part 1: Overview)
