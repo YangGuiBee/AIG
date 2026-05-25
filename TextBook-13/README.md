@@ -240,14 +240,14 @@
 
 | 표준번호 | 제목 | 상태 |
 |---|---|---|
-| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점(Governance implications of the use of AI by organizations) | 제정완료<br>JWG1(SC40) 완료 후 해산 |
-| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템(Functional safety and AI systems) | 제정완료<br>JWG4(IEC/TC65A) |
-| ISO/IEC 18988 | AI 기반 시스템 테스팅(Testing of AI-based systems) | 개발중<br>JWG2(SC7) |
-| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI(AI in health informatics) | 개발중<br>JWG3(ISO/TC215) |
-| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈(Functional safety — AI systems multipart series) | 개발중<br>JWG4(IEC/TC65A) |
-| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1(Natural language processing standard 1) | 개발중<br>JWG5(ISO/TC37) |
-| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2(Natural language processing standard 2) | 개발중<br>JWG5(ISO/TC37) |
-| (적합성 평가 프레임워크) | AI 시스템 적합성 평가 체계(Conformity assessment framework for AI systems) | 개발중<br>JWG6(ISO CASCO) |
+| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점<br>(Governance implications of the use of AI by organizations) | 제정완료<br>JWG1(SC40) 해산 |
+| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템<br>(Functional safety and AI systems) | 제정완료<br>JWG4(IEC/TC65A) |
+| ISO/IEC 18988 | AI 기반 시스템 테스팅<br>(Testing of AI-based systems) | 개발중<br>JWG2(SC7) |
+| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI<br>(AI in health informatics) | 개발중<br>JWG3(ISO/TC215) |
+| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈<br>(Functional safety — AI systems multipart series) | 개발중<br>JWG4(IEC/TC65A) |
+| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1<br>(Natural language processing standard 1) | 개발중<br>JWG5(ISO/TC37) |
+| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2<br>(Natural language processing standard 2) | 개발중<br>JWG5(ISO/TC37) |
+| 적합성평가 프레임워크 | AI 시스템 적합성 평가 체계<br>(Conformity assessment framework for AI systems) | 개발중<br>JWG6(ISO CASCO) |
 
 ---
 
