@@ -143,7 +143,7 @@
 
 ---
 
-<img width ='900' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42f.png'>
+<img width ='900' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
 
 **ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회(Subcommittee)로 모든 AI 국제표준의 기획·조정·개발 중심<br>
 **Artificial Intelligence Standards :** SC42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함<br>
@@ -153,16 +153,15 @@
 | AI를 어떻게 정의하고,<br>어떻게 구조화할 것인가 | AI를 믿을 수 있는가,<br>사회적으로 허용 가능한가 | 누가 책임지고,<br>어떻게 통제할 것인가 |
 |ISO/IEC 22989—AI 개념·용어<br>ISO/IEC 23053—ML 기반 AI 시스템 프레임워크<br>ISO/IEC/IEEE 42010—AI 아키텍처 기술에 활용 |ISO/IEC TR 24028—AI 신뢰성 개요<br>ISO/IEC TR 24027—AI 편향<br>ISO/IEC TR 24029-1/2—신경망 강건성<br>ISO/IEC TR 24368—윤리·사회적 쟁점 | ISO/IEC 38507—조직의 AI 거버넌스<br>ISO/IEC 42001—AI 경영시스템 |
 
-<!--
-|Working Group|주요 담당 영역|
-|---|---|
-|WG 1|AI 개념, 용어, 기초 프레임워크|
-|WG 2|빅데이터·데이터 품질과 AI|
-|WG 3|AI 신뢰성, 윤리, 사회적 영향|
-|WG 4|AI 시스템 참조구조, 아키텍처|
-|WG 5|사용 사례(Use case)|
-|WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)|
--->
+
+|Working Group|주요 담당 영역|표준 작업|공동 작업|
+|---|---|---|---|
+|WG 1|AI 개념, 용어, 기초 프레임워크|6개 표준 (제정 완료 5, 개발 중 1)|JWG1(SC40) 해산|
+|WG 2|빅데이터·데이터 품질과 AI|12개 표준 (모두 제정 완료)|JWG1(SC7)|
+|WG 3|AI 신뢰성, 윤리, 사회적 영향|14개 표준 (제정 완료 13, 개발 중 1)|JWG1(ISO/TC215)|
+|WG 4|AI 시스템 참조구조, 아키텍처|4개 표준 (제정 완료 3, 개발 중 1)|JWG1(IEC/TC65A)|
+|WG 5|사용 사례(Use case)|4개 표준 (모두 제정 완료)|JWG1(ISO/TC37)|
+|WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)||JWG1(ISO/CASCO)|
 
 
 
