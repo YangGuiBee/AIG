@@ -120,34 +120,34 @@
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
 
 
-### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
+### ISO 표준의 생성절차(3~5년 소요) : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AWI.png'>
 
-**① AWI (Approved / Active Work Item)** <br>
+**① AWI (Approved / Active Work Item)** : TC/SC 투표로 작업 항목 공식 등록<br>
 새 표준 과제가 공식 승인된 상태, 아직 문서 초안조차 없는 경우도 있음<br>
 표준의 “탄생 선언”, 범위(Scope), 목적, 작업반(WG)만 정의, 중단되면 그대로 사라질 수도 있음<br>
 예) ISO/IEC AWI 25704 → AI 프로세스 평가 표준 (현재 개발 중)<br>
 <br>
-**② WD (Working Draft)** <br>
+**② WD (Working Draft)** : 전문가 그룹(WG) 내부 초안 작성·수정 반복<br>
 작업반 내부에서 작성 중인 비공개 초안, 기술적 실험·논쟁 단계<br>
 외부 배포 안됨, 내용이 자주 바뀜<br>
 <br>
-**③ CD (Committee Draft)** <br>
+**③ CD (Committee Draft)** : 회원국 기술 검토 및 의견 수렴<br>
 위원회 차원의 공식 초안, 각국 전문가들이 본격적으로 코멘트<br>
 기술적 쟁점이 가장 치열한 단계, 부결되면 다시 WD로 돌아갈 수 있음, "아직 합의가 불완전"<br>
 <br>
-**④ DIS (Draft International Standard)** <br>
+**④ DIS (Draft International Standard)** : 전 회원국 공개 투표(75% 찬성 필요)<br>
 국제표준 후보안, 모든 회원국이 투표<br>
 구조와 방향은 거의 확정, 기술적 수정은 제한적, “곧 표준이 될 문서”<br>
 예) ISO/IEC DIS 27090 (AI 사이버보안 표준, 2025년 기준)<br>
 <br>
-**⑤ FDIS (Final Draft International Standard)** <br>
+**⑤ FDIS (Final Draft International Standard)** : 최종 투표(75% 찬성 필요), 기술 내용 변경 불가<br>
 최종 투표 단계 초안, 내용 수정 거의 불가<br>
 사실상 IS 확정 직전, 형식·문구만 손보는 수준<br>
 <br>
-**⑥ IS (International Standard)** <br>
-정식 국제표준, 가장 중요한 단계<br>
+**⑥ IS (International Standard)** : FDIS 투표를 통과한 문서가 ISO 사무국에 의해 공식 출판되는 최종 단계<br>
+정식 국제표준, 가장 중요한 단계이며 5년주기로 검<br>
 법·정책·인증·조직 적용의 기준, 시험, 강의, 실무에서 가장 많이 사용<br>
 <br>
 
