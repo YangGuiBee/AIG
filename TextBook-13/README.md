@@ -145,7 +145,13 @@
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
 <br>
+ISO/IEC JTC1/SC42 : ISO/IEC에서 AI만을 전담하는 공식 분과위원회로 모든 AI 국제표준의 기획·조정·개발 중심
+Artificial Intelligence Standards : SC 42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함
 
+|① Concepts and Frameworks<br>(개념·프레임워크)|② Trustworthiness and Ethics<br>(신뢰성·윤리)|③ AI Governance<br> (조직·경영·의사결정)|
+|---|---|---|
+| AI를 어떻게 정의하고,<br>어떻게 구조화할 것인가 | AI를 믿을 수 있는가,<br>사회적으로 허용 가능한가 | 누가 책임지고,<br>어떻게 통제할 것인가 |
+|ISO/IEC 22989—AI 개념·용어<br>ISO/IEC 23053—ML 기반 AI 시스템 프레임워크<br>ISO/IEC/IEEE 42010—AI 아키텍처 기술에 활용 |ISO/IEC TR 24028—AI 신뢰성 개요<br>ISO/IEC TR 24027—AI 편향<br>ISO/IEC TR 24029-1/2—신경망 강건성<br>ISO/IEC TR 24368—윤리·사회적 쟁점 | ISO/IEC 38507—조직의 AI 거버넌스<br>ISO/IEC 42001—AI 경영시스템 |
 
 
 
