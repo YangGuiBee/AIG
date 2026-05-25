@@ -141,9 +141,9 @@
 <ins>AI 생명주기 개념 :</ins> 설계–개발–학습–배포–운영–유지관리–폐기의 전 과정을 개념적으로 제시<br>
 <br>
 ▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
-- ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
-- ISO/IEC 42001:2023 인공지능 경영시스템 (Artificial intelligence — Management system)<br>
+<ins>ISO/IEC 23053:2022</ins> 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
+<ins>ISO/IEC 23894:2023</ins> 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
+<ins>ISO/IEC 42001:2023</ins> 인공지능 경영시스템 (Artificial intelligence — Management system)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
 <br>
