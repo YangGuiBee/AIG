@@ -126,26 +126,36 @@
 	[1-10] ISO/IEC TR 24030:2021 AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
 
 
-## [1-1] ISO/IEC 22989:2022  Artificial intelligence — Concepts and terminology
-▣ 개요 : AI 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 문서로, AI 정책·기술·거버넌스 논의의 공통 언어 역할을 함. 다른 모든 AI 표준의 기초(reference standard)에 해당<br>
+## [1-1] ISO/IEC 22989:2022  인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
+▣ 개요 : 인공지능(AI) 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 국제표준으로, AI 기술·정책·거버넌스 논의의 공통 언어를 제공하는 최상위 기초 표준<br>
+<br>
+▣ 표준의 특성<br>
+- 기본 개념 표준(Foundational standard)
+- 인증 목적 아님(비인증 표준)
+- 대부분의 AI 국제표준에서 참조되는 기준 표준
 <br>
 ▣ 구성 요약<br>
-- AI의 정의 및 범위
-- AI 시스템 유형(규칙 기반, ML 기반 등)
-- 머신러닝, 딥러닝, 신경망 관련 용어
-- 생명주기(lifecycle) 개념
+- AI 기본 개념 체계 : AI, AI 시스템, 자동화된 지능 행위의 개념을 정의하고, 인간의 인지 기능(인식, 추론, 학습 등)을 시스템이 수행하는 범위를 명확히 규정<br>
+AI 접근 방식 분류 : 규칙 기반 AI, 통계적 접근, 머신러닝 기반 접근을 구분하여 기술하고, 각 방식의 적용 맥락과 한계를 설명<br>
+머신러닝·딥러닝 용어 정리 : 지도·비지도·강화학습, 신경망, 딥러닝 등 기술 용어를 일관되게 정의하여 표준 간 개념 혼선을 방지<br>
+AI 생명주기 개념 : 설계–개발–학습–배포–운영–유지관리–폐기의 전 과정을 개념적으로 제시<br>
 <br>
 ▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 23053 (ML 기반 AI 프레임워크)<br>
-- ISO/IEC 23894 (AI 위험관리)<br>
-- ISO/IEC 42001 (AI 경영시스템)<br>
+- ISO/IEC 23053:2022 머신러닝 기반 AI 시스템 프레임워크 (Framework for AI systems using machine learning)<br>
+- ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
+- ISO/IEC 42001:2023 인공지능 경영시스템 (Artificial intelligence — Management system)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
 <br>
 
-## [1-2] ISO/IEC 23053:2022  Framework for AI systems using machine learning
-▣ 개요 : 머신러닝 기반 AI 시스템의 구조적 프레임워크를 제시. 데이터–모델–운영–피드백의 전체 흐름을 체계화함.<br>
+## [1-2] ISO/IEC 23053:2022  머신러닝 기반 AI 시스템 프레임워크(Framework for AI systems using machine learning)
+▣ 개요 : 머신러닝을 사용하는 AI 시스템의 구성 요소와 상호작용 구조를 체계적으로 정리한 프레임워크 표준<br>
 <br>
+▣ 표준의 특성
+- 프레임워크 표준
+- 인증 목적 아님
+- ISO/IEC 22989를 기반으로 한 구조 확장 표준
+
 ▣ 구성 요약<br>
 - ML 기반 AI 시스템 참조 아키텍처
 - 학습, 추론, 배포, 모니터링 단계
