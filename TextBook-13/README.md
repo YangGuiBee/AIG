@@ -16,8 +16,7 @@
 
 
 
-표준
-
+<!--
 	 [1] 준비 단계 (Preparatory)
 	 [1-1] ISO/IEC 22989 (개념 및 용어) : 2022
 	 [1-2] ISO/IEC 23053 (ML 포레임워크) : 2022
@@ -46,8 +45,7 @@
 	 [6-3] ISO/IEC 42008 (AI 시스템 평가 및 대시보드) : 2026~2027
 	 [6-4] ISO/IEC 42009 (AI 윤리 지침) : 2026~2027
 	 [6-5] ISO/IEC 42010 (AI 시스템 설명가능성(XAI) 지침) 2026~2027
-
-
+-->
 
 	[1] 개념·기술적 기초(Concepts & Technical Foundations)
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
@@ -116,10 +114,10 @@
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
 
-PAS (Publicly Available Specification) : 빠른 공개를 위한 임시 표준<br>
-TR (Technical Report) : 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
-TS (Technical Specification) : 국제표준으로 발전하기 전 단계의 문서로, 합의는 되었지만 아직 충분히 성숙하지 않은 기술 기술 명세서<br>
-IS (International Standard) : 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
+**PAS (Publicly Available Specification) :** 빠른 공개를 위한 임시 표준<br>
+**TR (Technical Report) :** 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
+**TS (Technical Specification) :** 국제표준으로 발전하기 전 단계의 문서로, 합의는 되었지만 아직 충분히 성숙하지 않은 기술 기술 명세서<br>
+**IS (International Standard) :** 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
 <br>
 
 ### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
