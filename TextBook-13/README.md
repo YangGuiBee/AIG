@@ -126,53 +126,44 @@
 	[1-10] ISO/IEC TR 24030:2021 AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
 
 ## [1-1] ISO/IEC 22989:2022  Artificial intelligence — Concepts and terminology
-▣ 개요 : AI 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 문서로, AI 정책·기술·거버넌스 논의의 공통 언어 역할을 함. 다른 모든 AI 표준의 **기초(reference standard)**에 해당<br>
+▣ 개요 : AI 분야 전반에서 사용되는 핵심 개념과 용어를 표준화한 문서로, AI 정책·기술·거버넌스 논의의 공통 언어 역할을 함. 다른 모든 AI 표준의 기초(reference standard)에 해당<br>
+<br>
 ▣ 구성 요약<br>
 - AI의 정의 및 범위
 - AI 시스템 유형(규칙 기반, ML 기반 등)
 - 머신러닝, 딥러닝, 신경망 관련 용어
 - 생명주기(lifecycle) 개념
-<br>
 ▣ 관련되는 다른 국제 표준<br>
 - ISO/IEC 23053 (ML 기반 AI 프레임워크)
 - ISO/IEC 23894 (AI 위험관리)
 - ISO/IEC 42001 (AI 경영시스템)
-<br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2022989<br>
 <br>
 
-[1-2] ISO/IEC 23053:2022
-Framework for AI systems using machine learning
-▣ 개요
-머신러닝 기반 AI 시스템의 구조적 프레임워크를 제시. 데이터–모델–운영–피드백의 전체 흐름을 체계화함.
-▣ 구성 요약
+## [1-2] ISO/IEC 23053:2022  Framework for AI systems using machine learning
+▣ 개요 : 머신러닝 기반 AI 시스템의 구조적 프레임워크를 제시. 데이터–모델–운영–피드백의 전체 흐름을 체계화함.<br>
+<br>
+▣ 구성 요약<br>
+- ML 기반 AI 시스템 참조 아키텍처
+- 학습, 추론, 배포, 모니터링 단계
+- 데이터 관리 및 모델 업데이트 개념
+<br>
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 22989 (개념·용어)
+- ISO/IEC/IEEE 42010 (아키텍처 기술)
+- ISO/IEC TR 24029-1/2 (강건성)
+<br>
+▣ 전문 출처 웹사이트 : https://www.iso.org/search.html?q=ISO%2FIEC%2023053<br>
+<br>
 
-ML 기반 AI 시스템 참조 아키텍처
-학습, 추론, 배포, 모니터링 단계
-데이터 관리 및 모델 업데이트 개념
-
-▣ 관련되는 다른 국제 표준
-
-ISO/IEC 22989 (개념·용어)
-ISO/IEC/IEEE 42010 (아키텍처 기술)
-ISO/IEC TR 24029-1/2 (강건성)
-
-▣ 전문 출처 웹사이트
-
-https://www.iso.org/search.html?q=ISO%2FIEC%2023053
-
-
-[1-3] ISO/IEC 38507:2022
-Governance implications of the use of AI by organizations
-▣ 개요
-조직에서 AI를 사용할 때 이사회·경영진 차원의 거버넌스 원칙을 제시하는 표준.
-AI 거버넌스 강의의 핵심 문헌.
-▣ 구성 요약
-
-AI 사용에 따른 책임성과 투명성
-이사회 및 최고경영진의 의사결정 역할
-위험 관리 및 윤리적 고려
-기존 IT 거버넌스(ISO/IEC 38500)와의 연계
+## [1-3] ISO/IEC 38507:2022  Governance implications of the use of AI by organizations
+▣ 개요 : 조직에서 AI를 사용할 때 이사회·경영진 차원의 거버넌스 원칙을 제시하는 표준.<br>
+<br>
+▣ 구성 요약<br>
+- AI 사용에 따른 책임성과 투명성
+- 이사회 및 최고경영진의 의사결정 역할
+- 위험 관리 및 윤리적 고려
+- 기존 IT 거버넌스(ISO/IEC 38500)와의 연계
 
 ▣ 관련되는 다른 국제 표준
 
