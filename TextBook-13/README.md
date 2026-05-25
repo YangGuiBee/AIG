@@ -168,62 +168,62 @@
 
 ## WG 1 — Foundational Standards (AI 기초 표준)
 
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC 22989:2022 | 인공지능 개념 및 용어<br>(Artificial intelligence concepts and terminology) | 제정완료 |
-| ISO/IEC 23053:2022 | 기계학습을 사용하는 AI 시스템 프레임워크<br>(Framework for AI systems using machine learning) | 제정완료 |
-| ISO/IEC 42001:2023 | AI 관리 시스템<br>(AI management system) | 제정완료 |
-| ISO/IEC 42005:2025 | AI 시스템 영향 평가<br>(AI system impact assessment) | 제정완료 |
-| ISO/IEC 42006:2025 | AI 관리 시스템 심사·인증기관 요건<br>(Requirements for bodies providing audit and certification of AI management systems) | 제정완료 |
-| ISO/IEC 42007 | AI 시스템 적합성 평가 체계 프레임워크<br>(Framework for conformity assessment schemes for AI systems) | 개발중 |
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 22989:2022 | 인공지능 개념 및 용어<br>(Artificial intelligence concepts and terminology) |
+| ISO/IEC 23053:2022 | 기계학습을 사용하는 AI 시스템 프레임워크<br>(Framework for AI systems using machine learning) |
+| ISO/IEC 42001:2023 | AI 관리 시스템<br>(AI management system) |
+| ISO/IEC 42005:2025 | AI 시스템 영향 평가<br>(AI system impact assessment) |
+| ISO/IEC 42006:2025 | AI 관리 시스템 심사·인증기관 요건<br>(Requirements for bodies providing audit and certification of AI management systems) |
+| ISO/IEC 42007:개발중 | AI 시스템 적합성 평가 체계 프레임워크<br>(Framework for conformity assessment schemes for AI systems) |
 
 
 ## WG 2 — Data (AI 데이터·빅데이터)
 
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC 20546:2019 | 빅데이터 개요 및 용어<br>(Big data — Overview and vocabulary) | 제정완료 |
-| ISO/IEC 20547-1:2020 | 빅데이터 참조 아키텍처 — 제1부: 프레임워크 및 응용 프로세스<br>(Big data reference architecture — Part 1: Framework and application process) | 제정완료 |
-| ISO/IEC TR 20547-2:2018 | 빅데이터 참조 아키텍처 — 제2부: 활용 사례 및 요건<br>(Big data reference architecture — Part 2: Use cases and derived requirements) | 제정완료 |
-| ISO/IEC 20547-3:2020 | 빅데이터 참조 아키텍처 — 제3부: 참조 아키텍처<br>(Big data reference architecture — Part 3: Reference architecture) | 제정완료 |
-| ISO/IEC TR 20547-5:2018 | 빅데이터 참조 아키텍처 — 제5부: 표준 로드맵<br>(Big data reference architecture — Part 5: Standards roadmap) | 제정완료 |
-| ISO/IEC 24668:2022 | 빅데이터 분석 프로세스 관리 프레임워크<br>(Process management framework for big data analytics) | 제정완료 |
-| ISO/IEC 8183:2023 | 데이터 생애주기 프레임워크<br>(Data life cycle framework) | 제정완료 |
-| ISO/IEC 5259-1:2024 | 분석 및 ML을 위한 데이터 품질 — 제1부: 개요, 용어 및 예시<br>(Data quality for analytics and ML — Part 1: Overview, terminology and examples) | 제정완료 |
-| ISO/IEC 5259-2:2024 | 분석 및 ML을 위한 데이터 품질 — 제2부: 데이터 품질 측정<br>(Data quality for analytics and ML — Part 2: Data quality measures) | 제정완료 |
-| ISO/IEC 5259-3:2024 | 분석 및 ML을 위한 데이터 품질 — 제3부: 데이터 품질 관리 요건 및 지침<br>(Data quality for analytics and ML — Part 3: Data quality management requirements and guidelines) | 제정완료 |
-| ISO/IEC 5259-4:2024 | 분석 및 ML을 위한 데이터 품질 — 제4부: 데이터 품질 프로세스 프레임워크<br>(Data quality for analytics and ML — Part 4: Data quality process framework) | 제정완료 |
-| ISO/IEC 5259-5:2025 | 분석 및 ML을 위한 데이터 품질 — 제5부: 데이터 품질 거버넌스 프레임워크<br>(Data quality for analytics and ML — Part 5: Data quality governance framework) | 제정완료 |
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 20546:2019 | 빅데이터 개요 및 용어<br>(Big data — Overview and vocabulary) |
+| ISO/IEC 20547-1:2020 | 빅데이터 참조 아키텍처 — 제1부: 프레임워크 및 응용 프로세스<br>(Big data reference architecture — Part 1: Framework and application process) |
+| ISO/IEC TR 20547-2:2018 | 빅데이터 참조 아키텍처 — 제2부: 활용 사례 및 요건<br>(Big data reference architecture — Part 2: Use cases and derived requirements) |
+| ISO/IEC 20547-3:2020 | 빅데이터 참조 아키텍처 — 제3부: 참조 아키텍처<br>(Big data reference architecture — Part 3: Reference architecture) |
+| ISO/IEC TR 20547-5:2018 | 빅데이터 참조 아키텍처 — 제5부: 표준 로드맵<br>(Big data reference architecture — Part 5: Standards roadmap) |
+| ISO/IEC 24668:2022 | 빅데이터 분석 프로세스 관리 프레임워크<br>(Process management framework for big data analytics) |
+| ISO/IEC 8183:2023 | 데이터 생애주기 프레임워크<br>(Data life cycle framework) |
+| ISO/IEC 5259-1:2024 | 분석 및 ML을 위한 데이터 품질 — 제1부: 개요, 용어 및 예시<br>(Data quality for analytics and ML — Part 1: Overview, terminology and examples) |
+| ISO/IEC 5259-2:2024 | 분석 및 ML을 위한 데이터 품질 — 제2부: 데이터 품질 측정<br>(Data quality for analytics and ML — Part 2: Data quality measures) |
+| ISO/IEC 5259-3:2024 | 분석 및 ML을 위한 데이터 품질 — 제3부: 데이터 품질 관리 요건 및 지침<br>(Data quality for analytics and ML — Part 3: Data quality management requirements and guidelines) |
+| ISO/IEC 5259-4:2024 | 분석 및 ML을 위한 데이터 품질 — 제4부: 데이터 품질 프로세스 프레임워크<br>(Data quality for analytics and ML — Part 4: Data quality process framework) |
+| ISO/IEC 5259-5:2025 | 분석 및 ML을 위한 데이터 품질 — 제5부: 데이터 품질 거버넌스 프레임워크<br>(Data quality for analytics and ML — Part 5: Data quality governance framework) |
 
 
 ## WG 3 — Trustworthiness (AI 신뢰성)
 
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC TR 24028:2020 | 인공지능 신뢰성 개요<br>(Overview of trustworthiness in artificial intelligence) | 제정완료 |
-| ISO/IEC TR 24027:2021 | AI 시스템 및 AI 지원 의사결정의 편향<br>(Bias in AI systems and AI aided decision making) | 제정완료 |
-| ISO/IEC TR 24029-1:2021 | 신경망 강건성 평가 — 제1부: 개요<br>(Assessment of the robustness of neural networks — Part 1: Overview) | 제정완료 |
-| ISO/IEC 24029-2:2023 | 신경망 강건성 평가 — 제2부: 형식적 방법론<br>(Assessment of the robustness of neural networks — Part 2: Methodology using formal methods) | 제정완료 |
-| ISO/IEC TR 24368:2022 | 윤리적·사회적 우려사항 개요<br>(Overview of ethical and societal concerns) | 제정완료 |
-| ISO/IEC TS 4213:2022 | 기계학습 분류 성능 평가<br>(Assessment of machine learning classification performance) | 제정완료 |
-| ISO/IEC 23894:2023 | AI 리스크 관리 지침<br>(Guidance on risk management) | 제정완료 |
-| ISO/IEC 25059:2023 | SQuaRE — AI 시스템 품질 모델<br>(SQuaRE — Quality model for AI systems) | 제정완료 |
-| ISO/IEC TS 25058:2024 | SQuaRE — AI 시스템 품질 평가 지침<br>(SQuaRE — Guidance for quality evaluation of AI systems) | 제정완료 |
-| ISO/IEC TS 8200:2024 | 자동화 AI 시스템의 제어가능성<br>(Controllability of automated AI systems) | 제정완료 |
-| ISO/IEC TS 12791:2024 | 분류 및 회귀 ML 작업의 의도치 않은 편향 처리<br>(Treatment of unwanted bias in classification and regression ML tasks) | 제정완료 |
-| ISO/IEC 12792:2025 | AI 시스템 투명성 분류체계<br>(Transparency taxonomy of AI systems) | 제정완료 |
-| ISO/IEC TS 6254:2025 | ML 모델 및 AI 시스템의 설명가능성·해석가능성 목표 및 방법론<br>(Objectives and approaches for explainability and interpretability of ML models and AI systems) | 제정완료 |
-| ISO/IEC 24029-3 | 신경망 강건성 평가 — 제3부: 통계적 방법론<br>(Assessment of the robustness of neural networks — Part 3: Statistical methods) | 개발중 |
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC TR 24028:2020 | 인공지능 신뢰성 개요<br>(Overview of trustworthiness in artificial intelligence) |
+| ISO/IEC TR 24027:2021 | AI 시스템 및 AI 지원 의사결정의 편향<br>(Bias in AI systems and AI aided decision making) |
+| ISO/IEC TR 24029-1:2021 | 신경망 강건성 평가 — 제1부: 개요<br>(Assessment of the robustness of neural networks — Part 1: Overview) |
+| ISO/IEC 24029-2:2023 | 신경망 강건성 평가 — 제2부: 형식적 방법론<br>(Assessment of the robustness of neural networks — Part 2: Methodology using formal methods) |
+| ISO/IEC TR 24368:2022 | 윤리적·사회적 우려사항 개요<br>(Overview of ethical and societal concerns) |
+| ISO/IEC TS 4213:2022 | 기계학습 분류 성능 평가<br>(Assessment of machine learning classification performance) |
+| ISO/IEC 23894:2023 | AI 리스크 관리 지침<br>(Guidance on risk management) |
+| ISO/IEC 25059:2023 | SQuaRE — AI 시스템 품질 모델<br>(SQuaRE — Quality model for AI systems) |
+| ISO/IEC TS 25058:2024 | SQuaRE — AI 시스템 품질 평가 지침<br>(SQuaRE — Guidance for quality evaluation of AI systems) |
+| ISO/IEC TS 8200:2024 | 자동화 AI 시스템의 제어가능성<br>(Controllability of automated AI systems) |
+| ISO/IEC TS 12791:2024 | 분류 및 회귀 ML 작업의 의도치 않은 편향 처리<br>(Treatment of unwanted bias in classification and regression ML tasks) |
+| ISO/IEC 12792:2025 | AI 시스템 투명성 분류체계<br>(Transparency taxonomy of AI systems) |
+| ISO/IEC TS 6254:2025 | ML 모델 및 AI 시스템의 설명가능성·해석가능성 목표 및 방법론<br>(Objectives and approaches for explainability and interpretability of ML models and AI systems) |
+| ISO/IEC 24029-3:개발중 | 신경망 강건성 평가 — 제3부: 통계적 방법론<br>(Assessment of the robustness of neural networks — Part 3: Statistical methods) |
 
 
 ## WG 4 — Use Cases and Applications (AI 활용 사례 및 응용)
 
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC TR 24030:2024 | AI 활용 사례<br>(AI use cases) | 제정완료 |
-| ISO/IEC 5338:2023 | AI 시스템 생애주기 프로세스<br>(AI system life cycle processes) | 제정완료 |
-| ISO/IEC 5339:2024 | AI 응용 프로그램 지침<br>(Guidelines for AI applications) | 제정완료 |
-| ISO/IEC 22440 (multipart) | 인간-기계 협업 표준<br>(Human-machine collaboration standards) | 개발중 |
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC TR 24030:2024 | AI 활용 사례<br>(AI use cases) |
+| ISO/IEC 5338:2023 | AI 시스템 생애주기 프로세스<br>(AI system life cycle processes) |
+| ISO/IEC 5339:2024 | AI 응용 프로그램 지침<br>(Guidelines for AI applications) |
+| ISO/IEC 22440(multipart):개발중 | 인간-기계 협업 표준<br>(Human-machine collaboration standards) |
 
 
 ## WG 5 — Computational Approaches (AI 계산 접근법 및 특성)
@@ -238,16 +238,16 @@
 
 ## JWG — Joint Working Groups (공동 작업 그룹)
 
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점<br>(Governance implications of the use of AI by organizations) | 제정완료<br>JWG1(SC40) 해산 |
-| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템<br>(Functional safety and AI systems) | 제정완료<br>JWG4(IEC/TC65A) |
-| ISO/IEC 18988 | AI 기반 시스템 테스팅<br>(Testing of AI-based systems) | 개발중<br>JWG2(SC7) |
-| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI<br>(AI in health informatics) | 개발중<br>JWG3(ISO/TC215) |
-| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈<br>(Functional safety — AI systems multipart series) | 개발중<br>JWG4(IEC/TC65A) |
-| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1<br>(Natural language processing standard 1) | 개발중<br>JWG5(ISO/TC37) |
-| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2<br>(Natural language processing standard 2) | 개발중<br>JWG5(ISO/TC37) |
-| 적합성평가 프레임워크 | AI 시스템 적합성 평가 체계<br>(Conformity assessment framework for AI systems) | 개발중<br>JWG6(ISO CASCO) |
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점<br>(Governance implications of the use of AI by organizations)<br>JWG1(SC40) 제정완료 후 해산 |
+| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템<br>(Functional safety and AI systems)<br>JWG4(IEC/TC65A) 개발중 |
+| ISO/IEC 18988 | AI 기반 시스템 테스팅<br>(Testing of AI-based systems)<br>JWG2(SC7) 개발중 |
+| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI<br>(AI in health informatics)<br>JWG3(ISO/TC215) 개발중 |
+| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈<br>(Functional safety — AI systems multipart series)<br>JWG4(IEC/TC65A) 개발중 |
+| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1<br>(Natural language processing standard 1)<br>JWG5(ISO/TC37) 개발중 |
+| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2<br>(Natural language processing standard 2)<br>JWG5(ISO/TC37) 개발중 |
+| 적합성평가 프레임워크 | AI 시스템 적합성 평가 체계<br>(Conformity assessment framework for AI systems)<br>JWG6(ISO CASCO) 개발중 |
 
 ---
 
