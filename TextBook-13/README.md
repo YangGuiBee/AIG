@@ -114,12 +114,12 @@
 
 ### ISO 표준의 생성절차 : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
 
-① AWI (Approved / Active Work Item)<br>
+**① AWI (Approved / Active Work Item)** <br>
 새 표준 과제가 공식 승인된 상태, 아직 문서 초안조차 없는 경우도 있음<br>
 표준의 “탄생 선언”, 범위(Scope), 목적, 작업반(WG)만 정의, 중단되면 그대로 사라질 수도 있음<br>
 예) ISO/IEC AWI 25704 → AI 프로세스 평가 표준 (현재 개발 중)<br>
 <br>
-② WD (Working Draft)<br>
+#### ② WD (Working Draft)<br>
 작업반 내부에서 작성 중인 비공개 초안, 기술적 실험·논쟁 단계<br>
 외부 배포 안됨, 내용이 자주 바뀜<br>
 <br>
