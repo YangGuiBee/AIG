@@ -152,9 +152,9 @@
 - 데이터 관리 및 모델 업데이트 개념
 <br>
 ▣ 관련되는 다른 국제 표준<br>
-- ISO/IEC 22989 (개념·용어)
-- ISO/IEC/IEEE 42010 (아키텍처 기술)
-- ISO/IEC TR 24029-1/2 (강건성)
+- ISO/IEC 22989 (개념·용어)<br>
+- ISO/IEC/IEEE 42010 (아키텍처 기술)<br>
+- ISO/IEC TR 24029-1/2 (강건성)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2023053<br>
 <br>
@@ -168,10 +168,10 @@
 - 위험 관리 및 윤리적 고려
 - 기존 IT 거버넌스(ISO/IEC 38500)와의 연계
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC 38500 (IT 거버넌스)
-- ISO/IEC 42001 (AI 경영시스템)
-- ISO/IEC TR 24368 (윤리·사회적 쟁점)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 38500 (IT 거버넌스)<br>
+- ISO/IEC 42001 (AI 경영시스템)<br>
+- ISO/IEC TR 24368 (윤리·사회적 쟁점)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%2038507<br>
 <br>
@@ -184,9 +184,9 @@
 - 뷰(view)와 뷰포인트(viewpoint)
 - 아키텍처 기술 산출물 정의
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC 23053 (AI 시스템 프레임워크)
-- ISO/IEC 25010 (시스템 품질 모델)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 23053 (AI 시스템 프레임워크)<br>
+- ISO/IEC 25010 (시스템 품질 모델)<br>
 <br>
 ▣ 전문 출처 웹사이트 : https://www.iso.org/search.html?q=ISO%2FIEC%2FIEEE%2042010
 <br>
@@ -199,9 +199,9 @@
 - 사회적 차별과 AI의 연관성
 - 편향 완화 전략 개요
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC TR 24368 (윤리·사회적 쟁점)
-- ISO/IEC 23894 (AI 위험관리)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC TR 24368 (윤리·사회적 쟁점)<br>
+- ISO/IEC 23894 (AI 위험관리)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024027<br>
 <br>
@@ -214,9 +214,9 @@
 - 기술적·조직적 접근
 - 정책 및 표준과의 연계
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC 42001 (AI 경영시스템)
-- ISO/IEC TR 24029 (강건성)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 42001 (AI 경영시스템)<br>
+- ISO/IEC TR 24029 (강건성)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024028<br>
 <br>
@@ -229,9 +229,9 @@
 - 강건성의 정의와 평가 관점
 - 기술적 배경 설명
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC TR 24029-2
-- ISO/IEC 23053
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC TR 24029-2<br>
+- ISO/IEC 23053<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-1<br>
 <br>
@@ -244,9 +244,9 @@
 - 공격 모델 기반 평가
 - 정량적 지표 개요
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC TR 24029-1
-- ISO/IEC 23894 (위험관리)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC TR 24029-1<br>
+- ISO/IEC 23894 (위험관리)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024029-2<br>
 <br>
@@ -259,9 +259,9 @@
 - 사회적 불평등 및 차별
 - 책임성과 설명책임
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC 38507 (AI 거버넌스)
-- ISO/IEC TR 24027 (편향)
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 38507 (AI 거버넌스)<br>
+- ISO/IEC TR 24027 (편향)<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024368<br>
 <br>
@@ -274,9 +274,9 @@
 - 기술 적용 시 고려사항
 - 표준 개발을 위한 참고 사례
 <br>
-▣ 관련되는 다른 국제 표준
-- ISO/IEC 23053
-- ISO/IEC 22989
+▣ 관련되는 다른 국제 표준<br>
+- ISO/IEC 23053<br>
+- ISO/IEC 22989<br>
 <br>
 ▣ 전문 출처 : https://www.iso.org/search.html?q=ISO%2FIEC%20TR%2024030<br>
 <br>
