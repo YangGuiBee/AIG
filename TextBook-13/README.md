@@ -145,7 +145,6 @@
 
 <img width ='1000' height = '500' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42f.png'>
 <br>
-
 <!--
 |Working Group|주요 담당 영역|
 |---|---|
@@ -156,7 +155,6 @@
 |WG 5|사용 사례(Use case)|
 |WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)|
 -->
-
 **ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회(Subcommittee)로 모든 AI 국제표준의 기획·조정·개발 중심<br>
 **Artificial Intelligence Standards :** SC42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함<br>
 
