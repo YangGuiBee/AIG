@@ -110,6 +110,23 @@
 
 ---
 
+### ISO 표준
+
+![](./images/ISO_1.png)
+<br>
+
+![](./images/ISO_2.png)
+<br>
+
+![](./images/ISO_3.png)
+<br>
+
+![](./images/ISO_4.png)
+<br>
+
+![](./images/ISO_5.png)
+<br>
+
 ### ISO 표준 유형
 **PAS (Publicly Available Specification) :** 빠른 공개를 위한 임시 표준<br>
 **TR (Technical Report) :** 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
