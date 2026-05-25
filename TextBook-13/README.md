@@ -145,8 +145,9 @@
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
 <br>
-ISO/IEC JTC1/SC42 : ISO/IEC에서 AI만을 전담하는 공식 분과위원회로 모든 AI 국제표준의 기획·조정·개발 중심
-Artificial Intelligence Standards : SC 42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함
+
+**ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회로 모든 AI 국제표준의 기획·조정·개발 중심<br>
+**Artificial Intelligence Standards :** SC42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함<br>
 
 |① Concepts and Frameworks<br>(개념·프레임워크)|② Trustworthiness and Ethics<br>(신뢰성·윤리)|③ AI Governance<br> (조직·경영·의사결정)|
 |---|---|---|
