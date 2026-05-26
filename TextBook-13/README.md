@@ -390,112 +390,6 @@
 
 ---
 
-<img width ='900' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
-
-**ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회(Subcommittee)로 모든 AI 국제표준의 기획·조정·개발 중심<br>
-**Artificial Intelligence Standards :** SC42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함<br>
-
-|① Concepts and Frameworks<br>(개념·프레임워크)|② Trustworthiness and Ethics<br>(신뢰성·윤리)|③ AI Governance<br> (조직·경영·의사결정)|
-|---|---|---|
-| AI를 어떻게 정의하고,<br>어떻게 구조화할 것인가 | AI를 믿을 수 있는가,<br>사회적으로 허용 가능한가 | 누가 책임지고,<br>어떻게 통제할 것인가 |
-|ISO/IEC 22989—AI 개념·용어<br>ISO/IEC 23053—ML 기반 AI 시스템 프레임워크<br>ISO/IEC/IEEE 42010—AI 아키텍처 기술에 활용 |ISO/IEC TR 24028—AI 신뢰성 개요<br>ISO/IEC TR 24027—AI 편향<br>ISO/IEC TR 24029-1/2—신경망 강건성<br>ISO/IEC TR 24368—윤리·사회적 쟁점 | ISO/IEC 38507—조직의 AI 거버넌스<br>ISO/IEC 42001—AI 경영시스템 |
-
-
-|Working Group|주요 담당 영역|표준 작업|공동 작업|
-|---|---|---|---|
-|WG 1|AI 개념, 용어, 기초 프레임워크|6개 표준 (제정 완료 5, 개발 중 1)|JWG1(SC40) 해산|
-|WG 2|빅데이터·데이터 품질과 AI|12개 표준 (모두 제정 완료)|JWG1(SC7)|
-|WG 3|AI 신뢰성, 윤리, 사회적 영향|14개 표준 (제정 완료 13, 개발 중 1)|JWG1(ISO/TC215)|
-|WG 4|AI 시스템 참조구조, 아키텍처|4개 표준 (제정 완료 3, 개발 중 1)|JWG1(IEC/TC65A)|
-|WG 5|사용 사례(Use case)|4개 표준 (모두 제정 완료)|JWG1(ISO/TC37)|
-|WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)||JWG1(ISO/CASCO)|
-
-
-## WG 1 — Foundational Standards (AI 기초 표준)
-
-| 표준번호 | 제목 |
-|---|---|
-| ISO/IEC 22989:2022 | 인공지능 개념 및 용어<br>(Artificial intelligence concepts and terminology) |
-| ISO/IEC 23053:2022 | 기계학습을 사용하는 AI 시스템 프레임워크<br>(Framework for AI systems using machine learning) |
-| ISO/IEC 42001:2023 | AI 관리 시스템<br>(AI management system) |
-| ISO/IEC 42005:2025 | AI 시스템 영향 평가<br>(AI system impact assessment) |
-| ISO/IEC 42006:2025 | AI 관리 시스템 심사·인증기관 요건<br>(Requirements for bodies providing audit and certification of AI management systems) |
-| ISO/IEC 42007:개발중 | AI 시스템 적합성 평가 체계 프레임워크<br>(Framework for conformity assessment schemes for AI systems) |
-
-
-## WG 2 — Data (AI 데이터·빅데이터)
-
-| 표준번호 | 제목 |
-|---|---|
-| ISO/IEC 20546:2019 | 빅데이터 개요 및 용어<br>(Big data — Overview and vocabulary) |
-| ISO/IEC 20547-1:2020 | 빅데이터 참조 아키텍처 — 제1부: 프레임워크 및 응용 프로세스<br>(Big data reference architecture — Part 1: Framework and application process) |
-| ISO/IEC TR 20547-2:2018 | 빅데이터 참조 아키텍처 — 제2부: 활용 사례 및 요건<br>(Big data reference architecture — Part 2: Use cases and derived requirements) |
-| ISO/IEC 20547-3:2020 | 빅데이터 참조 아키텍처 — 제3부: 참조 아키텍처<br>(Big data reference architecture — Part 3: Reference architecture) |
-| ISO/IEC TR 20547-5:2018 | 빅데이터 참조 아키텍처 — 제5부: 표준 로드맵<br>(Big data reference architecture — Part 5: Standards roadmap) |
-| ISO/IEC 24668:2022 | 빅데이터 분석 프로세스 관리 프레임워크<br>(Process management framework for big data analytics) |
-| ISO/IEC 8183:2023 | 데이터 생애주기 프레임워크<br>(Data life cycle framework) |
-| ISO/IEC 5259-1:2024 | 분석 및 ML을 위한 데이터 품질 — 제1부: 개요, 용어 및 예시<br>(Data quality for analytics and ML — Part 1: Overview, terminology and examples) |
-| ISO/IEC 5259-2:2024 | 분석 및 ML을 위한 데이터 품질 — 제2부: 데이터 품질 측정<br>(Data quality for analytics and ML — Part 2: Data quality measures) |
-| ISO/IEC 5259-3:2024 | 분석 및 ML을 위한 데이터 품질 — 제3부: 데이터 품질 관리 요건 및 지침<br>(Data quality for analytics and ML — Part 3: Data quality management requirements and guidelines) |
-| ISO/IEC 5259-4:2024 | 분석 및 ML을 위한 데이터 품질 — 제4부: 데이터 품질 프로세스 프레임워크<br>(Data quality for analytics and ML — Part 4: Data quality process framework) |
-| ISO/IEC 5259-5:2025 | 분석 및 ML을 위한 데이터 품질 — 제5부: 데이터 품질 거버넌스 프레임워크<br>(Data quality for analytics and ML — Part 5: Data quality governance framework) |
-
-
-## WG 3 — Trustworthiness (AI 신뢰성)
-
-| 표준번호 | 제목 |
-|---|---|
-| ISO/IEC TR 24028:2020 | 인공지능 신뢰성 개요<br>(Overview of trustworthiness in artificial intelligence) |
-| ISO/IEC TR 24027:2021 | AI 시스템 및 AI 지원 의사결정의 편향<br>(Bias in AI systems and AI aided decision making) |
-| ISO/IEC TR 24029-1:2021 | 신경망 강건성 평가 — 제1부: 개요<br>(Assessment of the robustness of neural networks — Part 1: Overview) |
-| ISO/IEC 24029-2:2023 | 신경망 강건성 평가 — 제2부: 형식적 방법론<br>(Assessment of the robustness of neural networks — Part 2: Methodology using formal methods) |
-| ISO/IEC TR 24368:2022 | 윤리적·사회적 우려사항 개요<br>(Overview of ethical and societal concerns) |
-| ISO/IEC TS 4213:2022 | 기계학습 분류 성능 평가<br>(Assessment of machine learning classification performance) |
-| ISO/IEC 23894:2023 | AI 리스크 관리 지침<br>(Guidance on risk management) |
-| ISO/IEC 25059:2023 | SQuaRE — AI 시스템 품질 모델<br>(SQuaRE — Quality model for AI systems) |
-| ISO/IEC TS 25058:2024 | SQuaRE — AI 시스템 품질 평가 지침<br>(SQuaRE — Guidance for quality evaluation of AI systems) |
-| ISO/IEC TS 8200:2024 | 자동화 AI 시스템의 제어가능성<br>(Controllability of automated AI systems) |
-| ISO/IEC TS 12791:2024 | 분류 및 회귀 ML 작업의 의도치 않은 편향 처리<br>(Treatment of unwanted bias in classification and regression ML tasks) |
-| ISO/IEC 12792:2025 | AI 시스템 투명성 분류체계<br>(Transparency taxonomy of AI systems) |
-| ISO/IEC TS 6254:2025 | ML 모델 및 AI 시스템의 설명가능성·해석가능성 목표 및 방법론<br>(Objectives and approaches for explainability and interpretability of ML models and AI systems) |
-| ISO/IEC 24029-3:개발중 | 신경망 강건성 평가 — 제3부: 통계적 방법론<br>(Assessment of the robustness of neural networks — Part 3: Statistical methods) |
-
-
-## WG 4 — Use Cases and Applications (AI 활용 사례 및 응용)
-
-| 표준번호 | 제목 |
-|---|---|
-| ISO/IEC TR 24030:2024 | AI 활용 사례<br>(AI use cases) |
-| ISO/IEC 5338:2023 | AI 시스템 생애주기 프로세스<br>(AI system life cycle processes) |
-| ISO/IEC 5339:2024 | AI 응용 프로그램 지침<br>(Guidelines for AI applications) |
-| ISO/IEC 22440(multipart):개발중 | 인간-기계 협업 표준<br>(Human-machine collaboration standards) |
-
-
-## WG 5 — Computational Approaches (AI 계산 접근법 및 특성)
-
-| 표준번호 | 제목 | 상태 |
-|---|---|---|
-| ISO/IEC TR 24372:2021 | AI 시스템 계산 방법 개요<br>(Overview of computational methods for AI systems) | 제정완료 |
-| ISO/IEC 5392:2024 | 지식 공학 참조 아키텍처<br>(Reference architecture of knowledge engineering) | 제정완료 |
-| ISO/IEC 17903:2024 | 기계학습 컴퓨팅 장치 개요<br>(Overview of machine learning computing devices) | 제정완료 |
-| ISO/IEC TR 20226:2025 | AI 시스템의 환경적 지속가능성<br>(Environmental sustainability aspects of AI systems) | 제정완료 |
-
-
-## JWG — Joint Working Groups (공동 작업 그룹)
-
-| 표준번호 | 제목 |
-|---|---|
-| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점<br>(Governance implications of the use of AI by organizations)<br>JWG1(SC40) 제정완료 후 해산 |
-| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템<br>(Functional safety and AI systems)<br>JWG4(IEC/TC65A) 개발중 |
-| ISO/IEC 18988 | AI 기반 시스템 테스팅<br>(Testing of AI-based systems)<br>JWG2(SC7) 개발중 |
-| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI<br>(AI in health informatics)<br>JWG3(ISO/TC215) 개발중 |
-| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈<br>(Functional safety — AI systems multipart series)<br>JWG4(IEC/TC65A) 개발중 |
-| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1<br>(Natural language processing standard 1)<br>JWG5(ISO/TC37) 개발중 |
-| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2<br>(Natural language processing standard 2)<br>JWG5(ISO/TC37) 개발중 |
-| 적합성평가 프레임워크 | AI 시스템 적합성 평가 체계<br>(Conformity assessment framework for AI systems)<br>JWG6(ISO CASCO) 개발중 |
-
----
-
 ### 소위원회(Subcommittees) : 24개
 
 **SC 2: 부호화된 문자 집합(Coded Character Sets)** <br>
@@ -640,6 +534,112 @@
 
 ---
 
+<img width ='900' height = '400' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/SC42.png'>
+
+**ISO/IEC JTC1/SC42 :** ISO/IEC에서 AI만을 전담하는 공식 분과위원회(Subcommittee)로 모든 AI 국제표준의 기획·조정·개발 중심<br>
+**Artificial Intelligence Standards :** SC42가 다루는 표준의 공통 범주로 단순 기술 규격이 아니라 기술+윤리+거버넌스를 모두 포함<br>
+
+|① Concepts and Frameworks<br>(개념·프레임워크)|② Trustworthiness and Ethics<br>(신뢰성·윤리)|③ AI Governance<br> (조직·경영·의사결정)|
+|---|---|---|
+| AI를 어떻게 정의하고,<br>어떻게 구조화할 것인가 | AI를 믿을 수 있는가,<br>사회적으로 허용 가능한가 | 누가 책임지고,<br>어떻게 통제할 것인가 |
+|ISO/IEC 22989—AI 개념·용어<br>ISO/IEC 23053—ML 기반 AI 시스템 프레임워크<br>ISO/IEC/IEEE 42010—AI 아키텍처 기술에 활용 |ISO/IEC TR 24028—AI 신뢰성 개요<br>ISO/IEC TR 24027—AI 편향<br>ISO/IEC TR 24029-1/2—신경망 강건성<br>ISO/IEC TR 24368—윤리·사회적 쟁점 | ISO/IEC 38507—조직의 AI 거버넌스<br>ISO/IEC 42001—AI 경영시스템 |
+
+
+|Working Group|주요 담당 영역|표준 작업|공동 작업|
+|---|---|---|---|
+|WG 1|AI 개념, 용어, 기초 프레임워크|6개 표준 (제정 완료 5, 개발 중 1)|JWG1(SC40) 해산|
+|WG 2|빅데이터·데이터 품질과 AI|12개 표준 (모두 제정 완료)|JWG1(SC7)|
+|WG 3|AI 신뢰성, 윤리, 사회적 영향|14개 표준 (제정 완료 13, 개발 중 1)|JWG1(ISO/TC215)|
+|WG 4|AI 시스템 참조구조, 아키텍처|4개 표준 (제정 완료 3, 개발 중 1)|JWG1(IEC/TC65A)|
+|WG 5|사용 사례(Use case)|4개 표준 (모두 제정 완료)|JWG1(ISO/TC37)|
+|WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)||JWG1(ISO/CASCO)|
+
+
+## WG 1 — Foundational Standards (AI 기초 표준)
+
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 22989:2022 | 인공지능 개념 및 용어<br>(Artificial intelligence concepts and terminology) |
+| ISO/IEC 23053:2022 | 기계학습을 사용하는 AI 시스템 프레임워크<br>(Framework for AI systems using machine learning) |
+| ISO/IEC 42001:2023 | AI 관리 시스템<br>(AI management system) |
+| ISO/IEC 42005:2025 | AI 시스템 영향 평가<br>(AI system impact assessment) |
+| ISO/IEC 42006:2025 | AI 관리 시스템 심사·인증기관 요건<br>(Requirements for bodies providing audit and certification of AI management systems) |
+| ISO/IEC 42007:개발중 | AI 시스템 적합성 평가 체계 프레임워크<br>(Framework for conformity assessment schemes for AI systems) |
+
+
+## WG 2 — Data (AI 데이터·빅데이터)
+
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 20546:2019 | 빅데이터 개요 및 용어<br>(Big data — Overview and vocabulary) |
+| ISO/IEC 20547-1:2020 | 빅데이터 참조 아키텍처 — 제1부: 프레임워크 및 응용 프로세스<br>(Big data reference architecture — Part 1: Framework and application process) |
+| ISO/IEC TR 20547-2:2018 | 빅데이터 참조 아키텍처 — 제2부: 활용 사례 및 요건<br>(Big data reference architecture — Part 2: Use cases and derived requirements) |
+| ISO/IEC 20547-3:2020 | 빅데이터 참조 아키텍처 — 제3부: 참조 아키텍처<br>(Big data reference architecture — Part 3: Reference architecture) |
+| ISO/IEC TR 20547-5:2018 | 빅데이터 참조 아키텍처 — 제5부: 표준 로드맵<br>(Big data reference architecture — Part 5: Standards roadmap) |
+| ISO/IEC 24668:2022 | 빅데이터 분석 프로세스 관리 프레임워크<br>(Process management framework for big data analytics) |
+| ISO/IEC 8183:2023 | 데이터 생애주기 프레임워크<br>(Data life cycle framework) |
+| ISO/IEC 5259-1:2024 | 분석 및 ML을 위한 데이터 품질 — 제1부: 개요, 용어 및 예시<br>(Data quality for analytics and ML — Part 1: Overview, terminology and examples) |
+| ISO/IEC 5259-2:2024 | 분석 및 ML을 위한 데이터 품질 — 제2부: 데이터 품질 측정<br>(Data quality for analytics and ML — Part 2: Data quality measures) |
+| ISO/IEC 5259-3:2024 | 분석 및 ML을 위한 데이터 품질 — 제3부: 데이터 품질 관리 요건 및 지침<br>(Data quality for analytics and ML — Part 3: Data quality management requirements and guidelines) |
+| ISO/IEC 5259-4:2024 | 분석 및 ML을 위한 데이터 품질 — 제4부: 데이터 품질 프로세스 프레임워크<br>(Data quality for analytics and ML — Part 4: Data quality process framework) |
+| ISO/IEC 5259-5:2025 | 분석 및 ML을 위한 데이터 품질 — 제5부: 데이터 품질 거버넌스 프레임워크<br>(Data quality for analytics and ML — Part 5: Data quality governance framework) |
+
+
+## WG 3 — Trustworthiness (AI 신뢰성)
+
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC TR 24028:2020 | 인공지능 신뢰성 개요<br>(Overview of trustworthiness in artificial intelligence) |
+| ISO/IEC TR 24027:2021 | AI 시스템 및 AI 지원 의사결정의 편향<br>(Bias in AI systems and AI aided decision making) |
+| ISO/IEC TR 24029-1:2021 | 신경망 강건성 평가 — 제1부: 개요<br>(Assessment of the robustness of neural networks — Part 1: Overview) |
+| ISO/IEC 24029-2:2023 | 신경망 강건성 평가 — 제2부: 형식적 방법론<br>(Assessment of the robustness of neural networks — Part 2: Methodology using formal methods) |
+| ISO/IEC TR 24368:2022 | 윤리적·사회적 우려사항 개요<br>(Overview of ethical and societal concerns) |
+| ISO/IEC TS 4213:2022 | 기계학습 분류 성능 평가<br>(Assessment of machine learning classification performance) |
+| ISO/IEC 23894:2023 | AI 리스크 관리 지침<br>(Guidance on risk management) |
+| ISO/IEC 25059:2023 | SQuaRE — AI 시스템 품질 모델<br>(SQuaRE — Quality model for AI systems) |
+| ISO/IEC TS 25058:2024 | SQuaRE — AI 시스템 품질 평가 지침<br>(SQuaRE — Guidance for quality evaluation of AI systems) |
+| ISO/IEC TS 8200:2024 | 자동화 AI 시스템의 제어가능성<br>(Controllability of automated AI systems) |
+| ISO/IEC TS 12791:2024 | 분류 및 회귀 ML 작업의 의도치 않은 편향 처리<br>(Treatment of unwanted bias in classification and regression ML tasks) |
+| ISO/IEC 12792:2025 | AI 시스템 투명성 분류체계<br>(Transparency taxonomy of AI systems) |
+| ISO/IEC TS 6254:2025 | ML 모델 및 AI 시스템의 설명가능성·해석가능성 목표 및 방법론<br>(Objectives and approaches for explainability and interpretability of ML models and AI systems) |
+| ISO/IEC 24029-3:개발중 | 신경망 강건성 평가 — 제3부: 통계적 방법론<br>(Assessment of the robustness of neural networks — Part 3: Statistical methods) |
+
+
+## WG 4 — Use Cases and Applications (AI 활용 사례 및 응용)
+
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC TR 24030:2024 | AI 활용 사례<br>(AI use cases) |
+| ISO/IEC 5338:2023 | AI 시스템 생애주기 프로세스<br>(AI system life cycle processes) |
+| ISO/IEC 5339:2024 | AI 응용 프로그램 지침<br>(Guidelines for AI applications) |
+| ISO/IEC 22440(multipart):개발중 | 인간-기계 협업 표준<br>(Human-machine collaboration standards) |
+
+
+## WG 5 — Computational Approaches (AI 계산 접근법 및 특성)
+
+| 표준번호 | 제목 | 상태 |
+|---|---|---|
+| ISO/IEC TR 24372:2021 | AI 시스템 계산 방법 개요<br>(Overview of computational methods for AI systems) | 제정완료 |
+| ISO/IEC 5392:2024 | 지식 공학 참조 아키텍처<br>(Reference architecture of knowledge engineering) | 제정완료 |
+| ISO/IEC 17903:2024 | 기계학습 컴퓨팅 장치 개요<br>(Overview of machine learning computing devices) | 제정완료 |
+| ISO/IEC TR 20226:2025 | AI 시스템의 환경적 지속가능성<br>(Environmental sustainability aspects of AI systems) | 제정완료 |
+
+
+## JWG — Joint Working Groups (공동 작업 그룹)
+
+| 표준번호 | 제목 |
+|---|---|
+| ISO/IEC 38507:2022 | 조직의 AI 활용에 따른 IT 거버넌스 시사점<br>(Governance implications of the use of AI by organizations)<br>JWG1(SC40) 제정완료 후 해산 |
+| ISO/IEC 5469:2024 | 기능 안전 및 AI 시스템<br>(Functional safety and AI systems)<br>JWG4(IEC/TC65A) 개발중 |
+| ISO/IEC 18988 | AI 기반 시스템 테스팅<br>(Testing of AI-based systems)<br>JWG2(SC7) 개발중 |
+| ISO/IEC 22989-2 | 헬스 인포매틱스에서의 AI<br>(AI in health informatics)<br>JWG3(ISO/TC215) 개발중 |
+| ISO/IEC 22440 (multipart) | 기능 안전 — AI 시스템 다부 시리즈<br>(Functional safety — AI systems multipart series)<br>JWG4(IEC/TC65A) 개발중 |
+| ISO/IEC 23281 | 자연어 처리 — AI 언어 모델 관련 표준 1<br>(Natural language processing standard 1)<br>JWG5(ISO/TC37) 개발중 |
+| ISO/IEC 23282 | 자연어 처리 — AI 언어 모델 관련 표준 2<br>(Natural language processing standard 2)<br>JWG5(ISO/TC37) 개발중 |
+| 적합성평가 프레임워크 | AI 시스템 적합성 평가 체계<br>(Conformity assessment framework for AI systems)<br>JWG6(ISO CASCO) 개발중 |
+
+---
+
 # [1] 개념·기술적 기초(Concepts & Technical Foundations)
 
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
@@ -674,21 +674,21 @@
 **▣ 전문 출처 :** https://www.iso.org/standard/74296.html<br>
 <br>
 **▣ 목차 :** <br>
-1. 적용 범위 (Scope)<br>
-2. 인용 표준 (Normative references)<br>
-3. 용어 및 정의 (Terms and definitions)<br>
-4. 개념 (Concepts)<br>
-4.1 인공지능 (Artificial intelligence) : 인간의 인지적 기능을 모사하거나 확장하여 목표 달성을 수행하는 기술적 접근 전반을 개념적으로 정의<br>
-4.2 인공지능 시스템 (AI system) : 알고리즘, 모델, 데이터, 하드웨어, 인간 상호작용 요소를 포함한 전체 시스템 단위로서의 AI를 설명<br>
-4.3 인공지능 생명주기 (AI system life cycle) : AI 시스템이 설계에서 폐기에 이르기까지 거치는 전 과정을 단계적·반복 가능한 개념으로 제시<br>
-4.4 인공지능 행위자 및 역할 (AI actors and roles) : AI 시스템의 개발, 제공, 운영, 사용에 관여하는 다양한 주체와 그 역할을 구분<br>
-4.5 인공지능 시스템의 특성 (AI system properties) : 투명성, 설명가능성, 강건성 등 AI 시스템이 가질 수 있는 주요 특성을 개념적으로 정리<br>
-4.6 인공지능 기법 및 접근방식 (AI techniques and approaches) : 머신러닝, 지식기반, 통계적 방법 등 AI 구현에 사용되는 대표적 기술 접근을 중립적으로 분류<br>
 
-부속서 A. 인공지능 관련 개념 간 관계 (Relationships between AI concepts)<br>
-부속서 B. AI 시스템과 다른 시스템의 관계 (Relationships between AI systems and other systems)<br>
-부속서 C. AI 개념의 활용 예(Examples of the use of AI concepts)<br>
-<br>
+	1. 적용 범위 (Scope)<br>
+	2. 인용 표준 (Normative references)<br>
+	3. 용어 및 정의 (Terms and definitions)<br>
+	4. 개념 (Concepts)<br>
+	4.1 인공지능 (Artificial intelligence) : 인간의 인지적 기능을 모사하거나 확장하여 목표 달성을 수행하는 기술적 접근 전반을 개념적으로 정의<br>
+	4.2 인공지능 시스템 (AI system) : 알고리즘, 모델, 데이터, 하드웨어, 인간 상호작용 요소를 포함한 전체 시스템 단위로서의 AI를 설명<br>
+	4.3 인공지능 생명주기 (AI system life cycle) : AI 시스템이 설계에서 폐기에 이르기까지 거치는 전 과정을 단계적·반복 가능한 개념으로 제시<br>
+	4.4 인공지능 행위자 및 역할 (AI actors and roles) : AI 시스템의 개발, 제공, 운영, 사용에 관여하는 다양한 주체와 그 역할을 구분<br>
+	4.5 인공지능 시스템의 특성 (AI system properties) : 투명성, 설명가능성, 강건성 등 AI 시스템이 가질 수 있는 주요 특성을 개념적으로 정리<br>
+	4.6 인공지능 기법 및 접근방식 (AI techniques and approaches) : 머신러닝, 지식기반, 통계적 방법 등 AI 구현에 사용되는 대표적 기술 접근을 중립적으로 분류<br>
+	부속서 A. 인공지능 관련 개념 간 관계 (Relationships between AI concepts)<br>
+	부속서 B. AI 시스템과 다른 시스템의 관계 (Relationships between AI systems and other systems)<br>
+	부속서 C. AI 개념의 활용 예(Examples of the use of AI concepts)<br>
+
 3.1 AI 기본 개념 (20개)<br>
 ■ 인공지능 (Artificial intelligence, AI): 주어진 목표에 대해 콘텐츠, 예측, 추천 또는 의사결정을 생성할 수 있는 능력을 연구·개발하는 분야<br>
 ■ 인공지능 시스템 (AI system): 인간이 정의한 목표에 대해 콘텐츠, 예측, 추천 또는 의사결정 등의 출력을 생성하는 공학적으로 구현된 시스템<br>
