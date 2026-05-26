@@ -354,12 +354,12 @@
 **IS (International Standard) :** 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
 <br>
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
+<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
 
 
 ## ISO/IEC 국제표준 생성절차(3~5년 소요) : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AWI.png'>
+<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AWI.png'>
 
 **① AWI (Approved / Active Work Item)** : TC/SC 투표로 작업 항목 공식 등록<br>
 새 표준 과제가 공식 승인된 상태, 아직 문서 초안조차 없는 경우도 있음<br>
@@ -729,7 +729,8 @@
 부속서 B. ISO/IEC 38500 원칙과 AI 거버넌스의 관계 (Relationship between ISO/IEC 38500 principles and the governance of AI)<br>
 <br>
 
-![](./images/38507.png)
+<!-- ![](./images/38507.png) -->
+<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/38507.png'>
 <br>
 
 
