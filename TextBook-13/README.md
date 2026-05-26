@@ -344,7 +344,18 @@
 <br>
 **▣ 전문 출처 :** https://www.iso.org/standard/74296.html<br>
 <br>
-
+**▣ 목차 :** 
+1. 적용 범위 (Scope)<br>
+2. 인용 표준 (Normative references)<br>
+3. 용어 및 정의 (Terms and definitions)<br>
+4. 개념 (Concepts)<br>
+4.1 인공지능 (Artificial intelligence) : 인간의 인지적 기능을 모사하거나 확장하여 목표 달성을 수행하는 기술적 접근 전반을 개념적으로 정의<br>
+4.2 인공지능 시스템 (AI system) : 알고리즘, 모델, 데이터, 하드웨어, 인간 상호작용 요소를 포함한 전체 시스템 단위로서의 AI를 설명<br>
+4.3 인공지능 생명주기 (AI system life cycle) : AI 시스템이 설계에서 폐기에 이르기까지 거치는 전 과정을 단계적·반복 가능한 개념으로 제시<br>
+4.4 인공지능 행위자 및 역할 (AI actors and roles) : AI 시스템의 개발, 제공, 운영, 사용에 관여하는 다양한 주체와 그 역할을 구분<br>
+4.5 인공지능 시스템의 특성 (AI system properties) : 투명성, 설명가능성, 강건성 등 AI 시스템이 가질 수 있는 주요 특성을 개념적으로 정리<br>
+4.6 인공지능 기법 및 접근방식 (AI techniques and approaches) : 머신러닝, 지식기반, 통계적 방법 등 AI 구현에 사용되는 대표적 기술 접근을 중립적으로 분류<br>
+<br>
 3.1 AI 기본 개념 (20개)<br>
 ■ 인공지능 (Artificial intelligence, AI): 주어진 목표에 대해 콘텐츠, 예측, 추천 또는 의사결정을 생성할 수 있는 능력을 연구·개발하는 분야<br>
 ■ 인공지능 시스템 (AI system): 인간이 정의한 목표에 대해 콘텐츠, 예측, 추천 또는 의사결정 등의 출력을 생성하는 공학적으로 구현된 시스템<br>
