@@ -130,14 +130,15 @@
 
 	1. 경영시스템
 	2. IT
+		2.1 AI
 	3. 지배구조/리스크
 	4. 산업군
-		의료/건강
-		에너지/환경
-		교통/운송
-		제조/소재
-		건설/인프라
-		소비자/생활
+		4.1 의료/건강
+		4.2 에너지/환경
+		4.3 교통/운송
+		4.4 제조/소재
+		4.5 건설/인프라
+		4.6 소비자/생활
 	5. 기술기준/부호체계
 	
 ---
@@ -159,7 +160,7 @@
 <br>
 -->
 
-## 국제표준 종합 분류
+## ISO/IEC 국제표준 종합 분류
 
 |대분류|중분류|내용|주요 번호대|
 |---|---|---|---|
@@ -205,7 +206,7 @@
 ||용어·문서화|용어 정의·문서 작성 원칙|704·1087|
 
 
-## 국제표준 상세 분류
+## ISO/IEC 국제표준 상세 분류
 
 ### 1. 경영시스템
 
@@ -236,7 +237,7 @@
 
 ---
 
-### AI
+### 2.1 AI
 
 | 분류 | 국제표준 |
 |---|---|
@@ -346,17 +347,17 @@
 
 ---
 
-## 국제표준 유형
+## ISO/IEC 국제표준 유형
 **PAS (Publicly Available Specification) :** 빠른 공개를 위한 임시 표준<br>
 **TR (Technical Report) :** 특정 기술이나 주제에 대한 정보 제공 목적의 기술 보고서<br>
 **TS (Technical Specification) :** 국제표준으로 발전하기 전 단계의 문서로, 합의는 되었지만 아직 충분히 성숙하지 않은 기술 기술 명세서<br>
 **IS (International Standard) :** 국제적으로 합의된 공식 표준으로, 가장 권위 있고 완성된 형태의 국제표준<br>
 <br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
+<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/IS.png'>
 
 
-## 국제표준 생성절차(3~5년 소요) : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
+## ISO/IEC 국제표준 생성절차(3~5년 소요) : ① AWI → ② WD → ③ CD → ④ DIS → ⑤ FDIS → ⑥ IS
 
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AWI.png'>
 
