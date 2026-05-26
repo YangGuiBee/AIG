@@ -496,6 +496,150 @@
 
 ---
 
+### 소위원회(Subcommittees) : 24개
+
+**SC 2: 부호화된 문자 집합(Coded Character Sets)** <br>
+설립년도: 1987년 (JTC 1 설립시)<br>
+주요 역할: 그래픽 문자 집합의 부호화 및 국제 교환을 위한 표준 개발<br> 
+핵심 표준: ISO 646(7비트 부호화 문자 집합), ISO/IEC 10646(유니코드 기반 범용 다중 옥텟 부호화된 문자 집합)<br> 
+범위: 문자 부호화, 문자열 정렬, 제어 함수의 부호화 표현<br>
+<br>
+**SC 6: 통신 및 정보 교환(Telecommunications and Information Exchange between Systems)** <br>
+설립년도: 1987년<br> 
+주요 역할: 시스템 간 정보 교환 및 통신을 위한 프로토콜 표준 개발<br> 
+범위: 물리계층, 데이터링크계층, 네트워크계층, 전송계층 및 상위 계층의 프로토콜과 서비스<br> 
+활동: OSI 모델 관련 표준, 통신 프로토콜 및 인터페이스<br>
+<br>
+**SC 7: 소프트웨어 및 시스템 공학(Software and Systems Engineering)** <br>
+설립년도: 1987년<br> 
+주요 역할: 소프트웨어 개발 및 시스템 공학의 생명주기, 품질, 문서화 관련 표준 개발<br> 
+핵심 표준: ISO/IEC/IEEE 12207(소프트웨어 및 시스템 엔지니어링 생명주기 프로세스)<br> 
+범위: 소프트웨어 프로세스, 시스템 공학 방법론, 문서화, 품질관리, 리스크관리<br> 
+특징: IT 분야에서 가장 광범위한 표준화 작업 중 하나<br>
+<br>
+**SC 17: 카드 및 개인 식별 보안 장치(Cards and Security Devices for Personal Identification)** <br>
+설립년도: 1987년<br> 
+주요 역할: 신분증, 신용카드, IC 카드 등 개인 식별 카드 관련 표준 개발<br> 
+범위: 카드의 물리적 특성, 보안, 데이터 인터페이스, 기술 사양<br> 
+활동: 스마트 카드, 생체인식 카드, 보안 토큰 표준화<br>
+<br>
+**SC 22: 프로그래밍 언어, 환경 및 시스템 소프트웨어 인터페이스(Programming Languages, their Environments and System Software Interfaces)** <br>
+설립년도: 1987년 (SC 5에서 통합)<br> 
+주요 역할: 프로그래밍 언어, 컴파일러, 개발환경 관련 표준 개발<br>
+핵심 표준: COBOL, FORTRAN, C, C++, Ada, Java 등의 언어 표준 및 POSIX(Portable Operating System Interface)<br> 
+범위: 언어 정의, 의미론, 라이브러리, 개발 도구<br>
+<br>
+**SC 23: 디지털 기록 미디어(Digitally Recorded Media for Information Interchange and Storage)** <br><br>
+설립년도: 1987년<br> 
+주요 역할: 자기테이프, 광디스크, 플래시 메모리 등 데이터 저장 미디어 표준 개발<br> 
+핵심 표준: CD, DVD, Blu-ray, USB 메모리, 자기 테이프 등의 물리적 및 기술적 표준<br> 
+범위: 미디어의 용량, 포맷, 데이터 구조, 신뢰성<br>
+<br>
+**SC 24: 컴퓨터 그래픽스, 이미지 처리 및 환경 데이터 표현(Computer Graphics, Image Processing and Environmental Data Representation)** <br>
+설립년도: 1987년<br> 
+주요 역할: 그래픽스, 이미지 표준 개발<br> 
+핵심 표준: CGM(Computer Graphics Metafile), SVG(Scalable Vector Graphics) 관련 표준<br> 
+범위: 그래픽 표현, 이미지 인코딩, 지리정보 데이터 표준<br>
+<br>
+**SC 25: IT 장비 상호 연결(Interconnection of Information Technology Equipment)** <br>
+설립년도: 1989년 (SC 13과 IEC SC 83 통합)<br> 
+주요 역할: 컴퓨터, 주변기기, 네트워크 장비 간 물리적 인터페이스 및 연결 표준 개발<br> 
+범위: 케이블, 커넥터, 전력 인터페이스, 신호 호환성<br>
+<br>
+**SC 27: 정보보안, 사이버보안 및 개인정보보호(Information Security, Cybersecurity and Privacy Protection)** <br>
+설립년도: 1987년 (초기 SC 20 "암호화 기술"에서 발전)<br> 
+주요 역할: 정보보안, 암호, 접근제어, 개인정보보호 관련 표준 개발<br> 
+핵심 표준: ISO/IEC 27001(정보보안관리시스템), ISO/IEC 27002(정보보안 구현 가이드), ISO/IEC 27089(사물인터넷 보안)<br> 
+범위: 정보보안 정책, 암호화, 인증, 접근제어, 감사, 위험관리<br> 
+특징: JTC 1에서 가장 활발한 SC 중 하나<br>
+<br>
+**SC 28: 사무 기기(Office Equipment)** <br>
+설립년도: 1987년<br> 
+주요 역할: 프린터, 복합기, 스캐너 등 사무자동화 장비의 기능 및 인터페이스 표준 개발<br> 
+범위: 문서 처리, 이미징, 통신 프로토콜, 페이페스<br>
+<br>
+**SC 29: 오디오, 사진, 멀티미디어 및 하이퍼미디어 정보 코딩(Coding of Audio, Picture, Multimedia and Hypermedia Information)** <br>
+설립년도: 1991년 (SC 2에서 분리)<br> 
+주요 역할: 미디어 압축 및 코딩 표준 개발<br> 
+핵심 표준: JPEG(정지 이미지), MPEG(동영상), JPEG 2000(차세대 이미지), AV1(동영상)<br> 
+범위: 오디오 코딩, 이미지 압축, 동영상 인코딩, 멀티미디어 포맷<br>
+<br>
+**SC 31: 자동 식별 및 데이터 획득 기술(Automatic Identification and Data Capture Techniques)** <br>
+설립년도: 1996년<br> 
+주요 역할: 바코드, RFID, NFC 등 자동 인식 기술 표준 개발<br> 
+범위: 1D/2D 바코드, RFID 태그, 자동 인식 시스템, 데이터 구조<br>
+<br>
+**SC 32: 데이터 관리 및 교환(Data Management and Interchange)** <br>
+설립년도: 1997년 (SC 14에서 발전)<br> 
+주요 역할: 데이터베이스, SQL, 데이터 메타데이터 표준 개발<br> 
+핵심 표준: ISO/IEC SQL(Structured Query Language), 정보검색 표준<br> 
+범위: 데이터베이스 언어, 스키마, 메타데이터, 데이터 교환 포맷<br>
+<br>
+**SC 34: 문서 기술 및 처리 언어(Document Description and Processing Languages)** <br>
+설립년도: 1998년<br> 
+주요 역할: 문서 포맷 및 처리 언어 표준 개발<br> 
+핵심 표준: ODF(Open Document Format), Office Open XML(OOXML), XML 관련 표준<br> 
+범위: 문서 마크업 언어, 문서 구조, 스타일, 메타정보<br>
+<br>
+**SC 35: 사용자 인터페이스(User Interfaces)** <br>
+설립년도: 1998년 주요 역할: 사용자 인터페이스 설계, 접근성, 상호작용 표준 개발<br> 
+범위: UI 디자인 원칙, 웹 접근성, 다중 모달 인터페이스, 사용성<br>
+<br>
+**SC 36: 학습, 교육 및 훈련을 위한 정보기술(Information Technology for Learning, Education and Training)** <br>
+설립년도: 1999년<br> 
+주요 역할: e-러닝, 교육 기술, 학습 데이터 표준 개발<br> 
+범위: 학습 관리 시스템(LMS), 교육 콘텐츠 포맷, 학습자 데이터, 디지털 교육 도구<br>
+<br>
+**SC 37: 생체인식(Biometrics)** <br>
+설립년도: 2002년<br> 
+주요 역할: 지문, 얼굴, 홍채 등 생체정보 인식 및 검증 표준 개발<br> 
+범위: 생체정보 데이터 포맷, 인식 알고리즘, 성능 평가, 보안 및 개인정보보호<br>
+<br>
+**SC 38: 클라우드 컴퓨팅 및 분산 플랫폼(Cloud Computing and Distributed Platforms)** <br>
+설립년도: 2009년<br> 
+주요 역할: 클라우드 서비스, 가상화, 분산 컴퓨팅 표준 개발<br> 
+핵심 표준: ISO/IEC 17788(클라우드 컴퓨팅 용어), ISO/IEC 17789(클라우드 컴퓨팅 참조 아키텍처)<br> 
+범위: 클라우드 서비스 정의, 성능, 보안, 상호 운용성<br>
+<br>
+**SC 39: 지속가능성, IT 및 데이터 센터(Sustainability, IT and Data Centres)** <br>
+설립년도: 2012년<br> 
+주요 역할: IT 시스템의 에너지 효율, 환경 영향, 지속가능성 표준 개발<br> 
+범위: 데이터 센터 에너지 효율, IT 장비의 생명주기 평가, 탄소 발자국, 자원 효율성<br>
+<br>
+**SC 40: IT 서비스 관리 및 IT 거버넌스(IT Service Management and IT Governance)** <br>
+설립년도: 2013년<br> 
+주요 역할: IT 서비스 제공, 운영, 거버넌스 표준 개발<br> 
+핵심 표준: ISO/IEC 20000(IT 서비스 관리), ISO/IEC 38500(IT 거버넌스)<br> 
+범위: 서비스 품질, 성과 측정, IT 위험관리, 변경관리<br>
+<br>
+**SC 41: 사물인터넷 및 디지털 트윈(Internet of Things and Digital Twin)** <br>
+설립년도: 2015년<br> 
+주요 역할: IoT 시스템, 센서 네트워크, 디지털 트윈 기술 표준 개발<br> 
+범위: IoT 참조 모델, 센서 데이터 포맷, 디지털 트윈 프레임워크, 실시간 IoT 시스템<br> 
+중요성: 산업 4.0, 스마트 시티, 스마트 제조 표준화의 핵심<br>
+<br>
+**SC 42: 인공지능(Artificial Intelligence)** <br>
+설립년도: 2017년<br> 
+주요 역할: AI 시스템의 개발, 관리, 위험평가, 신뢰성 관련 표준 개발<br> 
+핵심 표준: ISO/IEC 42001(AI 관리시스템), ISO/IEC 23894(AI 위험 관리), ISO/IEC 22989(AI 개념과 용어)<br> 
+범위: AI 거버넌스, 기계학습 품질, AI 윤리, 신뢰성, 설명가능성<br> 
+특징: 가장 최신의 신생 SC로 급속히 확장 중<br>
+<br>
+**SC 43: 뇌-컴퓨터 인터페이스(Brain-Computer Interfaces)** <br>
+설립년도: 2022년<br>
+주요 역할: 뇌와 컴퓨터 간의 직접 통신을 위한 표준 개발<br> 
+범위: BCI 신호 처리, 데이터 포맷, 성능 평가, 안전성, 개인정보보호<br> 
+특징: 신경과학과 정보기술의 교집합 분야, 의료 및 보조 기술 응용<br>
+<br>
+**SC 44: 개인정보 설계를 통한 소비자 보호(Consumer Protection in the Field of Privacy by Design)** <br>
+설립년도: 2025년 (신설)<br> 
+주요 역할: 소비자 보호를 위한 개인정보 설계 원칙 표준 개발<br> 
+범위: 제품과 서비스의 프라이버시 설계, 데이터 생명주기, 소비자 권리 보호<br> 
+특징: 가장 최신에 설립된 SC로 GDPR, 개인정보보호법과의 연계 강화<br>
+<br>
+
+---
+
 # [1] 개념·기술적 기초(Concepts & Technical Foundations)
 
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
