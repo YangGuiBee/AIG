@@ -112,19 +112,53 @@
 
 ### ISO 표준
 
+	경영시스템
+	IT/정보보안
+	지배구조/리스크
+	의료/특수산업
+		의료/건강
+		에너지/환경
+		교통/운송
+		제조/소재
+		건설/인프라
+		소비자/생활
+	기술기준/부호체계
+
+
 ![](./images/ISO_1.png)
+<br>
+![](./images/ISO_1_1.png)
 <br>
 
 ![](./images/ISO_2.png)
 <br>
+![](./images/ISO_2_1.png)
+<br>
 
 ![](./images/ISO_3.png)
+<br>
+![](./images/ISO_3_1.png)
 <br>
 
 ![](./images/ISO_4.png)
 <br>
+![](./images/ISO_4_1.png)
+<br>
+![](./images/ISO_4_2.png)
+<br>
+![](./images/ISO_4_3.png)
+<br>
+![](./images/ISO_4_4.png)
+<br>
+![](./images/ISO_4_5.png)
+<br>
+![](./images/ISO_4_6.png)
+<br>
+
 
 ![](./images/ISO_5.png)
+<br>
+![](./images/ISO_5_1.png)
 <br>
 
 ### ISO 표준 유형
@@ -487,6 +521,7 @@
 
 ## [1-5] ISO/IEC TR 24027:2021  AI 시스템 및 AI 의사결정의 편향(Bias in AI systems and AI aided decision making)
 **▣ 개요 :** AI 시스템 및 AI 기반 의사결정에서 발생하는 편향(bias)의 유형과 원인을 체계적으로 분석한 기술보고서(TR)<br>
+<br>
 **▣ 표준의 특성 :** 비인증 표준<br>
 기술보고서(TR), 윤리·위험관리 표준의 보조 문서<br>
 <br>
