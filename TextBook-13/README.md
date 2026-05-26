@@ -399,7 +399,6 @@
 |WG 6|AI 연산·성능·벤치마킹 (신설·확장 영역)||JWG1(ISO/CASCO)|
 
 
-
 ## WG 1 — Foundational Standards (AI 기초 표준)
 
 | 표준번호 | 제목 |
@@ -679,9 +678,9 @@
 8. 모델 관점 (Model perspective) : 머신러닝 모델의 선택, 학습 방식, 성능 특성 및 한계를 중심으로 AI 시스템을 관망<br>
 9. 인간과 AI 시스템의 상호작용 (Human interaction with AI systems) : 인간의 개입, 감독, 통제, 사용 방식이 머신러닝 기반 AI 시스템에 미치는 영향을 설명<br>
 10. 운영 및 환경 관점 (Operational and environmental considerations) : 실제 운영 환경에서 발생하는 변화, 제약 조건, 시스템 성능 유지 문제를 다룸<br>
--. 부속서 A. 머신러닝 기반 AI 시스템 프레임워크 예시 (Example of a framework for AI systems using machine learning)<br>
--. 부속서 B. AI 시스템 생명주기와 프레임워크의 관계 (Relationship between the AI system life cycle and the framework)<br>
--. 부속서 C. 다른 표준과의 관계 (Relationships to other standards)<br>
+부속서 A. 머신러닝 기반 AI 시스템 프레임워크 예시 (Example of a framework for AI systems using machine learning)<br>
+부속서 B. AI 시스템 생명주기와 프레임워크의 관계 (Relationship between the AI system life cycle and the framework)<br>
+부속서 C. 다른 표준과의 관계 (Relationships to other standards)<br>
 <br>
 
 
@@ -714,8 +713,8 @@
 7. 역할과 책임 (Roles and responsibilities) : 이사회, 경영진, 관리조직 등 조직 내 주요 주체의 AI 관련 책임과 역할을 구분<br>
 8. AI 사용에 대한 감독 및 의사결정 (Oversight and decision-making for the use of AI) : AI 도입·운영·중단에 대한 감독, 평가, 승인 과정의 거버넌스 관점을 다룸<br>
 9. 성과, 적합성 및 책임성 (Performance, conformance and accountability) : AI 사용이 조직 목표, 법·윤리 요구사항에 부합하는지를 모니터링하고 책임을 확보하는 방법을 설명<br>
--. 부속서 A. AI 사용에 대한 거버넌스 고려사항 예시 (Examples of governance considerations for the use of AI)<br>
--. 부속서 B. ISO/IEC 38500 원칙과 AI 거버넌스의 관계 (Relationship between ISO/IEC 38500 principles and the governance of AI)<br>
+부속서 A. AI 사용에 대한 거버넌스 고려사항 예시 (Examples of governance considerations for the use of AI)<br>
+부속서 B. ISO/IEC 38500 원칙과 AI 거버넌스의 관계 (Relationship between ISO/IEC 38500 principles and the governance of AI)<br>
 <br>
 
 ![](./images/38507.png)
@@ -750,9 +749,9 @@
 7. 아키텍처 기술 (Architecture description) : 아키텍처 기술의 목적, 내용, 구성요소를 정의하고 무엇을 기술해야 하는지를 제시<br>
 8. 아키텍처 뷰포인트, 뷰 및 모델 (Architecture viewpoints, views and models) : 이해관계자의 관심사를 반영하기 위한 뷰포인트 개념과 뷰, 모델의 역할과 관계를 설명<br>
 9. 아키텍처 프레임워크 (Architecture frameworks) : 아키텍처 프레임워크의 개념과, 뷰포인트·뷰·모델을 조직화하는 방식을 설명<br>
--. 부속서 A. 개요 및 배경 (Overview and background) : 본 표준의 제정 배경과 다른 아키텍처 관련 표준과의 관계를 설명<br>
--. 부속서 B. 다른 표준과의 관계 (Relationships to other standards) : ISO/IEC/IEEE 15288, 12207 등 시스템·소프트웨어 생명주기 표준과의 연계성을 제시<br>
--. 부속서 C. 예시 및 설명 (Examples and explanations) : 아키텍처 기술 개념을 이해하기 위한 비규범적 예시를 제공<br>
+부속서 A. 개요 및 배경 (Overview and background) : 본 표준의 제정 배경과 다른 아키텍처 관련 표준과의 관계를 설명<br>
+부속서 B. 다른 표준과의 관계 (Relationships to other standards) : ISO/IEC/IEEE 15288, 12207 등 시스템·소프트웨어 생명주기 표준과의 연계성을 제시<br>
+부속서 C. 예시 및 설명 (Examples and explanations) : 아키텍처 기술 개념을 이해하기 위한 비규범적 예시를 제공<br>
 <br>
 
 표준의 핵심 온톨로지. 시스템·아키텍처·AD·이해관계자·관심사·뷰포인트·뷰·모델·대응·근거 10개 핵심 개념과 그 관계<br>
@@ -796,10 +795,10 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 7. 편향이 미치는 영향 (Impacts of bias) : AI 편향이 개인, 집단, 조직, 사회 전반에 미치는 법적·윤리적·사회적 영향을 설명<br>
 8. 편향의 탐지 및 평가 (Detection and evaluation of bias) : AI 시스템 및 의사결정 결과에서 편향을 식별하고 평가하는 접근 방법을 개념적으로 제시<br>
 9. 편향 완화 접근 (Approaches to address bias) : 설계, 데이터 관리, 모델 개발, 운영, 거버넌스 차원에서 편향을 줄이기 위한 일반적 접근을 설명<br>
--. 부속서 A. AI 생명주기 전반에서의 편향 고려사항 (Bias considerations across the AI system life cycle) : AI 시스템의 설계–개발–학습–배포–운영–유지관리–폐기 전 단계에서 발생 가능한 편향 요소를 정리<br>
--. 부속서 B. 이해관계자 관점에서의 편향 (Bias from a stakeholder perspective) : 개발자, 사용자, 영향받는 개인·집단 등 이해관계자별로 편향이 인식·발생되는 방식을 설명<br>
--. 부속서 C. AI 지원 의사결정 사례 (Examples of bias in AI aided decision making) : 채용, 신용평가, 의료, 공공행정 등 현실적 활용 맥락에서의 편향 사례를 설명<br>
--. 부속서 D. 다른 표준 및 정책 프레임워크와의 관계 (Relationships to other standards and policy frameworks) : ISO/IEC 22989, 23894, 38507 및 법·윤리 가이드라인과의 개념적 연계성을 제시<br>
+부속서 A. AI 생명주기 전반에서의 편향 고려사항 (Bias considerations across the AI system life cycle) : AI 시스템의 설계–개발–학습–배포–운영–유지관리–폐기 전 단계에서 발생 가능한 편향 요소를 정리<br>
+부속서 B. 이해관계자 관점에서의 편향 (Bias from a stakeholder perspective) : 개발자, 사용자, 영향받는 개인·집단 등 이해관계자별로 편향이 인식·발생되는 방식을 설명<br>
+부속서 C. AI 지원 의사결정 사례 (Examples of bias in AI aided decision making) : 채용, 신용평가, 의료, 공공행정 등 현실적 활용 맥락에서의 편향 사례를 설명<br>
+부속서 D. 다른 표준 및 정책 프레임워크와의 관계 (Relationships to other standards and policy frameworks) : ISO/IEC 22989, 23894, 38507 및 법·윤리 가이드라인과의 개념적 연계성을 제시<br>
 <br>
 
 편향의 분류 체계 : 사회적·역사적, 데이터, 알고리즘, 상호작용 편향의 4대 유형을 중심으로, 표본·측정·레이블·집계·표현·역사적 편향(데이터 편향 세부), 목적함수·확인·자동화 편향(알고리즘 편향 세부), 닻내림·가용성·집단귀인 오류(인지 편향)를 망라<br>
@@ -843,11 +842,11 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 7. 이해관계자 관점에서의 신뢰 (Trustworthiness from a stakeholder perspective) : 개발자, 사용자, 영향을 받는 개인·집단 등 이해관계자별로 신뢰가 형성·저해되는 방식을 설명<br>
 8. AI 생명주기 전반에서의 신뢰성 고려 (Trustworthiness across the AI system life cycle) : 설계부터 운영·폐기에 이르기까지 AI 생명주기 각 단계에서 신뢰성 이슈가 어떻게 나타나는지를 설명<br>
 9. 신뢰성과 위험, 거버넌스의 관계 (Relationship between trustworthiness, risk and governance) : AI 신뢰성이 위험관리 및 조직 거버넌스와 어떻게 연결되는지를 개념적으로 제시<br>
--. 부속서 A. AI 신뢰성 특성 간 관계 (Relationships among trustworthiness characteristics) : 신뢰성 특성들이 서로 보완하거나 상충(trade-off)할 수 있는 관계를 설명<br>
--. 부속서 B. AI 생명주기와 신뢰성 특성의 연계 (Mapping trustworthiness characteristics to the AI life cycle) : 각 신뢰성 특성이 AI 생명주기 단계별로 어떻게 고려될 수 있는지를 정리<br>
--. 부속서 C. 신뢰성 고려 사례 (Examples of trustworthiness considerations) : 다양한 AI 활용 맥락에서 신뢰성 문제가 어떻게 나타날 수 있는지를 예시로 설명<br>
--. 부속서 D. 다른 표준 및 프레임워크와의 관계 (Relationships to other standards and frameworks) : ISO/IEC 22989, 23053, 23894, 38507 등 AI 관련 국제표준과의 개념적 연결성을 제시<br>
-<br>
+부속서 A. AI 신뢰성 특성 간 관계 (Relationships among trustworthiness characteristics) : 신뢰성 특성들이 서로 보완하거나 상충(trade-off)할 수 있는 관계를 설명<br>
+부속서 B. AI 생명주기와 신뢰성 특성의 연계 (Mapping trustworthiness characteristics to the AI life cycle) : 각 신뢰성 특성이 AI 생명주기 단계별로 어떻게 고려될 수 있는지를 정리<br>
+부속서 C. 신뢰성 고려 사례 (Examples of trustworthiness considerations) : 다양한 AI 활용 맥락에서 신뢰성 문제가 어떻게 나타날 수 있는지를 예시로 설명<br>
+부속서 D. 다른 표준 및 프레임워크와의 관계 (Relationships to other standards and frameworks) : ISO/IEC 22989, 23053, 23894, 38507 등 AI 관련 국제표준과의 개념적 연결성을 제시<br>
+
 ![](./images/24028.png)
 <br>
 
@@ -881,9 +880,9 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 7. 강건성 평가의 관점과 접근 (Perspectives and approaches to robustness assessment) : 수학적 분석, 테스트 기반 평가, 경험적 평가 등 강건성을 평가하기 위한 대표적 접근 방식을 설명<br>
 8. AI 시스템 생명주기와 강건성 (Robustness in the AI system life cycle) : 설계, 학습, 배포, 운영 등 AI 생명주기 단계별로 강건성이 어떻게 고려되어야 하는지를 개괄<br>
 9. 다른 표준 및 문서와의 관계 (Relationship to other standards and documents) : ISO/IEC 22989, 23053, TR 24028 등 AI 개념·신뢰성·위험 관련 표준과의 연계성을 설명<br>
--. 부속서 A. 강건성 관련 용어 추가 설명 (Additional explanations of robustness‑related terms) : 본문에서 사용된 강건성 관련 용어를 비기술적·개념적으로 보완 설명<br>
--. 부속서 B. 강건성 평가 예시 시나리오 (Example scenarios for robustness assessment) : 현실적 AI 활용 맥락에서 강건성 문제가 어떻게 나타날 수 있는지를 개념적 시나리오로 설명<br>
-<br>
+부속서 A. 강건성 관련 용어 추가 설명 (Additional explanations of robustness‑related terms) : 본문에서 사용된 강건성 관련 용어를 비기술적·개념적으로 보완 설명<br>
+부속서 B. 강건성 평가 예시 시나리오 (Example scenarios for robustness assessment) : 현실적 AI 활용 맥락에서 강건성 문제가 어떻게 나타날 수 있는지를 개념적 시나리오로 설명<br>
+
 ![](./images/24029.png)
 <br>
 
@@ -919,10 +918,10 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 9. 시스템 수준에서의 강건성 평가 고려사항 (System‑level considerations for robustness assessment) : 개별 신경망이 아닌 AI 시스템 맥락에서 강건성을 평가할 때 고려해야 할 요소를 설명<br>
 10. 강건성 평가 결과의 해석과 활용 (Interpretation and use of robustness assessment results) : 강건성 평가 결과를 의사결정, 개선, 위험관리 관점에서 어떻게 해석·활용할 수 있는지를 설명<br>
 11. 다른 문서 및 표준과의 관계 (Relationship to other documents and standards) : ISO/IEC TR 24029‑1, TR 24028, ISO/IEC 22989 등 관련 AI 표준과의 연계성을 제시<br>
--. 부속서 A. 강건성 평가 시나리오 예시 (Example scenarios for robustness assessment) : 현실적인 AI 활용 사례를 바탕으로 강건성 평가가 적용될 수 있는 시나리오를 설명<br>
--. 부속서 B. 강건성 평가 지표에 대한 논의 (Discussion of robustness‑related metrics) : 정확도 변화, 오류율, 안정성 지표 등 강건성 평가에 활용 가능한 지표 개념을 설명<br>
--. 부속서 C. AI 생명주기와 강건성 평가의 연계 (Robustness assessment across the AI life cycle) : 설계, 학습, 배포, 운영 단계에서 강건성 평가가 어떻게 위치하는지를 정리<br>
-<br>
+부속서 A. 강건성 평가 시나리오 예시 (Example scenarios for robustness assessment) : 현실적인 AI 활용 사례를 바탕으로 강건성 평가가 적용될 수 있는 시나리오를 설명<br>
+부속서 B. 강건성 평가 지표에 대한 논의 (Discussion of robustness‑related metrics) : 정확도 변화, 오류율, 안정성 지표 등 강건성 평가에 활용 가능한 지표 개념을 설명<br>
+부속서 C. AI 생명주기와 강건성 평가의 연계 (Robustness assessment across the AI life cycle) : 설계, 학습, 배포, 운영 단계에서 강건성 평가가 어떻게 위치하는지를 정리<br>
+
 ![](./images/24029_2.png)
 <br>
 
@@ -957,9 +956,9 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 8. 이해관계자 관점에서의 윤리·사회적 쟁점 (Ethical and societal concerns from a stakeholder perspective) : 개발자, 사용자, 영향받는 개인·집단, 사회 전반 등 이해관계자별로 쟁점이 어떻게 다르게 나타나는지를 분석<br>
 9. AI 생명주기 전반에서의 윤리·사회적 고려사항 (Ethical and societal considerations across the AI system life cycle) : 설계, 개발, 배포, 운영, 폐기 단계별로 윤리·사회적 쟁점이 어떻게 발생하고 관리되어야 하는지를 정리<br>
 10. 윤리·사회적 쟁점과 거버넌스의 관계 (Relationship between ethical and societal concerns and governance) : 윤리·사회적 쟁점이 조직 거버넌스, 책임 체계, 의사결정 구조와 어떻게 연결되는지를 설명<br>
--. 부속서 A. 윤리 원칙 및 사회적 가치 프레임워크와의 관계 (Relationship to ethical principles and societal value frameworks) : 국제·국가·기관별 AI 윤리 원칙 및 가치 선언과의 개념적 연계성을 설명<br>
--. 부속서 B. AI 활용 영역별 윤리·사회적 쟁점 예시 (Examples of ethical and societal concerns by AI application domain) : 의료, 금융, 공공, 교육, 감시 등 활용 분야별로 나타나는 대표적 쟁점 사례를 정리<br>
--. 부속서 C. 다른 표준 및 정책 프레임워크와의 관계 (Relationship to other standards and policy frameworks) : ISO/IEC 22989, TR 24027, TR 24028, ISO/IEC 38507, EU AI 관련 정책과의 개념적 위치 관계를 제시<br>
+부속서 A. 윤리 원칙 및 사회적 가치 프레임워크와의 관계 (Relationship to ethical principles and societal value frameworks) : 국제·국가·기관별 AI 윤리 원칙 및 가치 선언과의 개념적 연계성을 설명<br>
+부속서 B. AI 활용 영역별 윤리·사회적 쟁점 예시 (Examples of ethical and societal concerns by AI application domain) : 의료, 금융, 공공, 교육, 감시 등 활용 분야별로 나타나는 대표적 쟁점 사례를 정리<br>
+부속서 C. 다른 표준 및 정책 프레임워크와의 관계 (Relationship to other standards and policy frameworks) : ISO/IEC 22989, TR 24027, TR 24028, ISO/IEC 38507, EU AI 관련 정책과의 개념적 위치 관계를 제시<br>
 <br>
 
 ![](./images/24368.png)
@@ -996,9 +995,9 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 8. AI 유스케이스와 시스템 특성의 관계 (Relationship between AI use cases and system characteristics) : AI 유스케이스가 데이터 의존성, 자율성, 학습성 등 시스템 특성과 어떻게 연결되는지를 설명<br>
 9. AI 유스케이스와 이해관계자 (AI use cases and stakeholders) : 개발자, 사용자, 영향받는 개인·조직 등 이해관계자별로 유스케이스가 어떻게 다르게 인식·영향을 미치는지를 다룸<br>
 10. AI 유스케이스와 위험·신뢰성 고려 (AI use cases and risk/trustworthiness considerations) : 유스케이스 관점에서 위험, 신뢰성, 윤리·사회적 쟁점이 어떻게 달라지는지를 설명<br>
--. 부속서 A. AI 유스케이스 기술 템플릿 예시 (Example template for describing AI use cases) : AI 유스케이스를 문서화할 때 사용할 수 있는 표준화된 기술 항목 예시를 제공<br>
--. 부속서 B. AI 애플리케이션 사례 예시 (Examples of AI application use cases) : 여러 산업·분야에서의 대표적인 AI 활용 사례를 구조적으로 제시<br>
--. 부속서 C. 다른 표준 및 프레임워크와의 관계 (Relationship to other standards and frameworks) : ISO/IEC 22989, 23053, TR 24027, TR 24028, 38507 등 AI 관련 표준과의 개념적 연계성을 설명<br>
+부속서 A. AI 유스케이스 기술 템플릿 예시 (Example template for describing AI use cases) : AI 유스케이스를 문서화할 때 사용할 수 있는 표준화된 기술 항목 예시를 제공<br>
+부속서 B. AI 애플리케이션 사례 예시 (Examples of AI application use cases) : 여러 산업·분야에서의 대표적인 AI 활용 사례를 구조적으로 제시<br>
+부속서 C. 다른 표준 및 프레임워크와의 관계 (Relationship to other standards and frameworks) : ISO/IEC 22989, 23053, TR 24027, TR 24028, 38507 등 AI 관련 표준과의 개념적 연계성을 설명<br>
 <br>
 
 ![](./images/24030.png)
