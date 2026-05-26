@@ -15,8 +15,22 @@
 <br>
 
 
+(ver1)
 
-<!--
+	1. 준비 단계 : ISO/IEC 22989 (개념 및 용어) 
+                  ISO/IEC 23053 (ML 프레임워크)
+	2. 방향 설정 : ISO/IEC 38507 (AI 거버넌스)
+	3. 시스템 구축 : ISO/IEC 42001 (AI 경영시스템) 
+                    ISO/IEC 25059 (AI 시스템 품질 모델)
+	4. 실행 및 관리 : ISO/IEC 5259 (데이터 품질)
+                     ISO/IEC 23894 (리스크 관리)
+                     ISO/IEC 27090/27091 (정보 보호)
+	5. 검증 및 개선 : ISO/IEC 24029 (분석적 평가)
+                     ISO/IEC 24028 (신뢰성 편향)
+
+
+(ver2)
+
 	 [1] 준비 단계 (Preparatory)
 	 [1-1] ISO/IEC 22989 (개념 및 용어) : 2022
 	 [1-2] ISO/IEC 23053 (ML 포레임워크) : 2022
@@ -45,7 +59,9 @@
 	 [6-3] ISO/IEC 42008 (AI 시스템 평가 및 대시보드) : 2026~2027
 	 [6-4] ISO/IEC 42009 (AI 윤리 지침) : 2026~2027
 	 [6-5] ISO/IEC 42010 (AI 시스템 설명가능성(XAI) 지침) 2026~2027
--->
+
+
+(ver3)
 
 	[1] 개념·기술적 기초(Concepts & Technical Foundations)
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어(Artificial intelligence — Concepts and terminology)
