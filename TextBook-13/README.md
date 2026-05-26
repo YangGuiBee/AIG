@@ -730,7 +730,7 @@
 <br>
 
 <!-- ![](./images/38507.png) -->
-<img width ='1000' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/38507.png'>
+<img width ='900' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/38507.png'>
 <br>
 
 
@@ -767,16 +767,19 @@
 부속서 C. 예시 및 설명 (Examples and explanations) : 아키텍처 기술 개념을 이해하기 위한 비규범적 예시를 제공<br>
 <br>
 
+---
 표준의 핵심 온톨로지. 시스템·아키텍처·AD·이해관계자·관심사·뷰포인트·뷰·모델·대응·근거 10개 핵심 개념과 그 관계<br>
-![](./images/42010_1.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_1.png'>
 <br>
 
+---
 AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포함해야 한다"고 규정하는 6개 섹션(식별, 이해관계자, 뷰포인트 등록, 뷰, 대응/결정, 근거)의 계층 구조<br>
-![](./images/42010_2.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_2.png'>
 <br>
 
+---
 실제 작업 흐름. 이해관계자의 다양한 관심사가 뷰포인트 선택 → 뷰 생성 → AD 통합으로 이어지는 프로세스<br>
-![](./images/42010_3.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_3.png'>
 <br>
 
 
@@ -814,16 +817,19 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 부속서 D. 다른 표준 및 정책 프레임워크와의 관계 (Relationships to other standards and policy frameworks) : ISO/IEC 22989, 23894, 38507 및 법·윤리 가이드라인과의 개념적 연계성을 제시<br>
 <br>
 
+---
 편향의 분류 체계 : 사회적·역사적, 데이터, 알고리즘, 상호작용 편향의 4대 유형을 중심으로, 표본·측정·레이블·집계·표현·역사적 편향(데이터 편향 세부), 목적함수·확인·자동화 편향(알고리즘 편향 세부), 닻내림·가용성·집단귀인 오류(인지 편향)를 망라<br>
-![](./images/24027_1.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_1.png'>
 <br>
 
+---
 생애주기 편향 지도 : 문제 정의→데이터 수집→모델 개발→배포→운영의 5단계에서 각각 어떤 편향이 유입되는지, 그리고 편향이 단계를 거칠수록 누적·증폭된다는 원리(공정성 기준 4종과 보호 속성 6종이 측정의 기준으로 제시)<br>
-![](./images/24027_2.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_2.png'>
 <br>
 
+---
 측정·완화·거버넌스. 4가지 공정성 지표, 전처리·중간처리·후처리 완화 기법, 편향 감사·투명성 보고·불복 절차·지속 모니터링의 거버넌스 체계, 그리고 표준이 강조하는 핵심 원칙<br>
-![](./images/24027_3.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_3.png'>
 <br>
 
 
@@ -860,7 +866,7 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 부속서 C. 신뢰성 고려 사례 (Examples of trustworthiness considerations) : 다양한 AI 활용 맥락에서 신뢰성 문제가 어떻게 나타날 수 있는지를 예시로 설명<br>
 부속서 D. 다른 표준 및 프레임워크와의 관계 (Relationships to other standards and frameworks) : ISO/IEC 22989, 23053, 23894, 38507 등 AI 관련 국제표준과의 개념적 연결성을 제시<br>
 
-![](./images/24028.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24028.png'>
 <br>
 
 
@@ -974,8 +980,12 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 부속서 C. 다른 표준 및 정책 프레임워크와의 관계 (Relationship to other standards and policy frameworks) : ISO/IEC 22989, TR 24027, TR 24028, ISO/IEC 38507, EU AI 관련 정책과의 개념적 위치 관계를 제시<br>
 <br>
 
-![](./images/24368.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24368_1.png'>
 <br>
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24368_2.png'>
+<br>
+
 
 
 ## [1-10] ISO/IEC TR 24030:2021  AI 유스케이스 및 애플리케이션(Artificial intelligence — Use cases)
@@ -1013,7 +1023,12 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 부속서 C. 다른 표준 및 프레임워크와의 관계 (Relationship to other standards and frameworks) : ISO/IEC 22989, 23053, TR 24027, TR 24028, 38507 등 AI 관련 표준과의 개념적 연계성을 설명<br>
 <br>
 
-![](./images/24030.png)
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24030_1.png'>
+<br>
+
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24030_2.png'>
+<br>
 
 
 	[1] 개념·기술적 기초(Concepts & Technical Foundations)
