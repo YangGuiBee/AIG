@@ -529,9 +529,9 @@
 4.4 인공지능 행위자 및 역할 (AI actors and roles) : AI 시스템의 개발, 제공, 운영, 사용에 관여하는 다양한 주체와 그 역할을 구분<br>
 4.5 인공지능 시스템의 특성 (AI system properties) : 투명성, 설명가능성, 강건성 등 AI 시스템이 가질 수 있는 주요 특성을 개념적으로 정리<br>
 4.6 인공지능 기법 및 접근방식 (AI techniques and approaches) : 머신러닝, 지식기반, 통계적 방법 등 AI 구현에 사용되는 대표적 기술 접근을 중립적으로 분류<br>
--. 부속서 A. 인공지능 관련 개념 간 관계 (Relationships between AI concepts)<br>
--. 부속서 B. AI 시스템과 다른 시스템의 관계 (Relationships between AI systems and other systems)<br>
--. 부속서 C. AI 개념의 활용 예(Examples of the use of AI concepts)<br>
+A. 인공지능 관련 개념 간 관계 (Relationships between AI concepts)<br>
+B. AI 시스템과 다른 시스템의 관계 (Relationships between AI systems and other systems)<br>
+C. AI 개념의 활용 예(Examples of the use of AI concepts)<br>
 <br>
 3.1 AI 기본 개념 (20개)<br>
 ■ 인공지능 (Artificial intelligence, AI): 주어진 목표에 대해 콘텐츠, 예측, 추천 또는 의사결정을 생성할 수 있는 능력을 연구·개발하는 분야<br>
