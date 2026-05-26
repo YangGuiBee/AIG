@@ -128,45 +128,17 @@
 
 ![](./images/ISO_1.png)
 <br>
-![](./images/ISO_1_1.png)
-<br>
-
----
 
 ![](./images/ISO_2.png)
 <br>
-![](./images/ISO_2_1.png)
-<br>
-
----
 
 ![](./images/ISO_3.png)
 <br>
-![](./images/ISO_3_1.png)
-<br>
-
----
 
 ![](./images/ISO_4.png)
 <br>
-![](./images/ISO_4_1.png)
-<br>
-![](./images/ISO_4_2.png)
-<br>
-![](./images/ISO_4_3.png)
-<br>
-![](./images/ISO_4_4.png)
-<br>
-![](./images/ISO_4_5.png)
-<br>
-![](./images/ISO_4_6.png)
-<br>
-
----
 
 ![](./images/ISO_5.png)
-<br>
-![](./images/ISO_5_1.png)
 <br>
 
 ---
@@ -315,8 +287,6 @@
 |통계적 방법 (TC 69)|ISO 3534 시리즈 통계 어휘<br>ISO 2859 시리즈 계수형 샘플링<br>ISO 3951 시리즈 계량형 샘플링<br>ISO 5725 시리즈 측정 정확도|
 |그래픽 기호 (TC 145)|ISO 7000 장비용 그래픽 기호<br>ISO 3864 시리즈 안전 표지색·표식<br>ISO 7010 안전 표지판 도형|
 |문서·용어 (TC 37)|ISO 704 용어작업 원칙<br>ISO 860 용어 조회 원칙<br>ISO 1087 용어학 어휘|
-``
-
 
 ---
 
