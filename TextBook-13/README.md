@@ -1204,7 +1204,7 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 	[2-2] ISO/IEC 42002:2024 AIMS 요구사항 적용 지침(AIMS — Guidance on the application of ISO/IEC 42001)
 	[2-3] ISO/IEC 42003:2024 AIMS 조직 구현 지침(AIMS — Guidance for organizational implementation)
 	[2-4] ISO/IEC 8183:2023 AI 데이터 생명주기 프레임워크(Artificial intelligence — Data life cycle framework)
-	[2-5] ISO/IEC 5259-1:2023 데이터 품질과 ML 기반 — 개요, 용어 및 예시(Data quality for analytics and ML — Overview, terminology and examples)
+	[2-5] ISO/IEC 5259-1:2023 데이터 품질과 ML 기반 — 개요,용어,예시(Data quality for analytics and ML — Overview, terminology and examples)
 	[2-6] ISO/IEC 5259-2:2024 데이터 품질 측정 지표(Data quality measures)
 	[2-7] ISO/IEC 5259-3:2024 데이터 품질 요구사항 및 평가(Data quality requirements and evaluation)
 	[2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework)
@@ -1215,7 +1215,43 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 
 
 ## [2-1] ISO/IEC 42001:2023 AI 관리시스템 요구사항(AI Management System (AIMS) — Requirements)
-ISO/IEC 42001:2023은 AI를 개발·제공·사용하는 조직을 위한 국제 관리시스템 표준입니다. ISO 9001(품질), ISO 27001(정보보안)과 동일한 고수준구조(HLS) 방식을 채택하여, AI 거버넌스를 체계적으로 수립·운영·개선할 수 있도록 설계
+
+**▣ 개요 :** 조직이 인공지능을 책임성·신뢰성·안전성을 갖추어 관리하기 위해 구축해야 할 AI 관리시스템(AIMS)의 필수 요구사항을 규정한 최초의 국제 인증 표준<br>
+<br>
+**▣ 표준의 특성 :** 인증 가능 표준<br>
+AI 거버넌스를 조직의 경영시스템 차원에서 관리하도록 요구하는 PDCA 기반 관리시스템 표준<br>
+<br>
+**▣ 구성 요약 :** <br>
+조직의 맥락(Context of organization) : AI 활용 목적, 이해관계자, 규제 환경을 고려한 관리 범위 정의<br>
+리더십(Leadership) : AI 정책 수립, 최고경영자의 책임과 의사결정 구조 명시<br>
+기획(Planning) : AI 위험 식별·평가 및 대응계획 수립<br>
+운영(Operation) : AI 시스템 생명주기 전반의 운영 통제 요구<br>
+성과 평가 및 개선 : 모니터링, 내부심사, 지속적 개선 체계 요구<br>
+
+**▣ 관련되는 다른 국제 표준 :**
+ISO/IEC 22989:2022 인공지능 개념 및 용어 (Artificial intelligence — Concepts and terminology)<br>
+ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk management)<br>
+ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스 (AI system life cycle processes)<br>
+<br>
+**▣ 전문 출처 :** https://www.iso.org/standard/81230.html<br>
+<br>
+**▣ 목차 :**
+
+	1. 적용 범위 : AIMS의 적용 대상과 한계 정의
+	2. 인용 표준 : 본 표준 적용에 필요한 참조 표준
+	3. 용어 및 정의 : AIMS 관련 핵심 용어 정의
+	4. 조직의 상황 : 조직 맥락, 이해관계자 요구, 적용 범위 설정
+ 	4.1 조직과 그 상황 이해 : AI 활용 환경 분석
+ 	4.2 이해관계자의 요구 이해 : 법·사회적 기대 반영
+	5. 리더십 : AI 정책, 책임, 역할
+	6. 기획 : AI 위험과 기회 대응 계획
+	7. 지원 : 자원, 역량, 인식, 문서화 정보
+	8. 운영 : AI 시스템 생명주기 운영 관리
+	9. 성과 평가 : 모니터링, 측정, 내부심사
+	10. 개선 : 부적합 시정 및 지속적 개선
+	부속서 A : AIMS 요구사항 적용 예시
+	부속서 B : AI 위험 관리 연계 예시
+
 
 중심 개념: PDCA 사이클
 Plan (계획): AI 목표 및 프로세스 수립
