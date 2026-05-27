@@ -393,7 +393,7 @@
 
 **<ins>JTC 1(Joint Technical Committee 1, 공동기술위원회)<ins>** 각각 독립된 국제표준화기구인 ISO와 IEC에서 정보기술 분야의 공동기술위원회<br>
 ISO와 IEC가 IT 분야의 중복 작업을 피하기 위해 1987년 설립. 단일 위원회이지만 두 기구가 공동으로 운영하며, 산하에 다수의 SC와 WG 구성<br>
-**<ins>TC (Technical Committee, 기술위원회)</ins>** 특정 기술 분야를 담당하는 최상위 위원회. ISO는 TC 1~350번대, IEC는 TC 1~120번대로 관리<br>
+**<ins>TC (Technical Committee, 기술위원회)</ins>** 특정 기술 분야를 담당하는 최상위 위원회. ISO는 TC 1-350번대, IEC는 TC 1-120번대로 관리<br>
 ISO TMB 또는 IEC SMB의 승인 아래 설립되며, 해당 분야의 표준화 전략을 수립. 예를 들어 ISO/TC 307은 블록체인, IEC/TC 57은 전력 시스템 관리, ISO/IEC JTC 1은 정보기술 전반을 담당<br>
 **<ins>SC (Subcommittee, 소위원회)</ins>** TC 내에서 더 세분화된 전문 분야를 담당. TC의 지휘 아래 독립적으로 표준 개발 가능<br>
 TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 독립적으로 표준을 개발. 예를 들어 JTC 1/SC 27은 정보보안, JTC 1/SC 42는 인공지능을 담당합니다. SC는 TC에 보고하며, 직접 WG를 산하에 둘 수 있음<br>
@@ -928,17 +928,17 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 
 
 ---
-표준의 핵심 온톨로지. 시스템·아키텍처·AD·이해관계자·관심사·뷰포인트·뷰·모델·대응·근거 10개 핵심 개념과 그 관계<br>
+**표준의 핵심 온톨로지** 시스템·아키텍처·AD·이해관계자·관심사·뷰포인트·뷰·모델·대응·근거 10개 핵심 개념과 그 관계<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_1.png'>
 <br>
 
 ---
-AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포함해야 한다"고 규정하는 6개 섹션(식별, 이해관계자, 뷰포인트 등록, 뷰, 대응/결정, 근거)의 계층 구조<br>
+**AD 문서의 해부도** 표준이 "아키텍처 기술 문서에 반드시 포함해야 한다"고 규정하는 6개 섹션(식별, 이해관계자, 뷰포인트 등록, 뷰, 대응/결정, 근거)의 계층 구조<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_2.png'>
 <br>
 
 ---
-실제 작업 흐름. 이해관계자의 다양한 관심사가 뷰포인트 선택 → 뷰 생성 → AD 통합으로 이어지는 프로세스<br>
+**실제 작업 흐름** 이해관계자의 다양한 관심사가 뷰포인트 선택 → 뷰 생성 → AD 통합으로 이어지는 프로세스<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_3.png'>
 <br>
 
@@ -979,17 +979,17 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 
 
 ---
-편향의 분류 체계 : 사회적·역사적, 데이터, 알고리즘, 상호작용 편향의 4대 유형을 중심으로, 표본·측정·레이블·집계·표현·역사적 편향(데이터 편향 세부), 목적함수·확인·자동화 편향(알고리즘 편향 세부), 닻내림·가용성·집단귀인 오류(인지 편향)를 망라<br>
+**편향의 분류 체계 :** 사회적·역사적, 데이터, 알고리즘, 상호작용 편향의 4대 유형을 중심으로, 표본·측정·레이블·집계·표현·역사적 편향(데이터 편향 세부), 목적함수·확인·자동화 편향(알고리즘 편향 세부), 닻내림·가용성·집단귀인 오류(인지 편향)를 망라<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_1.png'>
 <br>
 
 ---
-생애주기 편향 지도 : 문제 정의→데이터 수집→모델 개발→배포→운영의 5단계에서 각각 어떤 편향이 유입되는지, 그리고 편향이 단계를 거칠수록 누적·증폭된다는 원리(공정성 기준 4종과 보호 속성 6종이 측정의 기준으로 제시)<br>
+**생애주기 편향 지도 :** 문제 정의→데이터 수집→모델 개발→배포→운영의 5단계에서 각각 어떤 편향이 유입되는지, 그리고 편향이 단계를 거칠수록 누적·증폭된다는 원리(공정성 기준 4종과 보호 속성 6종이 측정의 기준으로 제시)<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_2.png'>
 <br>
 
 ---
-측정·완화·거버넌스. 4가지 공정성 지표, 전처리·중간처리·후처리 완화 기법, 편향 감사·투명성 보고·불복 절차·지속 모니터링의 거버넌스 체계, 그리고 표준이 강조하는 핵심 원칙<br>
+**측정·완화·거버넌스 :** 4가지 공정성 지표, 전처리·중간처리·후처리 완화 기법, 편향 감사·투명성 보고·불복 절차·지속 모니터링의 거버넌스 체계, 그리고 표준이 강조하는 핵심 원칙<br>
 <img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24027_3.png'>
 <br>
 
@@ -1066,8 +1066,6 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 	부속서 B. 강건성 평가 예시 시나리오 : 현실적 AI 활용 맥락에서 강건성 문제가 어떻게 나타날 수 있는지를 개념적 시나리오로 설명
 
 ![](./images/24029_1.png)
-<br>
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_1.png'>
 <br>
 
 
@@ -1294,7 +1292,7 @@ ISO/IEC 23894:2023 인공지능 위험관리<br>
 	5. 성과 평가 및 개선 지침 : 감사·개선 사례
 	부속서 A : 적용 사례 예시
 
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42002_1.png'>
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42002_1.png'>
 <br>
 
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42002_2.png'>
@@ -1329,7 +1327,7 @@ ISO 9001:2015 품질경영시스템
 	부속서 A : 구현 성숙도 모델
 
 
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42003_1.png'>
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42003_1.png'>
 <br>
 
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42003_2.png'>
