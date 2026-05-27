@@ -1065,7 +1065,9 @@ AD 문서의 해부도. 표준이 "아키텍처 기술 문서에 반드시 포�
 	부속서 A. 강건성 관련 용어 추가 설명 : 본문에서 사용된 강건성 관련 용어를 비기술적·개념적으로 보완 설명
 	부속서 B. 강건성 평가 예시 시나리오 : 현실적 AI 활용 맥락에서 강건성 문제가 어떻게 나타날 수 있는지를 개념적 시나리오로 설명
 
-![](./images/24029.png)
+![](./images/24029_1.png)
+<br>
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_1.png'>
 <br>
 
 
