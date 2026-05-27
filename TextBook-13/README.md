@@ -1105,7 +1105,10 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 B. 강건성 평가 지표에 대한 논의 : 정확도 변화, 오류율, 안정성 지표 등 강건성 평가에 활용 가능한 지표 개념을 설명
 	부속서 C. AI 생명주기와 강건성 평가의 연계 : 설계, 학습, 배포, 운영 단계에서 강건성 평가가 어떻게 위치하는지를 정리
 
-![](./images/24029_2.png)
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_2_1.png'>
+<br>
+
+<img width ='900' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_2_2.png'>
 <br>
 
 
