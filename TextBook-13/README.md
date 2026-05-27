@@ -888,8 +888,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 B. ISO/IEC 38500 원칙과 AI 거버넌스의 관계
 <br>
 
-<!-- ![](./images/38507.png) -->
-<img width ='900' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/38507.png'>
+<img width ='900' height = '700' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/38507_01.png'>
 <br>
 
 
@@ -929,7 +928,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 
 ---
 **표준의 핵심 온톨로지** 시스템·아키텍처·AD·이해관계자·관심사·뷰포인트·뷰·모델·대응·근거 10개 핵심 개념과 그 관계<br>
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_1.png'>
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42010_01.png'>
 <br>
 
 ---
@@ -1028,7 +1027,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 C. 신뢰성 고려 사례 : 다양한 AI 활용 맥락에서 신뢰성 문제가 어떻게 나타날 수 있는지를 예시로 설명
 	부속서 D. 다른 표준 및 프레임워크와의 관계 : ISO/IEC 22989, 23053, 23894, 38507 등 AI 관련 국제표준과의 개념적 연결성을 제시
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24028.png'>
+<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24028_01.png'>
 <br>
 
 
@@ -1065,7 +1064,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 A. 강건성 관련 용어 추가 설명 : 본문에서 사용된 강건성 관련 용어를 비기술적·개념적으로 보완 설명
 	부속서 B. 강건성 평가 예시 시나리오 : 현실적 AI 활용 맥락에서 강건성 문제가 어떻게 나타날 수 있는지를 개념적 시나리오로 설명
 
-![](./images/24029_1.png)
+![](./images/24029_01.png)
 <br>
 
 
@@ -1105,10 +1104,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 B. 강건성 평가 지표에 대한 논의 : 정확도 변화, 오류율, 안정성 지표 등 강건성 평가에 활용 가능한 지표 개념을 설명
 	부속서 C. AI 생명주기와 강건성 평가의 연계 : 설계, 학습, 배포, 운영 단계에서 강건성 평가가 어떻게 위치하는지를 정리
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_2_1.png'>
-<br>
-
-<img width ='900' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24029_2_2.png'>
+![](./images/24029_02.png)
 <br>
 
 
@@ -1148,10 +1144,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 	부속서 C. 다른 표준 및 정책 프레임워크와의 관계 : ISO/IEC 22989, TR 24027, TR 24028, ISO/IEC 38507, EU AI 정책과의 개념적 위치 관계를 제시
 <br>
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24368_1.png'>
-<br>
-
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24368_2.png'>
+![](./images/24368_01.png)
 <br>
 
 
@@ -1193,10 +1186,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 <br>
 
 
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24030_1.png'>
-<br>
-
-<img width ='900' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/24030_2.png'>
+![](./images/24030_01.png)
 <br>
 
 ---
@@ -1256,10 +1246,8 @@ ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스 (AI system life cycle p
 	부속서 B : AI 위험 관리 연계 예시
 
 
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42001_1.png'>
-<br>
 
-<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42001_2.png'>
+![](./images/42001_01.png)
 <br>
 
 
@@ -1295,10 +1283,8 @@ ISO/IEC 23894:2023 인공지능 위험관리<br>
 	5. 성과 평가 및 개선 지침 : 감사·개선 사례
 	부속서 A : 적용 사례 예시
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42002_1.png'>
-<br>
 
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42002_2.png'>
+![](./images/42002_01.png)
 <br>
 
 
@@ -1329,10 +1315,7 @@ ISO 9001:2015 품질경영시스템<br>
 	4. 변화관리 : 조직 문화·역량 관리
 	부속서 A : 구현 성숙도 모델
 
-<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42003_1.png'>
-<br>
-
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42003_2.png'>
+![](./images/42003_01.png)
 <br>
 
 
@@ -1456,6 +1439,9 @@ ISO/IEC 5338 AI 시스템 생명주기<br>
 	4. 평가 결과 해석 : 적합성 판단
 	부속서 A : 평가 사례
 
+![](./images/5259_03.png)
+<br>	
+
 
 ## [2-8] ISO/IEC 5259-4:2024 데이터 품질 — 프로세스 프레임워크(Data quality for analytics and ML — Data quality process framework)
 
@@ -1481,6 +1467,9 @@ ISO/IEC 42001 인공지능 관리시스템<br>
 	3. 운영 구조 : 책임·보고
 	4. 개선 활동 : 성과 기반 개선
 	부속서 A : 프로세스 모델
+
+![](./images/5259_04.png)
+<br>	
 
 
 ## [2-9] ISO/IEC 5259-5:2025 데이터 품질 거버넌스 프레임워크(Data quality for analytics and ML — Data quality governance framework)
@@ -1508,6 +1497,9 @@ ISO/IEC 23894 인공지능 위험관리<br>
 	3. 감독과 의사결정 : 관리 구조
 	4. 성과와 개선 : 지속적 관리
 	부속서 A : 거버넌스 모델 예시
+
+![](./images/5259_05.png)
+<br>	
 
 
 ## [2-10] ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스(Artificial intelligence — AI system life cycle processes)
@@ -1539,7 +1531,8 @@ ISO/IEC 23894 인공지능 위험관리<br>
 	6. 폐기 단계 : 종료·기록 관리
 	부속서 A : 생명주기 산출물 예시
 
-
+![](./images/5338_01.png)
+<br>	
 
 ---	
 
