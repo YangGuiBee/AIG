@@ -525,7 +525,7 @@ TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 �
 범위: IoT 참조 모델, 센서 데이터 포맷, 디지털 트윈 프레임워크, 실시간 IoT 시스템<br> 
 중요성: 산업 4.0, 스마트 시티, 스마트 제조 표준화의 핵심<br>
 <br>
-**SC 42: 인공지능(Artificial Intelligence)** <br>
+**<ins>SC 42: 인공지능(Artificial Intelligence)</ins>** <br>
 설립년도: 2017년<br> 
 주요 역할: AI 시스템의 개발, 관리, 위험평가, 신뢰성 관련 표준 개발<br> 
 핵심 표준: ISO/IEC 42001(AI 관리시스템), ISO/IEC 23894(AI 위험 관리), ISO/IEC 22989(AI 개념과 용어)<br> 
@@ -1253,46 +1253,11 @@ ISO/IEC 5338:2023 AI 시스템 생명주기 프로세스 (AI system life cycle p
 	부속서 B : AI 위험 관리 연계 예시
 
 
-중심 개념: PDCA 사이클
-Plan (계획): AI 목표 및 프로세스 수립
-Do (실행): 계획된 프로세스 구현
-Check (점검): 성과 모니터링 및 평가
-Act (개선): 지속적 개선 조치
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42001_1.png'>
+<br>
 
-4대 핵심 영역
-(1) 조직 상황 및 리더십 (Context & Leadership)
-조직의 내외부 이슈 파악
-이해관계자 요구사항 분석
-최고경영진의 리더십과 책임
-
-(2) 계획 및 위험 관리 (Planning & Risk Management)
-AI 시스템 위험 평가
-목표 설정 및 계획 수립
-법규 준수 및 윤리적 고려사항
-
-(3) 지원 및 운영 (Support & Operation)
-자원, 역량, 인식 제고
-AI 시스템 개발 및 배포
-문서화 및 운영 통제
-
-(4) 성과 평가 및 개선 (Performance Evaluation & Improvement)
-모니터링 및 측정
-내부 감사
-경영진 검토 및 지속적 개선
-
-10개 조항 구성 (PDCA 기반)
-Plan — 기획 단계 (4~6조)
-4조 조직 맥락: 내외부 이슈 파악, 이해관계자 요구사항, AIMS 적용 범위 결정
-5조 리더십: 최고경영진 책임, AI 정책 수립, 역할·책임 부여
-6조 기획: AI 특화 리스크와 기회 파악, 목표 설정 및 달성 계획
-
-Do — 실행 단계 (7~8조)
-7조 지원: 자원·역량·인식·의사소통·문서화 관리
-8조 운영: AI 시스템 생애주기(설계→개발→배포→운영→폐기), 영향 평가, 공급망 관리
-
-Check/Act — 평가·개선 단계 (9~10조)
-9조 성과 평가: 모니터링, 측정, 내부심사, 경영검토
-10조 개선: 부적합 및 시정조치, 지속적 개선
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/42001_2.png'>
+<br>
 
 
 ## [2-2] ISO/IEC 42002:2024 AIMS 요구사항 적용 지침(AIMS — Guidance on the application of ISO/IEC 42001)
