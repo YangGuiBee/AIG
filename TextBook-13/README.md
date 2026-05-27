@@ -1428,6 +1428,9 @@ ISO/IEC 23894 인공지능 위험관리<br>
 	부속서 A : 지표 적용 예시
 
 
+![](./images/5259_02.png)
+<br>
+
 ## [2-7] ISO/IEC 5259-3:2024 데이터 품질 요구사항 및 평가(Data quality requirements and evaluation)
 
 **▣ 개요 :** AI·ML 시스템 요구에 부합하는 데이터 품질 기준 설정과 평가 절차를 제시한 표준<br>
