@@ -146,16 +146,12 @@
 <!--
 ![](./images/ISO_1.png)
 <br>
-
 ![](./images/ISO_2.png)
 <br>
-
 ![](./images/ISO_3.png)
 <br>
-
 ![](./images/ISO_4.png)
 <br>
-
 ![](./images/ISO_5.png)
 <br>
 -->
@@ -389,6 +385,11 @@
 <br>
 
 ---
+
+
+<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/ISOIEC.png'>
+<br>
+
 
 ### 소위원회(Subcommittees) : 24개
 
