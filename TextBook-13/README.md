@@ -14,6 +14,9 @@
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AIG13_5.PNG'>
 <br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/AIG13_20260528.png'>
+<br>
+
 
 **(ver1)**
 
