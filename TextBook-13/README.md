@@ -386,9 +386,21 @@
 
 ---
 
+## ISO/IEC 조직 구성
 
 <img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-13/images/ISOIEC.png'>
 <br>
+
+**<ins>JTC 1(Joint Technical Committee 1, 공동기술위원회)<ins>** 각각 독립된 국제표준화기구인 ISO와 IEC에서 정보기술 분야의 공동기술위원회<br>
+ISO와 IEC가 IT 분야의 중복 작업을 피하기 위해 1987년 설립. 단일 위원회이지만 두 기구가 공동으로 운영하며, 산하에 다수의 SC와 WG 구성<br>
+**<ins>TC (Technical Committee, 기술위원회)</ins>** 특정 기술 분야를 담당하는 최상위 위원회. ISO는 TC 1~350번대, IEC는 TC 1~120번대로 관리<br>
+ISO TMB 또는 IEC SMB의 승인 아래 설립되며, 해당 분야의 표준화 전략을 수립. 예를 들어 ISO/TC 307은 블록체인, IEC/TC 57은 전력 시스템 관리, ISO/IEC JTC 1은 정보기술 전반을 담당<br>
+**<ins>SC (Subcommittee, 소위원회)</ins>** TC 내에서 더 세분화된 전문 분야를 담당. TC의 지휘 아래 독립적으로 표준 개발 가능<br>
+TC가 다루는 분야가 넓을 때, 더 세분화된 전문 영역을 맡아 독립적으로 표준을 개발. 예를 들어 JTC 1/SC 27은 정보보안, JTC 1/SC 42는 인공지능을 담당합니다. SC는 TC에 보고하며, 직접 WG를 산하에 둘 수 있음<br>
+**<ins>WG (Working Group, 작업그룹)</ins>** 실제 표준 문서를 초안부터 작성하는 실무 단위. TC 또는 SC 아래에 설치<br>
+각국 회원기관(한국의 경우 KATS)이 지명한 개인 전문가(Expert)들로 구성되며, 국가 대표가 아닌 개인 자격으로 참여. TC나 SC가 직접 WG를 설치할 수 있음<br>
+**<ins>AG/AHG (Advisory/Ad Hoc Group)</ins>** 특정 이슈에 대한 자문이나 단기 과제를 위해 임시로 구성<br>
+**<ins>PT (Project Team)</ins>** WG처럼 표준을 개발하지만 단일 프로젝트에 집중하는 소규모 팀<br>
 
 
 ### 소위원회(Subcommittees) : 24개
