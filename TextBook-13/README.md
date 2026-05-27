@@ -15,7 +15,7 @@
 <br>
 
 
-(ver1)
+**(ver1)**
 
 	1. 준비 단계 : ISO/IEC 22989 (개념 및 용어) 
                   ISO/IEC 23053 (ML 프레임워크)
@@ -29,7 +29,7 @@
                      ISO/IEC 24028 (신뢰성 편향)
 
 
-(ver2)
+**(ver2)**
 
 	 [1] 준비 단계 (Preparatory)
 	 [1-1] ISO/IEC 22989 (개념 및 용어) : 2022
@@ -61,7 +61,7 @@
 	 [6-5] ISO/IEC 42010 (AI 시스템 설명가능성(XAI) 지침) 2026~2027
 
 
-(ver3)
+**(ver3)**
 
 	[1] 개념·기술적 기초(Concepts & Technical Foundations)
 	[1-1] ISO/IEC 22989:2022 인공지능 개념 및 용어
