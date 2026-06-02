@@ -10,7 +10,7 @@
 <br>
 
 ### 보고서 파일
-아래 항목을 포함하여 첨부한 양식 hwp 파일로 <ins>10페이지 이내</ins>로 작성(2단 세로)<br>
+아래 항목을 포함하여 첨부한 양식 hwp 파일로 <ins>10페이지 내외</ins>로 작성(2단 세로)<br>
 첨부 양식 : https://github.com/YangGuiBee/AIG/blob/main/TextBook-15/%EB%B3%B4%EA%B3%A0%EC%96%91%EC%8B%9D.hwp<br>
 보고서 파일명 : 보고서_이름(학번).hwp<br>
 (1) 서론 : 검색한 논문의 제목, 저자, 연도, 발행처, 검색한 조건<br>
