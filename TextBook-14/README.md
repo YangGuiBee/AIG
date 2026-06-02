@@ -97,8 +97,6 @@
 
 ## IX. 인공지능기본법에는 없고 ISO/IEC에만 존재하는 조항
 
-## ISO/IEC AI 관련 국제표준 Clause 통합 표 (한글명 추가)
-
 | ISO/IEC 표준 (한글명) | Clause | Clause 내용 |
 |---|---|---|
 | ISO/IEC 38507 (AI의 거버넌스 영향에 관한 IT 거버넌스) | Clause 5 | AI 거버넌스 원칙: 책임, 전략적 정렬, 성과, 적합성 |
@@ -176,4 +174,80 @@
 	 [7] 국제 전문가 자격증
 	 [7-1] Certified AI Engineer (CAI) – USAII
 	 [7-2] Certified AI Foundation (CAIF)
+
+
+# AI 관련 자격증
+
+## Ⅰ. AI 거버넌스·법·국제표준 분야
+
+| 자격증명 | 취득기관 |
+|---|---|
+| ISO/IEC 42001 AIMS Lead Auditor / Auditor | ISO 인증기관 (BSI – https://www.bsigroup.com/ko-KR/, DNV – https://www.dnv.com/, TÜV SÜD – https://www.tuvsud.com/) |
+| ISO/IEC 42001 AIMS Lead Implementer | ISO 인증기관 및 표준 교육기관 (BSI, DNV 등) |
+| ISO/IEC 42001 AIMS Foundation | ISO 인증기관 및 표준 교육기관 |
+| AI Risk Management Practitioner (ISO/IEC 23894 기반) | 국제 표준·리스크 교육기관 (DNV – https://www.dnv.com/, Big4 컨설팅사) |
+| AI Impact Assessment(AIA) 전문가 과정 (ISO/IEC 42003 기반) | 국제 컨설팅·표준 교육기관 (EY – https://www.ey.com/, PwC – https://www.pwc.com/) |
+| Certified Artificial Intelligence Engineer (CAI) | USAII (United States Artificial Intelligence Institute) – https://www.usaii.org/ |
+| Certified Artificial Intelligence Foundation (CAIF) | USAII (United States Artificial Intelligence Institute) – https://www.usaii.org/ |
+| Certified AI Ethics Professional (CAIEP) | USAII (United States Artificial Intelligence Institute) – https://www.usaii.org/ |
+| AI Governance Professional Certificate | ISACA (Information Systems Audit and Control Association) – https://www.isaca.org/ |
+| AI Ethics & Governance Certificate | IEEE (https://www.ieee.org/) · ITU (https://www.itu.int/) |
+
+
+## Ⅱ. 머신러닝·AI 기술 실무 분야 (클라우드·플랫폼)  
+
+| 기관구분 | 자격증명 | 취득기관 |
+|---|---|---|
+| AWS | AWS Certified AI Practitioner | Amazon Web Services (AWS) – https://aws.amazon.com/certification/ |
+|  | AWS Certified Machine Learning – Specialty | Amazon Web Services (AWS) – https://aws.amazon.com/certification/ |
+| Microsoft | Azure AI Fundamentals | Microsoft – https://learn.microsoft.com/certifications/ |
+|  | Azure AI Engineer Associate | Microsoft – https://learn.microsoft.com/certifications/ |
+|  | Azure Data Scientist Associate | Microsoft – https://learn.microsoft.com/certifications/ |
+| Google Cloud | Professional Machine Learning Engineer | Google Cloud – https://cloud.google.com/learn/certification |
+|  | Professional Data Engineer | Google Cloud – https://cloud.google.com/learn/certification |
+
+
+## Ⅲ. AI 연구·이론·학문적 역량 분야
+
+| 자격/수료명 | 취득기관 |
+|---|---|
+| Machine Learning Specialization | Coursera (Stanford University / Andrew Ng) – https://www.coursera.org/ |
+| Deep Learning Specialization | Coursera (Stanford University / Andrew Ng) – https://www.coursera.org/ |
+| IBM AI Engineering / AI Developer Professional Certificate | IBM (Coursera) – https://www.coursera.org/ibm |
+| Google AI / Advanced Data Analytics Professional Certificate | Google (Coursera) – https://www.coursera.org/google |
+| MIT Professional Certificate in Machine Learning & AI | MIT Professional Education – https://professional.mit.edu/ |
+| Stanford University AI Graduate Certificate | Stanford University – https://online.stanford.edu/ |
+| MITx / HarvardX AI Programs | edX (MITx / HarvardX) – https://www.edx.org/ |
+
+
+## Ⅳ. 데이터·품질·테스트 전문 분야
+
+| 자격/수료명 | 취득기관 |
+|---|---|
+| DataCamp AI Fundamentals / AI Engineer Track | DataCamp – https://www.datacamp.com/ |
+| NVIDIA Deep Learning Institute Certificates | NVIDIA – https://www.nvidia.com/en-us/training/ |
+| NVIDIA Generative AI LLMs Certified Associate | NVIDIA – https://www.nvidia.com/en-us/training/ |
+| AI System Testing & Evaluation 과정 (ISO/IEC 25704 연계) | 국제 표준 전문 교육기관 |
+
+
+## Ⅴ. 생성형 AI·LLM 특화 분야
+
+| 자격증명 | 취득기관 |
+|---|---|
+| NVIDIA Generative AI LLMs Certified Associate | NVIDIA – https://www.nvidia.com/en-us/training/ |
+| AI-POT (AI Prompt Optimization Tester) | 민간 전문 교육기관 (주관 기관별 상이) |
+| 생성형 AI 자격증 | 한국GPT협회 – https://koreagpt.org/ |
+| Generative AI 전문과정 | 국내·외 기업 및 대학 교육기관 |
+
+
+## Ⅵ. 국내 국가공인·국가기술 자격
+
+| 자격증명 | 취득기관 |
+|---|---|
+| AICE (AI Intelligence Certificate) | AICE 운영기관(KT·한국AI협회) – https://aice.study/ |
+| 빅데이터분석기사 | 한국산업인력공단(Q-net) – https://www.q-net.or.kr/ |
+| 정보처리기사 | 한국산업인력공단(Q-net) – https://www.q-net.or.kr/ |
+| 데이터아키텍처 전문가(DAP) | 한국데이터산업진흥원(K-DATA) – https://www.kdata.or.kr/ |
+
+ 
 
