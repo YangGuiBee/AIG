@@ -54,24 +54,18 @@
 
 | 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
 |---|---|---|
-| 제13조 투명성 | ISO/IEC 42008 Clause 5 | AI 사용 사실·기능·한계에 대한 투명성 확보 |
-| 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>ISO/IEC 42005 Clause 6<br>ISO/IEC 42005 Clause 7<br>ISO/IEC 42005 Clause 8 | 설명 목적 정의<br>설명 수준·유형 정의<br>설명 구현 기법<br>이해관계자별 설명 방식 |
-| 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5 | 윤리적 위험(차별·편향) 식별·완화<br>AI 위험 식별(편향 포함) |
-| 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>ISO/IEC 42008 Clause 9 | 책임성 확보<br>사회적·윤리적 영향 고려 |
+| 제13조 투명성 | ISO/IEC 42008 Clause 5<br>ISO/IEC 23053 (관련) | AI 사용 사실·기능·한계에 대한 투명성 확보<br>머신러닝 시스템 전반 구조 및 생명주기 이해를 통해 투명성 설명의 맥락 제공 |
+| 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>ISO/IEC 42005 Clause 6<br>ISO/IEC 42005 Clause 7<br>ISO/IEC 42005 Clause 8 | 설명의 목적 정의<br>설명 수준·유형 구분<br>설명 구현을 위한 기술적 방법<br>이해관계자별 설명 방식 |
+| 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 5338 (관련) | 윤리적 위험(차별·편향) 식별 및 완화 요구<br>편향을 포함한 AI 위험 식별<br>AI 라이프사이클 전반에서 편향이 발생·전이될 수 있는 구조적 맥락 제공 |
+| 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>ISO/IEC 42008 Clause 9 | 책임성(Accountability) 확보<br>사회적·윤리적 영향 고려 및 이용자 보호 관점 반영 |
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
-|---|---|---|
-| 제13조 투명성 | ISO/IEC 42008 Clause 5<br>ISO/IEC 23053 | 투명성 확보<br>ML 시스템 프레임워크 이해 |
-| 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>Clause 6<br>Clause 7<br>Clause 8 | 설명 목적·수준·기법·이해관계자별 설명 |
-| 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 5338 | 편향·차별 윤리 리스크 관리<br>AI 라이프사이클 개념 |
-| 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>Clause 9 | 책임성 확보<br>사회적 영향 고려 |
 
 
 ## V. 진흥·지원 
 
 | 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
 |---|---|---|
-| 제17조 연구·실증·산업 지원 | ㅡ | ISO 표준은 산업 진흥·재정 지원을 다루지 않음 |
+| 제17조 연구·실증·산업 지원 | ISO/IEC 23053<br>ISO/IEC 5338 | ML 시스템 프레임워크<br>AI 라이프사이클 전반 이해 |
 
 
 ## VI. 데이터·보안
@@ -81,6 +75,12 @@
 | 제18조 데이터 적정성 | ISO/IEC 42001 Clause 8.3<br>ISO/IEC 42006 Clause 5 | 데이터 관리·품질·대표성 확보<br>데이터 관련 위험 식별 |
 | 제19조 개인정보 보호 | ISO/IEC 42001 Clause 6.1.3 | 개인정보·관련 법규 준수 리스크 관리 |
 | 제20조 보안조치 | ISO/IEC 42001 Clause 7.1<br>ISO/IEC 42008 Clause 7 | 자원·기술·보안 통제<br>AI 시스템 안전성 확보 |
+
+| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
+|---|---|---|
+| 제18조 데이터 적정성 | ISO/IEC 42001 Clause 8.3<br>ISO/IEC 25059<br>ISO/IEC 2989 | 데이터 품질·관리<br>데이터 품질 모델 |
+| 제19조 개인정보 보호 | ISO/IEC 42001 Clause 6.1.3<br>ISO/IEC 27701(참고) | 법규 준수·프라이버시 관리 |
+| 제20조 보안조치 | ISO/IEC 25010<br>ISO/IEC 42008 Clause 7 | 보안성·신뢰성 품질 특성 |
 
 
 ## VII. 역량·교육·문화 
@@ -144,19 +144,12 @@
 
 ## V. 진흥·지원
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제17조 연구·실증·산업 지원 | ISO/IEC 23053<br>ISO/IEC 5338 | ML 시스템 프레임워크<br>AI 라이프사이클 전반 이해 |
 
 ---
 
 ## VI. 데이터·보안
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제18조 데이터 적정성 | ISO/IEC 42001 Clause 8.3<br>ISO/IEC 25059<br>ISO/IEC 2989 | 데이터 품질·관리<br>데이터 품질 모델 |
-| 제19조 개인정보 보호 | ISO/IEC 42001 Clause 6.1.3<br>ISO/IEC 27701(참고) | 법규 준수·프라이버시 관리 |
-| 제20조 보안조치 | ISO/IEC 25010<br>ISO/IEC 42008 Clause 7 | 보안성·신뢰성 품질 특성 |
+
 
 ---
 
