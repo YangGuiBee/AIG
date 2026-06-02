@@ -43,17 +43,11 @@
 
 | 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
 |---|---|---|
-| 제9조 안전성·신뢰성 확보 | ISO/IEC 42001 Clause 6.1<br>ISO/IEC 42008 Clause 7 | AI 리스크·기회 식별 및 관리 계획 수립<br>AI 견고성·안전성 보장 |
-| 제10조 위험 관리 | ISO/IEC 42001 Clause 6<br>ISO/IEC 42006 Clause 4<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 42006 Clause 6<br>ISO/IEC 42006 Clause 7 | AI 리스크 관리 목적과 계획 수립<br>AI 리스크 관리 맥락 정의<br>AI 위험 식별<br>AI 위험 분석·평가<br>AI 위험 처리(완화·회피·수용 등) |
-| 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험 AI 운영 통제<br>고영향 AI에 대한 심층 위험 평가 |
-| 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8 | Human-in-the-loop 설계<br>인간 개입·중단·통제 보장 |
+| 제9조 안전성·신뢰성 확보 | ISO/IEC 42001 Clause 6.1<br>ISO/IEC 42008 Clause 7<br>ISO/IEC 25010 Clause 4<br>ISO/IEC 25010 Clause 5 | AI 관련 리스크와 기회를 식별하고 관리 계획 수립<br>AI 시스템의 견고성·안전성 확보<br>시스템·소프트웨어 품질 모델 개요<br>신뢰성·보안성·안전성을 포함한 품질 특성 정의 |
+| 제10조 위험 관리 | ISO/IEC 42001 Clause 6<br>ISO/IEC 42006 Clause 4<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 42006 Clause 6<br>ISO/IEC 42006 Clause 7<br>ISO/IEC 23894 Clause 4<br>ISO/IEC 23894 Clause 5<br>ISO/IEC 23894 Clause 6<br>ISO/IEC 23894 Clause 7 | AI 리스크 관리 목적 및 계획 수립<br>AI 리스크 관리 맥락(Context) 정의<br>AI 위험의 체계적 식별<br>AI 위험 분석 및 평가<br>AI 위험 처리(완화·회피·수용 등)<br>AI 리스크 관리 프레임워크 개요<br>AI 리스크 거버넌스 체계<br>기술·조직·사회적 리스크 통합 관리<br>리스크 커뮤니케이션 및 보고 |
+| 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험·고영향 AI의 운영 통제 절차<br>고영향 AI에 대한 심층 위험 분석 및 평가 |
+| 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8<br>ISO/IEC 38507 Clause 7 | Human‑in‑the‑loop 설계 및 운영 단계 감독<br>인간 개입·중단·통제 메커니즘 확보<br>조직 차원의 인간 통제 및 중단 권한 보장 |
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제9조 안전성·신뢰성 확보 | ISO/IEC 42001 Clause 6.1<br>ISO/IEC 42008 Clause 7<br>ISO/IEC 25010 | AI 리스크 식별·관리<br>견고성·안전성<br>시스템 품질(신뢰성·보안성) |
-| 제10조 위험 관리 | ISO/IEC 42006 Clause 4<br>Clause 5<br>Clause 6<br>Clause 7<br>ISO/IEC 23894 | AI 리스크 맥락 정의<br>위험 식별·분석·평가·처리<br>AI 위험관리 프레임워크 |
-| 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험 AI 운영 통제<br>강화된 위험 평가 |
-| 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8<br>ISO/IEC 38507 Clause 7 | Human‑in‑the‑loop<br>인간 통제·중단 권한 |
 
 
 ## IV. 투명성·설명·차별 방지
@@ -64,6 +58,12 @@
 | 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>ISO/IEC 42005 Clause 6<br>ISO/IEC 42005 Clause 7<br>ISO/IEC 42005 Clause 8 | 설명 목적 정의<br>설명 수준·유형 정의<br>설명 구현 기법<br>이해관계자별 설명 방식 |
 | 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5 | 윤리적 위험(차별·편향) 식별·완화<br>AI 위험 식별(편향 포함) |
 | 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>ISO/IEC 42008 Clause 9 | 책임성 확보<br>사회적·윤리적 영향 고려 |
+
+
+| 제13조 투명성 | ISO/IEC 42008 Clause 5<br>ISO/IEC 23053 | 투명성 확보<br>ML 시스템 프레임워크 이해 |
+| 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>Clause 6<br>Clause 7<br>Clause 8 | 설명 목적·수준·기법·이해관계자별 설명 |
+| 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 5338 | 편향·차별 윤리 리스크 관리<br>AI 라이프사이클 개념 |
+| 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>Clause 9 | 책임성 확보<br>사회적 영향 고려 |
 
 
 ## V. 진흥·지원 
@@ -137,12 +137,7 @@
 
 ## IV. 투명성·설명·차별 방지
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제13조 투명성 | ISO/IEC 42008 Clause 5<br>ISO/IEC 23053 | 투명성 확보<br>ML 시스템 프레임워크 이해 |
-| 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>Clause 6<br>Clause 7<br>Clause 8 | 설명 목적·수준·기법·이해관계자별 설명 |
-| 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 5338 | 편향·차별 윤리 리스크 관리<br>AI 라이프사이클 개념 |
-| 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>Clause 9 | 책임성 확보<br>사회적 영향 고려 |
+
 
 ---
 
