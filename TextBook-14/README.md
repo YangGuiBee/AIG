@@ -22,13 +22,13 @@
 
 ## I. 총칙
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
+| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
 |---|---|---|
-| 제1조 목적: 인간 중심·신뢰 가능한 AI 구현 | ISO/IEC 42001 Clause 4.1 | 조직의 목적·전략을 정의하고 AI 경영관리시스템(AIMS)의 범위와 방향 설정 |
-| 제2조 정의: AI, 고영향 AI, 이용자 | ISO/IEC 42001 Clause 3 | AI 및 AI 관리체계 관련 핵심 용어 정의 |
-| 제3조 기본이념: 인간 존엄·안전·책임 | ISO/IEC 42001 Clause 5.1<br>ISO/IEC 42004 Clause 4 | 최고경영자의 윤리적 리더십과 책임 확립<br>AI 윤리 원칙(인간 중심성·공정성·책임성) 설정 |
-| 제4조 국가 책무 | ㅡ | ISO 표준은 국가 정책·법적 책무를 규율하지 않음 |
-| 제5조 사업자·이용자 책무 | ISO/IEC 42001 Clause 5.3<br>ISO/IEC 42008 Clause 6 | 조직 내 역할과 책임 정의<br>책임성(Accountability) 확보 |
+| 제1조 목적: 인간 중심·신뢰 가능한 AI 구현 | ISO/IEC 42001 Clause 4.1<br>ISO/IEC 38507 Clause 5<br>ISO/IEC 42008 Clause 4 | AI 경영관리시스템 목적·범위 설정<br>AI 거버넌스 원칙(이사회·경영진 책임)<br>신뢰 가능한 AI 개념 정의 |
+| 제2조 정의: AI, 고영향 AI 등 | ISO/IEC 22989 Clause 3 | AI 및 ML 시스템 핵심 용어 정의 |
+| 제3조 기본이념: 인간 존엄·안전·책임 | ISO/IEC 42001 Clause 5.1<br>ISO/IEC 42004 Clause 4<br>ISO/IEC 38507 Clause 6 | 윤리적 리더십<br>AI 윤리 원칙 수립<br>책임 있는 AI 의사결정 |
+| 제4조 국가 책무 | – | ISO 표준은 국가 정책·입법 책무 미대상 |
+| 제5조 사업자·이용자 책무 | ISO/IEC 42001 Clause 5.3<br>ISO/IEC 42008 Clause 6 | 역할·책임 정의<br>책임성(Accountability) 확보 |
 
 
 ## II. 국가 AI 거버넌스 체계
@@ -37,8 +37,7 @@
 |---|---|---|
 | 제6조 인공지능 기본계획 | ㅡ | 국가 중장기 정책계획은 ISO 적용 대상 아님 |
 | 제7조 시행계획 | ㅡ | 행정 집행계획은 ISO 범위 외 |
-| 제8조 추진체계·위원회 | ISO/IEC 42001 Clause 5 | 조직 차원의 AI 거버넌스 구조와 책임체계 확립 |
-
+| 제8조 추진체계·위원회 | ISO/IEC 38507 Clause 5<br>ISO/IEC 42001 Clause 5 | AI 거버넌스 구조<br>조직 내 의사결정 체계 |
 
 ## III. 안전·위험·통제
 
@@ -48,6 +47,13 @@
 | 제10조 위험 관리 | ISO/IEC 42001 Clause 6<br>ISO/IEC 42006 Clause 4<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 42006 Clause 6<br>ISO/IEC 42006 Clause 7 | AI 리스크 관리 목적과 계획 수립<br>AI 리스크 관리 맥락 정의<br>AI 위험 식별<br>AI 위험 분석·평가<br>AI 위험 처리(완화·회피·수용 등) |
 | 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험 AI 운영 통제<br>고영향 AI에 대한 심층 위험 평가 |
 | 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8 | Human-in-the-loop 설계<br>인간 개입·중단·통제 보장 |
+
+| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
+|---|---|---|
+| 제9조 안전성·신뢰성 확보 | ISO/IEC 42001 Clause 6.1<br>ISO/IEC 42008 Clause 7<br>ISO/IEC 25010 | AI 리스크 식별·관리<br>견고성·안전성<br>시스템 품질(신뢰성·보안성) |
+| 제10조 위험 관리 | ISO/IEC 42006 Clause 4<br>Clause 5<br>Clause 6<br>Clause 7<br>ISO/IEC 23894 | AI 리스크 맥락 정의<br>위험 식별·분석·평가·처리<br>AI 위험관리 프레임워크 |
+| 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험 AI 운영 통제<br>강화된 위험 평가 |
+| 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8<br>ISO/IEC 38507 Clause 7 | Human‑in‑the‑loop<br>인간 통제·중단 권한 |
 
 
 ## IV. 투명성·설명·차별 방지
@@ -115,34 +121,17 @@
 
 ## I. 총칙
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제1조 목적: 인간 중심·신뢰 가능한 AI 구현 | ISO/IEC 42001 Clause 4.1<br>ISO/IEC 38507 Clause 5<br>ISO/IEC 42008 Clause 4 | AI 경영관리시스템 목적·범위 설정<br>AI 거버넌스 원칙(이사회·경영진 책임)<br>신뢰 가능한 AI 개념 정의 |
-| 제2조 정의: AI, 고영향 AI 등 | ISO/IEC 22989 Clause 3 | AI 및 ML 시스템 핵심 용어 정의 |
-| 제3조 기본이념: 인간 존엄·안전·책임 | ISO/IEC 42001 Clause 5.1<br>ISO/IEC 42004 Clause 4<br>ISO/IEC 38507 Clause 6 | 윤리적 리더십<br>AI 윤리 원칙 수립<br>책임 있는 AI 의사결정 |
-| 제4조 국가 책무 | – | ISO 표준은 국가 정책·입법 책무 미대상 |
-| 제5조 사업자·이용자 책무 | ISO/IEC 42001 Clause 5.3<br>ISO/IEC 42008 Clause 6 | 역할·책임 정의<br>책임성(Accountability) 확보 |
 
 ---
 
 ## II. 국가 AI 거버넌스 체계
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제6조 인공지능 기본계획 | – | 국가 정책 영역 |
-| 제7조 시행계획 | – | 국가 정책 영역 |
-| 제8조 추진체계·위원회 | ISO/IEC 38507 Clause 5<br>ISO/IEC 42001 Clause 5 | AI 거버넌스 구조<br>조직 내 의사결정 체계 |
+
 
 ---
 
 ## III. 안전·위험·통제
 
-| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 표준 | ISO/IEC 내용 요지 |
-|---|---|---|
-| 제9조 안전성·신뢰성 확보 | ISO/IEC 42001 Clause 6.1<br>ISO/IEC 42008 Clause 7<br>ISO/IEC 25010 | AI 리스크 식별·관리<br>견고성·안전성<br>시스템 품질(신뢰성·보안성) |
-| 제10조 위험 관리 | ISO/IEC 42006 Clause 4<br>Clause 5<br>Clause 6<br>Clause 7<br>ISO/IEC 23894 | AI 리스크 맥락 정의<br>위험 식별·분석·평가·처리<br>AI 위험관리 프레임워크 |
-| 제11조 고영향 AI 관리 | ISO/IEC 42001 Clause 8<br>ISO/IEC 42006 Clause 6 | 고위험 AI 운영 통제<br>강화된 위험 평가 |
-| 제12조 인간의 감독 | ISO/IEC 42001 Clause 8.2<br>ISO/IEC 42008 Clause 8<br>ISO/IEC 38507 Clause 7 | Human‑in‑the‑loop<br>인간 통제·중단 권한 |
 
 ---
 
@@ -209,6 +198,113 @@
 | ISO/IEC 25059 | 데이터 품질 모델 |
 | ISO/IEC 25704 | AI 시스템 테스트·평가 |
 
+
+
+## IX. 인공지능기본법에는 없고 ISO/IEC에만 존재하는 조항 (Clause-level 상세)## IX. 인공지능기본법에는 없고 ISO/IEC에만 존재하는 조항 (Clause 1. ISO/IEC 38507 (Governance of IT – Governance implications of AI)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 38507 | Clause 5 | AI 거버넌스 원칙: 책임, 전략적 정렬, 성과, 적합성 |
+| ISO/IEC 38507 | Clause 6 | 이사회·경영진의 AI 관련 의사결정 책임 |
+| ISO/IEC 38507 | Clause 7 | AI에 대한 인간 통제, 감독, 중단 권한 |
+| ISO/IEC 38507 | Clause 8 | 조직 차원의 AI 역량·교육·문화 요구사항 |
+
+---
+
+### 2. ISO/IEC 42002 (AI Management System — AI policy guidance)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 42002 | Clause 4 | 조직 차원의 AI 정책 목적·범위 정의 |
+| ISO/IEC 42002 | Clause 5 | AI 정책에 포함되어야 할 핵심 요소(윤리, 리스크, 책임) |
+| ISO/IEC 42002 | Clause 6 | AI 정책의 수립·승인·공유 절차 |
+| ISO/IEC 42002 | Clause 7 | AI 정책의 주기적 검토·개선 |
+
+---
+
+### 3. ISO/IEC 42003 (Guidance on AI system impact assessment)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 42003 | Clause 4 | AI 영향평가(AIA)의 목적과 적용 범위 |
+| ISO/IEC 42003 | Clause 5 | 이해관계자 식별 및 영향 범주 설정 |
+| ISO/IEC 42003 | Clause 6 | 사회적·윤리적·법적 영향 식별 |
+| ISO/IEC 42003 | Clause 7 | 영향 완화 조치 및 의사결정 반영 |
+
+---
+
+### 4. ISO/IEC 42007 (AI process assessment)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 42007 | Clause 4 | AI 프로세스 평가 프레임워크 |
+| ISO/IEC 42007 | Clause 5 | AI 생명주기 프로세스 정의 |
+| ISO/IEC 42007 | Clause 6 | AI 성숙도 수준(Levels of maturity) |
+| ISO/IEC 42007 | Clause 7 | 평가 결과 기반의 개선 계획 수립 |
+
+---
+
+### 5. ISO/IEC 23894 (AI risk management framework)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 23894 | Clause 4 | AI 리스크 관리 프레임워크 개요 |
+| ISO/IEC 23894 | Clause 5 | 조직 차원의 AI 리스크 거버넌스 |
+| ISO/IEC 23894 | Clause 6 | 기술·사회·조직 리스크 통합 관리 |
+| ISO/IEC 23894 | Clause 7 | 리스크 커뮤니케이션 및 보고 |
+
+---
+
+### 6. ISO/IEC 25010 (System and software quality model)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 25010 | Clause 4 | 소프트웨어·시스템 품질 모델 개요 |
+| ISO/IEC 25010 | Clause 5 | 품질 특성 정의(기능성, 신뢰성, 보안성 등) |
+| ISO/IEC 25010 | Clause 6 | 품질 특성의 사용 시나리오 적용 |
+
+---
+
+### 7. ISO/IEC 25059 (Data quality model)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 25059 | Clause 4 | 데이터 품질 모델 개요 |
+| ISO/IEC 25059 | Clause 5 | 데이터 품질 특성(정확성, 완전성, 일관성) |
+| ISO/IEC 25059 | Clause 6 | 데이터 품질 평가 방법 |
+
+---
+
+### 8. ISO/IEC 25704 (AI system testing and evaluation)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 25704 | Clause 4 | AI 시스템 시험·평가의 목적 |
+| ISO/IEC 25704 | Clause 5 | 학습·검증·운영 단계 테스트 |
+| ISO/IEC 25704 | Clause 6 | 성능·신뢰성·편향 테스트 |
+| ISO/IEC 25704 | Clause 7 | 테스트 결과 문서화 및 개선 |
+
+---
+
+### 9. ISO/IEC 5338 (AI vocabulary and lifecycle concepts)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 5338 | Clause 4 | AI 및 ML 라이프사이클 개념 |
+| ISO/IEC 5338 | Clause 5 | 데이터–모델–운영 단계 관계 정의 |
+| ISO/IEC 5338 | Clause 6 | AI 시스템 분류 체계 |
+
+---
+
+### 10. ISO/IEC 22989 (AI concepts and terminology)
+
+| ISO/IEC 표준 | Clause | Clause 내용 |
+|---|---|---|
+| ISO/IEC 22989 | Clause 4 | AI 시스템 개념 구조 |
+| ISO/IEC 22989 | Clause 5 | 머신러닝·딥러닝 용어 |
+| ISO/IEC 22989 | Clause 6 | AI 기능 및 응용 유형 정의 |
+
+---
 
 
 
