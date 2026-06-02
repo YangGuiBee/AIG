@@ -59,7 +59,8 @@
 | 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5 | 윤리적 위험(차별·편향) 식별·완화<br>AI 위험 식별(편향 포함) |
 | 제16조 이용자 권익 보호 | ISO/IEC 42008 Clause 6<br>ISO/IEC 42008 Clause 9 | 책임성 확보<br>사회적·윤리적 영향 고려 |
 
-
+| 인공지능기본법 조항·내용 | 매핑 ISO/IEC 조항 | ISO/IEC Clause 내용 |
+|---|---|---|
 | 제13조 투명성 | ISO/IEC 42008 Clause 5<br>ISO/IEC 23053 | 투명성 확보<br>ML 시스템 프레임워크 이해 |
 | 제14조 설명 가능성 | ISO/IEC 42005 Clause 5<br>Clause 6<br>Clause 7<br>Clause 8 | 설명 목적·수준·기법·이해관계자별 설명 |
 | 제15조 차별 방지 | ISO/IEC 42004 Clause 6<br>ISO/IEC 42006 Clause 5<br>ISO/IEC 5338 | 편향·차별 윤리 리스크 관리<br>AI 라이프사이클 개념 |
