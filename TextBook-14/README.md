@@ -14,6 +14,9 @@
 <img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_5.PNG'>
 <br>
 
+![](./images/iso.png)
+<br>
+
 # 인공지능기본법 vs ISO/IEC 4200X
 
 ## I. 총칙
