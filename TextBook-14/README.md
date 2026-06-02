@@ -97,44 +97,46 @@
 
 ## IX. 인공지능기본법에는 없고 ISO/IEC에만 존재하는 조항
 
-| ISO/IEC 표준 | Clause | Clause 내용 |
+## ISO/IEC AI 관련 국제표준 Clause 통합 표 (한글명 추가)
+
+| ISO/IEC 표준 (한글명) | Clause | Clause 내용 |
 |---|---|---|
-| ISO/IEC 38507 | Clause 5 | AI 거버넌스 원칙: 책임, 전략적 정렬, 성과, 적합성 |
-| | Clause 6 | 이사회·경영진의 AI 관련 의사결정 책임 |
-| | Clause 7 | AI에 대한 인간 통제, 감독, 중단 권한 |
-| | Clause 8 | 조직 차원의 AI 역량·교육·문화 요구사항 |
-| ISO/IEC 42002 | Clause 4 | 조직 차원의 AI 정책 목적·범위 정의 |
-| | Clause 5 | AI 정책에 포함되어야 할 핵심 요소(윤리, 리스크, 책임) |
-| | Clause 6 | AI 정책의 수립·승인·공유 절차 |
-| | Clause 7 | AI 정책의 주기적 검토·개선 |
-| ISO/IEC 42003 | Clause 4 | AI 영향평가(AIA)의 목적과 적용 범위 |
-| | Clause 5 | 이해관계자 식별 및 영향 범주 설정 |
-| | Clause 6 | 사회적·윤리적·법적 영향 식별 |
-| | Clause 7 | 영향 완화 조치 및 의사결정 반영 |
-| ISO/IEC 42007 | Clause 4 | AI 프로세스 평가 프레임워크 |
-| | Clause 5 | AI 생명주기 프로세스 정의 |
-| | Clause 6 | AI 성숙도 수준(Levels of maturity) |
-| | Clause 7 | 평가 결과 기반의 개선 계획 수립 |
-| ISO/IEC 23894 | Clause 4 | AI 리스크 관리 프레임워크 개요 |
-| | Clause 5 | 조직 차원의 AI 리스크 거버넌스 |
-| | Clause 6 | 기술·사회·조직 리스크 통합 관리 |
-| | Clause 7 | 리스크 커뮤니케이션 및 보고 |
-| ISO/IEC 25010 | Clause 4 | 소프트웨어·시스템 품질 모델 개요 |
-| | Clause 5 | 품질 특성 정의(기능성, 신뢰성, 보안성 등) |
-| | Clause 6 | 품질 특성의 사용 시나리오 적용 |
-| ISO/IEC 25059 | Clause 4 | 데이터 품질 모델 개요 |
-| | Clause 5 | 데이터 품질 특성(정확성, 완전성, 일관성) |
-| | Clause 6 | 데이터 품질 평가 방법 |
-| ISO/IEC 25704 | Clause 4 | AI 시스템 시험·평가의 목적 |
-| | Clause 5 | 학습·검증·운영 단계 테스트 |
-| | Clause 6 | 성능·신뢰성·편향 테스트 |
-| | Clause 7 | 테스트 결과 문서화 및 개선 |
-| ISO/IEC 5338 | Clause 4 | AI 및 ML 라이프사이클 개념 |
-| | Clause 5 | 데이터–모델–운영 단계 관계 정의 |
-| | Clause 6 | AI 시스템 분류 체계 |
-| ISO/IEC 22989 | Clause 4 | AI 시스템 개념 구조 |
-| | Clause 5 | 머신러닝·딥러닝 용어 |
-| | Clause 6 | AI 기능 및 응용 유형 정의 |
+| ISO/IEC 38507 (AI의 거버넌스 영향에 관한 IT 거버넌스) | Clause 5 | AI 거버넌스 원칙: 책임, 전략적 정렬, 성과, 적합성 |
+|  | Clause 6 | 이사회·경영진의 AI 관련 의사결정 책임 |
+|  | Clause 7 | AI에 대한 인간 통제, 감독, 중단 권한 |
+|  | Clause 8 | 조직 차원의 AI 역량·교육·문화 요구사항 |
+| ISO/IEC 42002 (AI 경영관리시스템 – AI 정책 수립 가이드라인) | Clause 4 | 조직 차원의 AI 정책 목적·범위 정의 |
+|  | Clause 5 | AI 정책에 포함되어야 할 핵심 요소(윤리, 리스크, 책임) |
+|  | Clause 6 | AI 정책의 수립·승인·공유 절차 |
+|  | Clause 7 | AI 정책의 주기적 검토·개선 |
+| ISO/IEC 42003 (AI 시스템 영향평가 가이드라인) | Clause 4 | AI 영향평가(AIA)의 목적과 적용 범위 |
+|  | Clause 5 | 이해관계자 식별 및 영향 범주 설정 |
+|  | Clause 6 | 사회적·윤리적·법적 영향 식별 |
+|  | Clause 7 | 영향 완화 조치 및 의사결정 반영 |
+| ISO/IEC 42007 (AI 프로세스 평가) | Clause 4 | AI 프로세스 평가 프레임워크 |
+|  | Clause 5 | AI 생명주기 프로세스 정의 |
+|  | Clause 6 | AI 성숙도 수준(Levels of maturity) |
+|  | Clause 7 | 평가 결과 기반의 개선 계획 수립 |
+| ISO/IEC 23894 (AI 리스크 관리 프레임워크) | Clause 4 | AI 리스크 관리 프레임워크 개요 |
+|  | Clause 5 | 조직 차원의 AI 리스크 거버넌스 |
+|  | Clause 6 | 기술·사회·조직 리스크 통합 관리 |
+|  | Clause 7 | 리스크 커뮤니케이션 및 보고 |
+| ISO/IEC 25010 (시스템 및 소프트웨어 품질 모델) | Clause 4 | 소프트웨어·시스템 품질 모델 개요 |
+|  | Clause 5 | 품질 특성 정의(기능성, 신뢰성, 보안성 등) |
+|  | Clause 6 | 품질 특성의 사용 시나리오 적용 |
+| ISO/IEC 25059 (데이터 품질 모델) | Clause 4 | 데이터 품질 모델 개요 |
+|  | Clause 5 | 데이터 품질 특성(정확성, 완전성, 일관성) |
+|  | Clause 6 | 데이터 품질 평가 방법 |
+| ISO/IEC 25704 (AI 시스템 시험 및 평가) | Clause 4 | AI 시스템 시험·평가의 목적 |
+|  | Clause 5 | 학습·검증·운영 단계 테스트 |
+|  | Clause 6 | 성능·신뢰성·편향 테스트 |
+|  | Clause 7 | 테스트 결과 문서화 및 개선 |
+| ISO/IEC 5338 (AI 및 머신러닝 라이프사이클 개념) | Clause 4 | AI 및 ML 라이프사이클 개념 |
+|  | Clause 5 | 데이터–모델–운영 단계 관계 정의 |
+|  | Clause 6 | AI 시스템 분류 체계 |
+| ISO/IEC 22989 (AI 개념 및 용어) | Clause 4 | AI 시스템 개념 구조 |
+|  | Clause 5 | 머신러닝·딥러닝 용어 |
+|  | Clause 6 | AI 기능 및 응용 유형 정의 |
 
 
 자격
