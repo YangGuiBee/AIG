@@ -1,5 +1,18 @@
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_1.PNG'>
+<br>
 
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_2.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_3.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_4.PNG'>
+<br>
+
+<img width ='1000' height = '1000' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/AIG14_5.PNG'>
+<br>
 
 # 인공지능기본법 vs ISO/IEC 4200X
 
