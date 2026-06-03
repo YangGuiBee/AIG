@@ -142,15 +142,9 @@
 
 ## 1. 국제 표준 자격증 (ISO/IEC 기반)
 
-| 자격증명 | 취득기관 |
-|---|---|
-| ISO/IEC 42001 AI 관리시스템(AIMS) Lead Auditor / Auditor | ISO 인증기관<br>BSI – https://www.bsigroup.com/ko-KR/,<br>DNV – https://www.dnv.com/,<br> TÜV SÜD – https://www.tuvsud.com/ |
-
-
 | 자격증명 | 취득기관 | 설명 |
 |---|---|---|
-| **ISO/IEC 42001 AI 관리시스템(AIMS) Lead Auditor / Auditor** | ISO 인증기관<br>[BSI (British Standards Institution)](https://www.bsigroup.com/ko-KR/)<br>[DNV](https://www.dnv.com/)<br>[TÜV SÜD](https://www.tuvsud.com/) | 조직의 인공지능 활용이 국제 표준 **ISO/IEC 42001(AI Management System)** 요구사항에 부합하는지를 독립적으로 심사·평가할 수 있는 전문 역량을 인증하는 국제 표준 자격. AI 거버넌스 체계 수립, 위험 관리, 윤리·책임성 확보, 내부 통제 및 지속적 개선 여부를 체계적으로 검증하는 데 초점을 두며, **Auditor(심사원)**와 **Lead Auditor(선임 심사원)** 과정으로 구분. 본 자격은 기업·공공기관의 AI 관리체계 인증 심사, 내부 감사, 정책 수립 및 규제 대응 업무에 활용되며, 기술 구현보다는 **조직 차원의 AI 관리·감사 역량**에 중점|
-
+| **ISO/IEC 42001 AI 관리시스템(AIMS) Lead Auditor / Auditor** | ISO 인증기관<br>BSI – https://www.bsigroup.com/ko-KR/,<br>DNV – https://www.dnv.com/,<br> TÜV SÜD – https://www.tuvsud.com/  | 조직의 인공지능 활용이 국제 표준 **ISO/IEC 42001(AI Management System)** 요구사항에 부합하는지를 독립적으로 심사·평가할 수 있는 전문 역량을 인증하는 국제 표준 자격. AI 거버넌스 체계 수립, 위험 관리, 윤리·책임성 확보, 내부 통제 및 지속적 개선 여부를 체계적으로 검증하는 데 초점을 두며, **Auditor(심사원)** , **Lead Auditor(선임 심사원)** 과정으로 구분. 본 자격은 기업·공공기관의 AI 관리체계 인증 심사, 내부 감사, 정책 수립 및 규제 대응 업무에 활용되며, 기술 구현보다는 **조직 차원의 AI 관리·감사 역량**에 중점|
 
 
 ## 2. 클라우드 플랫폼 AI 자격증 (대형 테크 기업)
