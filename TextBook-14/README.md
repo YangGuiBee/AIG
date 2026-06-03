@@ -143,7 +143,7 @@
 
 | 자격증명 | 취득기관 |
 |---|---|
-| ISO/IEC 42001 AI 관리시스템(AIMS) Lead Auditor / Auditor | ISO 인증기관 (BSI – https://www.bsigroup.com/ko-KR/, DNV – https://www.dnv.com/, TÜV SÜD – https://www.tuvsud.com/) |
+| ISO/IEC 42001 AI 관리시스템(AIMS) Lead Auditor / Auditor | ISO 인증기관<br>BSI – https://www.bsigroup.com/ko-KR/,<br>DNV – https://www.dnv.com/,<br> TÜV SÜD – https://www.tuvsud.com/ |
 
 
 ## 2. 클라우드 플랫폼 AI 자격증 (대형 테크 기업)
@@ -205,82 +205,82 @@
 
 ---
 ## AI 관련 자격증 로드맵
-Level 1. 입문 단계(1-3개월) → Level 2. 기초 역량 구축(3-6개월) → Level 3. 전문 영역 심화(6-12개월) → Level 4. 고급/리더십(12개월+)
+<ins>Level 1. 입문 단계(1-3개월) → Level 2. 기초 역량 구축(3-6개월) → Level 3. 전문 영역 심화(6-12개월) → Level 4. 고급/리더십(12개월+)</ins>
 
-  Level 1. 입문 단계 (AI 기초 이해) : AI 개념 이해 및 기본 소양 습득
-  Level 2. 기초 역량 구축 (기술 및 실무 기반) : 데이터 분석 및 머신러닝 기본 기술 습득
-  Level 3. 전문 영역 심화 : 특정 플랫폼 또는 기술 영역에서 전문성 확보
-  Level 4. 고급/리더십 : AI 거버넌스, 조직 관리, 전략 수립 능력
+	 ▣ Level 1. 입문 단계 (AI 기초 이해) : AI 개념 이해 및 기본 소양 습득
+	 ▣ Level 2. 기초 역량 구축 (기술 및 실무 기반) : 데이터 분석 및 머신러닝 기본 기술 습득
+	 ▣ Level 3. 전문 영역 심화 : 특정 플랫폼 또는 기술 영역에서 전문성 확보
+	 ▣ Level 4. 고급/리더십 : AI 거버넌스, 조직 관리, 전략 수립 능력
                      
 ### Level 1. 입문 단계 (AI 기초 이해) : AI 개념 이해 및 기본 소양 습득
 
-#### ① AICE Associate (국내) : KT·한국AI협회
+**① AICE Associate (국내) : KT·한국AI협회** <br>
 (난이도: ★★, 학습기간: 1-2개월, 비용: 약 7만원, 특징: 한국어, AI 기초 이론 및 실습)<br>
-#### ② Azure AI Fundamentals (AI-900) (국제) : Microsoft
+**② Azure AI Fundamentals (AI-900) (국제) : Microsoft** <br>
 (난이도: ★★, 학습기간: 2-4주, 비용: $99, 특징: 클라우드 AI 기초, 무료 학습 자료 풍부)<br>
-#### ③ AWS Certified AI Practitioner (국제) : AWS
+**③ AWS Certified AI Practitioner (국제) : AWS** <br>
 (난이도: ★★, 학습기간: 1-2개월, 비용: $100, 특징: AWS AI 서비스 기초)<br>
-#### ③ 생성형 AI 자격증 (국내) : 한국GPT협회
+**③ 생성형 AI 자격증 (국내) : 한국GPT협회** <br>
 (난이도: ★, 학습기간: 2-4주, 특징: ChatGPT 등 생성형 AI 활용)<br>
 
 
 ### Level 2. 기초 역량 구축 (기술 및 실무 기반) : 데이터 분석 및 머신러닝 기본 기술 습득
 
 A. 개발/엔지니어링 경로
-#### ①  AICE Professional (국내)
-(난이도: ★★★, 학습기간: 2-3개월, 특징: 코딩 실습, 모델 구축 능력)
-#### ② Machine Learning Specialization (국제) : Coursera (Andrew Ng)
-(난이도: ★★★, 학습기간: 3-4개월, 비용: 월 $49 (수료 시 약 $200), 특징: ML 이론 및 실습의 황금 표준)
-#### ③ 빅데이터분석기사 (국내 국가공인) : Q-net
-(난이도: ★★★★, 학습기간: 3-6개월, 비용: 응시료 약 8만원, 특징: 데이터 전처리, 분석, 시각화)
+**①  AICE Professional (국내)** <br>
+(난이도: ★★★, 학습기간: 2-3개월, 특징: 코딩 실습, 모델 구축 능력)<br>
+**② Machine Learning Specialization (국제) : Coursera (Andrew Ng)** <br>
+(난이도: ★★★, 학습기간: 3-4개월, 비용: 월 $49 (수료 시 약 $200), 특징: ML 이론 및 실습의 황금 표준)<br>
+**③ 빅데이터분석기사 (국내 국가공인) : Q-net** <br>
+(난이도: ★★★★, 학습기간: 3-6개월, 비용: 응시료 약 8만원, 특징: 데이터 전처리, 분석, 시각화)<br>
 
 B. 비개발/기획/관리 경로
-#### ① AI-POT (AI Prompt Optimization Tester) (국내)
-(난이도: ★★, 학습기간: 1-2개월, 특징: 프롬프트 엔지니어링 실무)
-#### ② IBM AI Developer Professional Certificate (국제) : IBM via Coursera
-(난이도: ★★★, 학습기간: 2-3개월, 특징: 노코드/로우코드 AI 도구 활용)
+**① AI-POT (AI Prompt Optimization Tester) (국내)** <br>
+(난이도: ★★, 학습기간: 1-2개월, 특징: 프롬프트 엔지니어링 실무)<br>
+**② IBM AI Developer Professional Certificate (국제) : IBM via Coursera** <br>
+(난이도: ★★★, 학습기간: 2-3개월, 특징: 노코드/로우코드 AI 도구 활용)<br>
 
 
 ### Level 3. 전문 영역 심화 : 특정 플랫폼 또는 기술 영역에서 전문성 확보
 
 A. 클라우드 AI 전문가
-#### ① AWS 경로 : AWS Certified Machine Learning – Specialty
-(난이도: ★★★★, 학습기간: 4-6개월, 비용: $300, 선수: AWS 기초 지식 (Developer/Solutions Architect))
-#### ② Azure 경로 : Azure AI Engineer Associate (AI-102)
-(난이도: ★★★★, 학습기간: 3-5개월, 비용: $165, 선수: Azure Fundamentals)
-#### ③ Google Cloud 경로 : Professional Machine Learning Engineer
-(난이도: ★★★★★, 학습기간: 6-9개월, 비용: $200, 선수: GCP 실무 경험 권장)
+**① AWS 경로 : AWS Certified Machine Learning – Specialty** <br>
+(난이도: ★★★★, 학습기간: 4-6개월, 비용: $300, 선수: AWS 기초 지식 (Developer/Solutions Architect))<br>
+**② Azure 경로 : Azure AI Engineer Associate (AI-102)** <br>
+(난이도: ★★★★, 학습기간: 3-5개월, 비용: $165, 선수: Azure Fundamentals)<br>
+**③ Google Cloud 경로 : Professional Machine Learning Engineer** <br>
+(난이도: ★★★★★, 학습기간: 6-9개월, 비용: $200, 선수: GCP 실무 경험 권장)<br>
 
 B. 딥러닝 전문가
-#### ① Deep Learning Specialization (국제) : Coursera (Andrew Ng)
-(난이도: ★★★★, 학습기간: 4-5개월, 비용: 월 $49, 특징: CNN, RNN, Transformer 등)
-#### ② NVIDIA Generative AI LLMs Certified Associate (국제) : NVIDIA
-(난이도: ★★★★, 학습기간: 3-4개월, 특징: LLM 개발 및 최적화)
+**① Deep Learning Specialization (국제) : Coursera (Andrew Ng)** <br>
+(난이도: ★★★★, 학습기간: 4-5개월, 비용: 월 $49, 특징: CNN, RNN, Transformer 등)<br>
+**② NVIDIA Generative AI LLMs Certified Associate (국제) : NVIDIA** <br>
+(난이도: ★★★★, 학습기간: 3-4개월, 특징: LLM 개발 및 최적화)<br>
 
 C. 국내 전문가
-#### ① 한국AI교육진흥원 AI 자격증 (4종 중 선택) : AI 활용능력 / AI 응용능력 / AI 개발능력 / AI 전문가
-(난이도: ★★★ ~ ★★★★★, 특징: 국내 기업 인정도 높음
-#### ② 국가공인 정보처리기사 : Q-net
-(난이도: ★★★★, 학습기간: 4-6개월, 특징: 소프트웨어 개발 전반 (AI 포함))
+**① 한국AI교육진흥원 AI 자격증 (4종 중 선택) : AI 활용능력 / AI 응용능력 / AI 개발능력 / AI 전문가** <br>
+(난이도: ★★★ ~ ★★★★★, 특징: 국내 기업 인정도 높음)<br>
+**② 국가공인 정보처리기사 : Q-net** <br>
+(난이도: ★★★★, 학습기간: 4-6개월, 특징: 소프트웨어 개발 전반 (AI 포함))<br>
 
 
 ### Level 4. 고급/리더십 : AI 거버넌스, 조직 관리, 전략 수립 능력
 
 A. AI 거버넌스 및 감사
-#### ① ISO/IEC 42001 AIMS Lead Auditor (국제 표준) : BSI, DNV, TÜV SÜD
-(난이도: ★★★★★, 학습기간: 6-12개월, 비용: 교육 + 시험 약 300-500만원, 선수: ISO 9001 등 관리시스템 이해 권장, 특징: AI 윤리, 리스크 관리, 규제 준수)
-#### ② ISO/IEC 42001 AIMS Auditor
-(난이도: ★★★★, Lead Auditor의 하위 자격)
+**① ISO/IEC 42001 AIMS Lead Auditor (국제 표준) : BSI, DNV, TÜV SÜD** <br>
+(난이도: ★★★★★, 학습기간: 6-12개월, 비용: 교육 + 시험 약 300-500만원, 선수: ISO 9001 등 관리시스템 이해 권장, 특징: AI 윤리, 리스크 관리, 규제 준수)<br>
+**② ISO/IEC 42001 AIMS Auditor** <br>
+(난이도: ★★★★, Lead Auditor의 하위 자격)<br>
 
 B. 국제 전문가 인증
-#### ① Certified Artificial Intelligence Engineer (CAI) : USAII
-(난이도: ★★★★★, 학습기간: 6-12개월, 특징: AI 시스템 설계 및 구현)
-#### ② Certified Artificial Intelligence Foundation (CAIF) : USAII
-(난이도: ★★★, 특징: CAI의 기초 단계)
+**① Certified Artificial Intelligence Engineer (CAI) : USAII** <br>
+(난이도: ★★★★★, 학습기간: 6-12개월, 특징: AI 시스템 설계 및 구현)<br>
+**② Certified Artificial Intelligence Foundation (CAIF) : USAII** <br>
+(난이도: ★★★, 특징: CAI의 기초 단계)<br>
 
 C. 학위 수준
-#### ① Stanford University AI Graduate Certificate : Stanford University
-(난이도: ★★★★★, 학습기간: 12개월+, 비용: 수천 달러, 특징: 최고 수준의 학문적 깊이)
+**① Stanford University AI Graduate Certificate : Stanford University** <br>
+(난이도: ★★★★★, 학습기간: 12개월+, 비용: 수천 달러, 특징: 최고 수준의 학문적 깊이)<br>
 
 
 |시나리오별 추천 학습|경로|
