@@ -178,12 +178,12 @@
 
 ## 5. 국내 민간 자격증
 
-| 자격증명 | 취득기관 |
-|---|---|
-| 한국AI교육진흥원 AI 자격증(4종) | 한국AI교육진흥원 – https://www.kaiie.or.kr/ |
-| AI-POT (AI Prompt Optimization Tester) | 민간 전문 교육기관 |
-| 생성형 AI 자격증 | 한국GPT협회 – https://koreagpt.org/ |
-| AI 인공지능지도사 (ISO/IEC 42001 기반) | 민간 교육기관 |
+| 자격증명 | 취득기관 | 설명 |
+|---|---|---|
+| 한국AI교육진흥원 AI 자격증(4종) | 한국AI교육진흥원<br>https://www.kaiie.or.kr/ | |
+| AI-POT (AI Prompt Optimization Tester) | 한국인공지능협회(Korea Artificial Intelligence Association, KAIA)<br>https://www.koraia.org|프롬프트 설계·최적화 역량”을 평가하는 실무 중심 자격|
+| 생성형 AI 자격증 | 한국GPT협회<br>https://koreagpt.org/ | |
+| AI 인공지능지도사 (ISO/IEC 42001 기반) | 한국인공지능진흥협회 (KAIPA, Korea Artificial Intelligence Promotion Association)<br>https://www.kaipa.or.kr |거버넌스·관리체계 중심 |
 
 
 ## 6. 특화 영역별 자격증
