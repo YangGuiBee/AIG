@@ -80,6 +80,12 @@ ISO/IEC 22989:2022 인공지능 개념 및 용어 (Artificial intelligence — C
 	부속서 B : 영향 유형과 관리 활동 연계 예시
 	
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_1_01.png'>
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_1_02.png'>
+<br>
+
 ## [4-2] ISO/IEC 42006:2025 AI 관리시스템 — 감사 및 인증을 제공하는 기관에 대한 요구사항
 ISO/IEC 42006은 AI 관리시스템 인증의 신뢰성을 보장하기 위해,<br>
 ISO/IEC 42001을 심사·인증하는 기관이 갖추어야 할 공정성, 역량, 절차를 규정한 인증기관 대상 표준<br>
