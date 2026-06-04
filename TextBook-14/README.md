@@ -26,7 +26,7 @@
 	[4-6] ISO/IEC TS 6254:2025 ML 설명가능성 및 해석가능성의 목표와 접근 방법
 
 
-<img width ='1000' height = '600' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/iso_4.png'>
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/iso_4.png'>
 <br>
 
 ## [4-1] ISO/IEC 42005:2025 AI 시스템 영향 평가
