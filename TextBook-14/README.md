@@ -360,6 +360,9 @@ ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk m
 <img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_6_01.png'>
 <br>
 
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_6_02.png'>
+<br>
+
 
 ---
 
