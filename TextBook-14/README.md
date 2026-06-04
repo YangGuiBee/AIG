@@ -198,6 +198,9 @@ ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk m
 	부속서 A : AI 시스템 적합성 평가 시나리오 예시
 	부속서 B : 평가 유형 선택 가이드
 	
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_3_01.png'>
+<br>
+
 
 ## [4-4] ISO/IEC 42008:예정 AI 시스템 평가 결과 및 대시보드
 AI 시스템에 대한 평가를 “수행하는 것”에서 나아가, 그 결과를 어떻게 이해 가능하고 책임 있게 표현·공유할 것인가를 다루는 AI 평가 결과 커뮤니케이션 표준<br>
@@ -246,7 +249,13 @@ ISO/IEC 22989:2022 인공지능 개념 및 용어 (Artificial intelligence — C
 	9. 평가 결과의 활용 및 관리
 	부속서 A : AI 시스템 평가 결과 대시보드 예시
 	부속서 B : 이해관계자별 정보 표현 수준 예시
-	
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_4_01.png'>
+<br>
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_4_02.png'>
+<br>
+
 
 ## [4-5] ISO/IEC CD TS 22443:예정 AI 사회적·윤리적 쟁점 해결 지침
 ISO/IEC TS 22443은 AI 윤리를 추상적 원칙이 아니라, 조직이 실제로 사회적·윤리적 쟁점을 식별하고 대응하기 위한 실천 지침으로 전환하는 데 목적을 둔 기술지침 표준<br>
@@ -293,7 +302,10 @@ ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk m
 	9. 문제 발생 시 대응 및 개선
 	부속서 A : 사회적·윤리적 쟁점 사례 예시
 	부속서 B : 쟁점 유형과 대응 활동 연계 예시
-	
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_5_01.png'>
+<br>
+
 
 ## [4-6] ISO/IEC TS 6254:2025 ML 설명가능성 및 해석가능성의 목표와 접근 방법
 ISO/IEC TS 6254는 머신러닝 설명가능성을 특정 기술 문제로 다루지 않고,<br>
@@ -344,6 +356,10 @@ ISO/IEC 23894:2023 인공지능 위험관리 (Artificial intelligence — Risk m
 	9. 설명가능성과 AIMS·적합성 평가 연계
 	부속서 A : 설명가능성 적용 사례 예시
 	부속서 B : 설명 목표와 접근 방법 매핑 예시
+
+<img width ='1000' height = '800' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-14/images/4_6_01.png'>
+<br>
+
 
 ---
 
