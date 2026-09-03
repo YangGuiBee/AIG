@@ -1,3 +1,4 @@
+
 <img width ='900' height = '130' src = 'https://github.com/YangGuiBee/AIG/blob/main/TextBook-01/images/AI.png'> 
 
 # AI거버넌스 기반의 연구방법론 : 2026년 2학기 Plan 
