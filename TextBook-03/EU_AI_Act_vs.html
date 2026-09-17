@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="ko"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EU AI Act 원본-확정본 조문 비교표</title>
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1a1a1a; --muted:#5c5c5c; --line:#e0ddd6;
+    --accent:#1f4e5f; --accent2:#8a5a2b; --soft:#f7f5f0; --soft2:#eef3f4;
+    --warn:#7a3b2e; --ok:#2f6b3a; --new:#8a1f2b;
+    --serif:"Noto Serif KR","Nanum Myeongjo","Batang",serif;
+    --sans:"Pretendard","Noto Sans KR","Malgun Gothic",sans-serif;
+    --mono:"D2Coding","Consolas",monospace;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:16px;line-height:1.85;word-break:keep-all;overflow-wrap:break-word}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 28px 120px}
+  header.cover{border-bottom:3px double var(--accent);padding:64px 0 36px;margin-bottom:44px}
+  .kicker{font-size:.8rem;letter-spacing:.22em;color:var(--accent2);font-weight:700;margin-bottom:18px}
+  h1{font-family:var(--serif);font-size:2.2rem;line-height:1.35;margin:0 0 14px;font-weight:700;letter-spacing:-.01em}
+  .subtitle{font-size:1.02rem;color:var(--muted);margin:0 0 30px;font-family:var(--serif)}
+  .meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px 24px;font-size:.86rem;color:var(--muted);border-top:1px solid var(--line);padding-top:18px}
+  .meta b{color:var(--fg);font-weight:600;display:block;font-size:.76rem;letter-spacing:.08em;margin-bottom:2px}
+  h2{font-family:var(--serif);font-size:1.5rem;margin:60px 0 18px;padding-bottom:10px;border-bottom:2px solid var(--accent);font-weight:700}
+  h3{font-family:var(--serif);font-size:1.15rem;margin:34px 0 10px;color:var(--accent);font-weight:700}
+  p{margin:0 0 16px;text-align:justify}
+  ul,ol{margin:0 0 18px;padding-left:1.5em}
+  li{margin-bottom:6px}
+  strong{font-weight:700;color:#111}
+  a{color:var(--accent)}
+  .abstract{background:var(--soft2);border-left:4px solid var(--accent);padding:24px 28px;margin:0 0 40px;border-radius:0 4px 4px 0}
+  .abstract p{font-size:.95rem;margin-bottom:10px}
+  .box{border:1px solid var(--line);border-radius:4px;padding:20px 24px;margin:24px 0;background:#fcfbf8}
+  .box .label{font-size:.72rem;letter-spacing:.16em;font-weight:700;color:var(--accent2);display:block;margin-bottom:10px}
+  .box.case{background:#fdf6f3;border-color:#e8cfc6}
+  .box.case .label{color:var(--warn)}
+  .tw{overflow-x:auto;margin:20px 0}
+  table{border-collapse:collapse;width:100%;font-size:.85rem;min-width:680px}
+  caption{caption-side:top;text-align:left;font-size:.8rem;color:var(--muted);padding-bottom:8px;font-weight:600}
+  th,td{border:1px solid var(--line);padding:8px 10px;vertical-align:top;text-align:left;line-height:1.55}
+  th{background:var(--soft);font-weight:700;font-size:.8rem}
+  thead th{background:var(--accent);color:#fff;border-color:var(--accent)}
+  tbody th{background:var(--soft2);white-space:nowrap}
+  tr:nth-child(even) td{background:#fdfdfc}
+  .st-keep{color:var(--ok);font-weight:700}
+  .st-move{color:var(--accent2);font-weight:700}
+  .st-diff{color:var(--warn);font-weight:700}
+  .st-new{color:var(--new);font-weight:700}
+  .st-none{color:var(--muted)}
+  .tag{display:inline-block;font-size:.72rem;padding:1px 7px;border-radius:10px;font-weight:700;white-space:nowrap}
+  .tag.omni{background:#fdecec;color:var(--new)}
+  .chapnote{font-size:.83rem;color:var(--muted);margin:6px 0 14px}
+  footer{margin-top:80px;padding-top:24px;border-top:1px solid var(--line);font-size:.8rem;color:var(--muted)}
+  @media print{body{font-size:10pt}.wrap{max-width:none;padding:0}h2{page-break-after:avoid}table{page-break-inside:auto}tr{page-break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="cover">
+  <div class="kicker">AI Study · 강의 준비자료</div>
+  <h1>EU AI Act 원본-확정본 조문 비교표</h1>
+  <p class="subtitle">지난 학기 정리본(2024‑06‑13 국문 PDF 기준) ↔ 2026년 9월 현재 확정 시행본(Regulation (EU) 2024/1689 + 옴니버스 개정 2026/1744) 전수 대조</p>
+  <div class="meta">
+    <div><b>대상</b>EU AI Act 전체 조문(원본 70조 상세 + 확정본 118개 조·조의)</div>
+    <div><b>기준 시점</b>2026년 9월 (옴니버스 개정 반영)</div>
+    <div><b>신뢰도 표기</b><span class="st-keep">확인</span>=원문·기존 강의자료로 검증, <span class="st-diff">추정</span>=제목 유사도 기반 추론(원문 재대조 권장)</div>
+  </div>
+</header>
+
+<div class="abstract">
+  <h2 style="border:0;padding:0;margin:0 0 10px;font-size:1.05rem;letter-spacing:.05em">읽기 전에 — 이 비교표가 다루는 두 개의 서로 다른 변화</h2>
+  <p><strong>① 구조 재편(원본→확정본, 옴니버스와 무관):</strong> 지난 학기 정리본은 제3장(고위험)을 제6~33조 28개조로, 문서·등록·표준·인증 관련 조문을 별도의 제9장(제64~70조)으로 배치했다. 그러나 2024년 최종 관보 확정본은 제3장을 제6~49조 44개조·5개 절로 확장하고, 표준·적합성평가·인증·등록 조문을 제3장 제4~5절(제28~49조)로 흡수했다. 그 결과 원본의 제25조 이후 조문 번호는 같아도 내용이 달라지는 구간이 발생한다. 이는 2026년 개정과 무관하게, <strong>협상 단계 텍스트와 최종 확정 조문 사이에 원래 있던 차이</strong>다.</p>
+  <p><strong>② 옴니버스 개정(확정본 내부에서 2026년에 추가된 변화):</strong> 2026년 7월 27일 발효한 「AI에 관한 디지털 옴니버스」(Regulation (EU) 2026/1744)는 확정본 조문 중 다수를 실질 개정하고, <strong>제4a조·제60a조·제75a~75d조</strong> 5개 조문을 신설했다. 고위험 의무 적용은 부속서 III 경로 2027년 12월 2일, 부속서 I 경로 2028년 8월 2일로 연기되었고, 금지 관행은 8→10유형으로 늘었다.</p>
+  <p style="margin-bottom:0">아래 표는 이 두 변화를 함께 보여준다. <span class="tag omni">옴니버스</span> 표시가 있는 행만 2026년 개정에 의한 변화이고, 표시가 없는 상태 변화는 원본(협상 단계 텍스트)과 확정본 사이에 애초부터 있던 차이다.</p>
+</div>
+
+<h2>1. 장(Chapter) 구조 대조표</h2>
+<p class="chapnote">원본은 10개 장, 확정본은 13개 장이다. 조문 수가 늘어난 것이 아니라 <strong>장 경계 자체가 다시 그어졌다</strong> — 특히 원본 제9장의 내용이 확정본 제3장 뒷부분으로, 원본 제7장 일부가 확정본 제3장·제9장으로 흩어졌다.</p>
+<div class="tw">
+<table>
+<caption>표 1. 원본(지난 학기 정리) 10장 vs 확정본(2026년 9월 기준) 13장</caption>
+<thead><tr><th>원본 장</th><th>원본 조문범위</th><th>확정본 장</th><th>확정본 조문범위</th><th>비고</th></tr></thead>
+<tbody>
+<tr><th>1장 총칙</th><td>1~4</td><td>1장 총칙</td><td>1~4 <span class="tag omni">+4a</span></td><td class="st-keep">장 경계 동일</td></tr>
+<tr><th>2장 금지된 관행</th><td>5</td><td>2장 금지된 AI 관행</td><td>5</td><td class="st-keep">장 경계 동일, 옴니버스로 유형 확대</td></tr>
+<tr><th>3장 고위험 인공지능 시스템</th><td>6~33 (28개조)</td><td>3장 고위험 AI 시스템</td><td>6~49 (44개조, 5개 절) <span class="tag omni">+60a는 6장</span></td><td class="st-diff">확정본이 16개조 확장(4~5절 신설), 원본 9장 흡수</td></tr>
+<tr><th>4장 투명성 의무/특정 AI 시스템</th><td>34~37 (4개조)</td><td>4장 특정 AI 투명성 의무</td><td>50 (1개조, 4개 항)</td><td class="st-diff">4개조 → 1개조 4개항으로 통합</td></tr>
+<tr><th>5장 범용 AI(GPAI) 및 고성능 GPAI 규제</th><td>38~44 (7개조)</td><td>5장 범용 AI 모델</td><td>51~56 (6개조)</td><td class="st-diff">재편(정의 일부는 3조로, 신규 54·56조 추가)</td></tr>
+<tr><th>6장 AI 규제 샌드박스 및 혁신</th><td>45~49 (5개조)</td><td>6장 혁신 지원 조치</td><td>57~63 (7개조) <span class="tag omni">+60a</span></td><td class="st-diff">61·63조 신설 대응 없음</td></tr>
+<tr><th>7장 거버넌스</th><td>50~56 (7개조)</td><td>7장 거버넌스</td><td>64~70 (7개조)</td><td class="st-diff">조문 수는 같으나 후반부(자문포럼·과학패널) 내용 상이</td></tr>
+<tr><th>(9장에 분산)</th><td>—</td><td>8장 EU 고위험 데이터베이스</td><td>71</td><td class="st-none">원본에 독립 대응 조문 없음</td></tr>
+<tr><th>8장 시장감시/집행/벌칙</th><td>57~63 (7개조)</td><td>9장 사후 모니터링·정보공유·시장감시</td><td>72~94 (23개조) <span class="tag omni">+75a~75d</span></td><td class="st-diff">7개조 → 23개조로 대폭 확장(옴니버스가 5개조 추가 신설)</td></tr>
+<tr><th>(대응 없음)</th><td>—</td><td>10장 행동규범과 지침</td><td>95~96</td><td class="st-none">원본에 독립 대응 조문 없음</td></tr>
+<tr><th>(대응 없음)</th><td>—</td><td>11장 위임 및 위원회 절차</td><td>97~98</td><td class="st-none">원본에 독립 대응 조문 없음</td></tr>
+<tr><th>8장 일부</th><td>60~62</td><td>12장 제재</td><td>99~101</td><td class="st-diff">60·61조 통합 → 99조, 101조(GPAI 과징금) 신설 대응 없음</td></tr>
+<tr><th>9장 일부 + 10장 최종조항</th><td>64~70 일부, 미상세</td><td>13장 최종 규정</td><td>102~113 (12개조)</td><td class="st-none">원본은 개별 조문 미표시(포괄 표기)</td></tr>
+<tr><th>부속서</th><td>미상세</td><td>부속서 I~XIV</td><td>14개</td><td class="st-new">확정본 부속서 XIV 신설(옴니버스, 피통보기관 AI유형분류)</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>2. 조문별 전수 대조표</h2>
+<p class="chapnote">범례 — <span class="st-keep">유지</span>: 조번호·내용 사실상 동일 · <span class="st-move">위치이동/통합</span>: 내용은 이어지나 번호·구성이 바뀜 · <span class="st-diff">번호유지·내용상이</span>: 같은 번호인데 다른 주제(원본↔확정본 재편의 흔적) · <span class="st-new">신설</span>: 확정본에만 존재 · <span class="st-none">원본 미상세</span>: 원본 다이어그램이 애초에 개별조문화하지 않음. <span class="tag omni">옴니버스</span> 태그는 2026년 개정으로 실질 변경된 조문에만 붙인다.</p>
+
+<h3>2.1 제1장 총칙 (원본 1~4 ↔ 확정본 1~4, 4a)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제1조 주제</th><td>제1조 주제(목적)</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> 혁신지원 대상에 소형 중견기업(SMC) 문구 추가</td></tr>
+<tr><th>제2조 적용범위</th><td>제2조 적용범위</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> 제13항 신설(동등 보호 시 요건 제한 가능), 고위험 시스템 범위 일부 수정</td></tr>
+<tr><th>제3조 정의</th><td>제3조 정의</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> 14a·14b호(SME·SMC 정의) 추가, 총 68개 정의</td></tr>
+<tr><th>제4조 인공지능 문해력</th><td>제4조 AI 문해력</td><td class="st-keep">유지(내용 개정)</td><td><span class="tag omni">옴니버스</span> 전면 개정 — "충분한 문해력 확보" 의무 → "문해력 지원 조치" 의무로 완화</td></tr>
+<tr><th>(대응 없음)</th><td>제4a조 [신설] 편향 탐지·교정 목적 특별범주 개인정보 처리</td><td class="st-new">신설</td><td><span class="tag omni">옴니버스</span> 원 제10조 제5항의 근거를 이관·확대, 고위험 아닌 시스템·범용 AI 모델까지 적용</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.2 제2장 금지된 관행 (원본 5 ↔ 확정본 5)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제5조 금지된 인공지능 관행</th><td>제5조 금지된 AI 관행</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> 비합의 성적 이미지 관련 등 2유형 신설(제1a·1b항)로 8→10유형 확대</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.3 제3장 고위험 AI 시스템 (원본 6~33 ↔ 확정본 6~49) — 구조 재편의 핵심 구간</h3>
+<p class="chapnote">확정본 제1~3절(6~27조)은 원본과 조번호·주제가 거의 일치한다. 그러나 확정본 제4절(통보당국·피통보기관, 28~39조)부터는 <strong>원본의 조번호는 같아도 주제가 다르다</strong> — 원본 28~33조는 사용자 고지·데이터품질·기록보관·사고보고 등 배포자 측 의무였는데, 확정본 28~33조는 통보기관·피통보기관 지정 절차다. 원본이 다루던 배포자 측 내용은 확정본에서 9장(72~94조)으로 이동한 것으로 보인다.</p>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제6조 고위험 AI 시스템 분류 규칙</th><td>제6조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제7조 부속서 III의 개정</th><td>제7조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제8조 요건의 준수</th><td>제8조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제9조 위험관리시스템</th><td>제9조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제10조 데이터 및 데이터 거버넌스</th><td>제10조 동일</td><td class="st-keep">유지(일부 삭제)</td><td><span class="tag omni">옴니버스</span> 제5항(민감정보 처리 근거) 삭제 → 제4a조로 이관, 비머신러닝 시스템 제6항 수정</td></tr>
+<tr><th>제11조 기술문서</th><td>제11조 동일</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> SME·SMC 간이 서식 허용 확대</td></tr>
+<tr><th>제12조 기록 관리</th><td>제12조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제13조 투명성 및 정보 제공</th><td>제13조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제14조 인적 감독</th><td>제14조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제15조 정확성·견고성·사이버보안</th><td>제15조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제16조 제공자의 의무</th><td>제16조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제17조 품질관리시스템</th><td>제17조 동일</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> 조직 규모 비례 이행 원칙 명확화</td></tr>
+<tr><th>제18조 문서 관리</th><td>제18조 문서 보관</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제19조 자동생성 로그</th><td>제19조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제20조 시정조치 및 정보의무</th><td>제20조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제21조 관할기관과의 협력</th><td>제21조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제22조 수권대리인</th><td>제22조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제23조 수입업자의 의무</th><td>제23조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제24조 유통업자의 의무</th><td>제24조 동일</td><td class="st-keep">유지</td><td>—</td></tr>
+<tr><th>제25조 사용자의 의무</th><td>제25조 가치사슬상 책임</td><td class="st-diff">번호유지·내용상이 (추정)</td><td>확정본은 제3자 공급자·통합자 간 책임분배 조문. 원본의 "사용자 의무" 개념은 확정본 26조와 중복 정리된 것으로 추정 — 원문 재대조 권장</td></tr>
+<tr><th>제26조 사용자의 의무</th><td>제26조 배포자의 의무</td><td class="st-keep">유지(제목 일치)</td><td>—</td></tr>
+<tr><th>제27조 기본권 영향평가</th><td>제27조 동일</td><td class="st-keep">유지</td><td><span class="tag omni">옴니버스</span> DPIA와 연계한 절차 간소화, AI Office 표준 양식 개발</td></tr>
+<tr><th>제28조 고위험 AI 사용 고지</th><td>제28조 통보 당국</td><td class="st-diff">번호유지·내용상이</td><td>확정본은 통보당국 지정 조문(제4절 시작). 원본의 "사용 고지"는 확정본 50조(투명성의무) 계열로 재배치된 것으로 추정</td></tr>
+<tr><th>제29조 데이터 품질 관련 사용자의 의무</th><td>제29조 적합성평가기관 통보신청</td><td class="st-diff">번호유지·내용상이</td><td><span class="tag omni">옴니버스</span> 제4항(통합심사절차) 신설. 원본 내용은 확정본 10조(데이터 거버넌스) 계열로 흡수 추정</td></tr>
+<tr><th>제30조 기록 보관 의무</th><td>제30조 통보 절차</td><td class="st-diff">번호유지·내용상이</td><td><span class="tag omni">옴니버스</span> 집행위 부속서XIV 개정권한 신설. 원본 내용은 확정본 12·19조(기록관리·로그) 계열로 흡수 추정</td></tr>
+<tr><th>제31조 사고 및 중대 사건 보고</th><td>제31조 피통보기관 요건</td><td class="st-diff">번호유지·내용상이 (추정 이동처: 확정본 73조)</td><td>원본 개념은 확정본 제73조(중대사고 보고, 9장)로 이동한 것으로 추정</td></tr>
+<tr><th>제32조 정보 제공 및 협력</th><td>제32조 피통보기관 적합성추정</td><td class="st-diff">번호유지·내용상이</td><td>원본 개념은 확정본 21조(관할당국 협력)와 중복 정리 추정</td></tr>
+<tr><th>제33조 표준의 적용</th><td>제33조 자회사·하도급</td><td class="st-diff">번호유지·내용상이 (추정 이동처: 확정본 40·41조)</td><td>원본 개념은 확정본 40·41조(조화표준·공동기준)로 이동 추정</td></tr>
+<tr><th>(대응 없음)</th><td>제34조 피통보기관 운영의무</td><td class="st-new">확정본 신설 구간</td><td>원본 9장 내용과 부분 중복 가능</td></tr>
+<tr><th>(대응 없음)</th><td>제35조 식별번호 및 목록</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제36조 통보 변경</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제37조 피통보기관 자격 이의제기</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제38조 피통보기관 간 조정</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제39조 제3국 적합성평가기관</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>제68조 표준·공동규격 (원본 9장)</th><td>제40조 조화표준 및 표준화 문서</td><td class="st-move">위치이동</td><td><span class="tag omni">옴니버스</span> 집행위의 표준화 의뢰 의무 신설</td></tr>
+<tr><th>제68조 표준·공동규격 (원본 9장, 중복대응)</th><td>제41조 공동기준</td><td class="st-move">위치이동</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제42조 특정요건 적합성추정</td><td class="st-new">확정본 신설</td><td><span class="tag omni">옴니버스</span> 별도 사이버보안 규정상 인증 인정 조항 신설</td></tr>
+<tr><th>제69조 적합성평가 절차 (원본 9장)</th><td>제43조 적합성평가</td><td class="st-move">위치이동</td><td><span class="tag omni">옴니버스</span> 조화법령 대상 시스템의 제3자 평가·피통보기관 역할 전면 개정</td></tr>
+<tr><th>제70조 인증서 발급·정지·취소 (원본 9장)</th><td>제44조 인증서</td><td class="st-move">위치이동</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제45조 피통보기관 정보의무</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제46조 적합성평가절차의 예외</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>제65조 적합성 선언서 (원본 9장)</th><td>제47조 EU 적합성선언</td><td class="st-move">위치이동</td><td>—</td></tr>
+<tr><th>제64조 CE 마킹 (원본 9장)</th><td>제48조 CE 마킹</td><td class="st-move">위치이동</td><td>—</td></tr>
+<tr><th>제66조 고위험 AI 등록 (원본 9장)</th><td>제49조 등록</td><td class="st-move">위치이동</td><td><span class="tag omni">옴니버스</span> 비고위험 판단시스템 등록(제6조3항 관련) 절차 간소화</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.4 제4장 투명성 의무 (원본 34~37 ↔ 확정본 50)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제34조 투명성 의무<br>제35조 대화형 AI 고지<br>제36조 감정인식·생체분류 투명성<br>제37조 딥페이크 표시 의무 (4개조)</th><td>제50조 특정 AI 시스템 투명성 의무 (1개조, 4개 항: ①상호작용고지 ②합성콘텐츠표시 ③감정인식·생체분류고지 ④딥페이크표시)</td><td class="st-move">4개조 → 1개조 통합</td><td>내용은 그대로 대응되나 확정본은 하나의 조문에 4개 항으로 압축. <span class="tag omni">옴니버스</span> 시행유예 신설 — 2026.8.2 이전 출시 시스템은 2026.12.2까지 경과기간, 행동강령 모니터링 절차 개정</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.5 제5장 범용 AI(GPAI) (원본 38~44 ↔ 확정본 51~56)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제38조 범용 AI 모델 정의</th><td>제3조(정의)·제51조(분류)로 분산 흡수</td><td class="st-move">위치이동/흡수</td><td>정의 조항 통합 원칙에 따라 3조로, 시스템적위험 분류기준은 51조로</td></tr>
+<tr><th>제42조 시스템적 위험 기준</th><td>제51조 시스템적위험 GPAI 분류</td><td class="st-move">위치이동</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제52조 절차</td><td class="st-new">확정본 신설/세분화</td><td>—</td></tr>
+<tr><th>제39조 범용 AI 모델 제공자 의무<br>제40조 GPAI 기술문서 (2개조)</th><td>제53조 GPAI 공급자 의무 (1개조)</td><td class="st-move">통합</td><td>—</td></tr>
+<tr><th>제41조 오픈 모델/오픈 웨이트 조건</th><td>제53조 제2항 오픈소스 예외로 흡수</td><td class="st-move">위치이동/흡수</td><td>별도 조문에서 53조 하위 항으로 편입</td></tr>
+<tr><th>(대응 없음)</th><td>제54조 GPAI 국내대리인</td><td class="st-new">확정본 신설</td><td>원본 GPAI 트랙에는 국내대리인 조항이 없었음</td></tr>
+<tr><th>제43조 시스템적 위험 모델 의무<br>제44조 보안 감사 및 위험 완화 (2개조)</th><td>제55조 시스템적위험 GPAI 의무 (1개조)</td><td class="st-move">통합</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제56조 행동강령</td><td class="st-new">확정본 신설</td><td><span class="tag omni">옴니버스</span> 강령 적정성 감독·평가 절차 강화</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.6 제6장 혁신 지원 조치/샌드박스 (원본 45~49 ↔ 확정본 57~63, 60a)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제45조 AI 규제 샌드박스 설정</th><td>제57조 AI 규제 샌드박스</td><td class="st-keep">대응</td><td><span class="tag omni">옴니버스</span> 회원국 2027.8.2까지 샌드박스 설치 의무화, 제3a항 EU 차원 샌드박스 신설</td></tr>
+<tr><th>제46조 샌드박스 운영 요건</th><td>제58조 샌드박스 세부운영</td><td class="st-keep">대응</td><td><span class="tag omni">옴니버스</span> 세부 운영사항 개정</td></tr>
+<tr><th>제49조 데이터 접근 지원</th><td>제59조 샌드박스 개인정보 재처리 특례</td><td class="st-keep">대응</td><td>—</td></tr>
+<tr><th>제47조 실세계 조건 시험</th><td>제60조 실세계 조건 시험</td><td class="st-keep">대응</td><td><span class="tag omni">옴니버스</span> 적용범위를 특정 부속서 대상으로 한정</td></tr>
+<tr><th>(대응 없음)</th><td>제60a조 [신설] 부속서Ⅰ섹션B 적용 고위험 시스템의 실세계 시험</td><td class="st-new">확정본 완전 신설</td><td><span class="tag omni">옴니버스</span> 교통·이동수단 규제 대상 제품에 대해 회원국-집행위 자발적 약정으로 실세계시험 허용, 기존 샌드박스 요건 적용 배제</td></tr>
+<tr><th>(대응 없음)</th><td>제61조 시험 참여 동의</td><td class="st-new">확정본 신설/세분화</td><td>—</td></tr>
+<tr><th>제48조 SME·스타트업 지원</th><td>제62조 SME·스타트업 등 지원조치</td><td class="st-keep">대응</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제63조 특정 운영자에 대한 특례</td><td class="st-new">확정본 신설</td><td><span class="tag omni">옴니버스</span> 품질관리시스템 간이 이행 경로를 SME뿐 아니라 SMC까지 확대</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.7 제7장 거버넌스 (원본 50~56 ↔ 확정본 64~70)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제50조 EU AI Office</th><td>제64조 AI Office</td><td class="st-keep">대응</td><td><span class="tag omni">옴니버스</span> 자원 배정 의무 신설, 관할 확대(동일제공자 계열시스템·초대형플랫폼 통합시스템)</td></tr>
+<tr><th>제52조 유럽 AI 위원회</th><td>제65조 유럽 AI 위원회 설립·구조</td><td class="st-keep">대응</td><td>—</td></tr>
+<tr><th>제51조 AI Office 권한</th><td>제66조 위원회 임무 (추정 대응)</td><td class="st-diff">추정, 원문 재대조 필요</td><td>제목상 완전히 일치하지 않음</td></tr>
+<tr><th>(대응 없음)</th><td>제67조 자문 포럼</td><td class="st-new">확정본 신설 기구</td><td>원본에는 해당 자문기구 조문 없음</td></tr>
+<tr><th>(대응 없음)</th><td>제68조 과학 패널</td><td class="st-new">확정본 신설 기구</td><td>범용 AI 체계적위험 경보(90조)와 연계된 신설 기구</td></tr>
+<tr><th>(대응 없음)</th><td>제69조 전문가풀 접근</td><td class="st-new">확정본 신설</td><td><span class="tag omni">옴니버스</span> 회원국 지원 수수료 조항 개정</td></tr>
+<tr><th>제53조 회원국 관할기관</th><td>제70조 국가관할당국 지정</td><td class="st-keep">대응</td><td><span class="tag omni">옴니버스</span> 안내·조언 제공 기능 강화</td></tr>
+<tr><th>제54조 통보기관(인증기관)<br>제55조 인증·지정 요건<br>제56조 실무약정 (3개조)</th><td>제3장 4절(28~39조)로 재배치 추정</td><td class="st-move">장 이동(추정)</td><td>거버넌스 장이 아니라 고위험 장의 통보당국·피통보기관 절차로 재편된 것으로 추정 — 원문 재대조 권장</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.8 제8장 EU 고위험 데이터베이스 (원본 대응 없음 ↔ 확정본 71)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제66조 고위험 AI 등록 (원본 9장, 49조와 중복대응)</th><td>제71조 EU 고위험 AI 데이터베이스</td><td class="st-move">위치이동/분리</td><td>원본은 "등록 의무"만 규정했고, 확정본은 그 등록 결과물인 EU 데이터베이스 자체를 별도 장·조문으로 분리</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.9 제9장 사후 모니터링·시장감시 (원본 57~63 ↔ 확정본 72~94, 75a~75d)</h3>
+<p class="chapnote">원본은 이 영역을 7개조(8장)로 압축했으나 확정본은 23개조+옴니버스 신설 4개조로 대폭 세분화했다. 원본 조문과의 대응은 상당수 <strong>추정</strong>이다.</p>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>(대응 없음)</th><td>제72조 사후 모니터링</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>제31조 사고 및 중대 사건 보고 (원본 3장, 추정 이동)</th><td>제73조 중대사고 보고</td><td class="st-move">위치이동(추정)</td><td>—</td></tr>
+<tr><th>제58조 시장감시</th><td>제74조 시장감시 및 통제</td><td class="st-keep">대응(장 이동)</td><td>원본 8장 → 확정본 9장으로 장만 이동</td></tr>
+<tr><th>(대응 없음)</th><td>제75조 시장감시 및 상호지원</td><td class="st-new" style="color:var(--warn)">전면 개정</td><td><span class="tag omni">옴니버스</span> 명칭·내용 전면 개정 — AI Office 전속관할 확대의 근거 조문화</td></tr>
+<tr><th>(대응 없음)</th><td>제75a조 [신설] AI Office 감독·집행권</td><td class="st-new">확정본 완전 신설</td><td><span class="tag omni">옴니버스</span> 국가 시장감시당국에 준하는 AI Office 조사·현장점검 권한</td></tr>
+<tr><th>(대응 없음)</th><td>제75b조 [신설] 약정(Commitments)</td><td class="st-new">확정본 완전 신설</td><td><span class="tag omni">옴니버스</span> 사업자의 자발적 시정 약정 수용 제도</td></tr>
+<tr><th>(대응 없음)</th><td>제75c조 [신설] 불이행·과징금</td><td class="st-new">확정본 완전 신설</td><td><span class="tag omni">옴니버스</span> AI Office의 직접 과징금·이행강제금 부과 권한</td></tr>
+<tr><th>(대응 없음)</th><td>제75d조 [신설] 안전장치 및 세부규정</td><td class="st-new">확정본 완전 신설</td><td><span class="tag omni">옴니버스</span> 방어권·절차보장·결정 공표 요건</td></tr>
+<tr><th>(대응 없음, 60a와 연계)</th><td>제76조 실세계시험 감독</td><td class="st-new">확정본 신설/세분화</td><td><span class="tag omni">옴니버스</span> 60a조 신설에 따른 감독조항 개정</td></tr>
+<tr><th>(대응 없음)</th><td>제77조 기본권보호당국 권한 및 협력</td><td class="st-new">확정본 신설/세분화</td><td><span class="tag omni">옴니버스</span> 정보접근권·시장감시당국 협력의무 확대(제목 개정)</td></tr>
+<tr><th>(대응 없음)</th><td>제78조 기밀유지</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제79조 국가 차원 위험 AI시스템 처리절차</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제80조 비고위험 분류 시스템 처리절차</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제81조 EU 안전장치 절차</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제82조 적합하나 위험 있는 시스템</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제83조 형식적 부적합</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제84조 EU AI 시험지원기구</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>제63조 피해자 구제 (추정 분화)</th><td>제85조 신고권</td><td class="st-move">분화(추정)</td><td>원본 63조가 확정본 85~87조 3개조로 세분화된 것으로 추정</td></tr>
+<tr><th>제63조 피해자 구제 (추정 분화)</th><td>제86조 개별결정 설명요구권</td><td class="st-move">분화(추정)</td><td>—</td></tr>
+<tr><th>제63조 피해자 구제 (추정 분화)</th><td>제87조 신고자 보호</td><td class="st-move">분화(추정)</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제88조 범용 AI 공급자 의무 집행</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>제59조 사고보고·리스크모니터링 (추정)</th><td>제89조 모니터링 조치</td><td class="st-move">위치이동(추정)</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제90조 과학패널의 체계적위험 경보</td><td class="st-new">확정본 신설(68조 기구와 연계)</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제91~94조 문서요청·평가·조치요청·경제운영자 절차권</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.10~2.11 제10장 행동규범/제11장 위임·위원회 절차 (원본 대응 없음 ↔ 확정본 95~98)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>(대응 없음)</th><td>제95조 자발적 행동규범</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> SMC 이해관계 반영 문구 추가</td></tr>
+<tr><th>(대응 없음)</th><td>제96조 집행위원회 지침</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> (g)호 신설 — 8~15조 이행 일관성 지침</td></tr>
+<tr><th>(대응 없음)</th><td>제97조 위임권 행사</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> 제2조13항·제30조2항 관련 위임기간 연장</td></tr>
+<tr><th>(대응 없음)</th><td>제98조 위원회 절차</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.12 제12장 제재 (원본 60~63 ↔ 확정본 99~101)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>제60조 벌칙<br>제61조 과징금 감경 (2개조)</th><td>제99조 제재(과징금)</td><td class="st-move">통합</td><td><span class="tag omni">옴니버스</span> (da)호 신설(25조 위반 관련), 제6a항 SMC 감경 신설</td></tr>
+<tr><th>제62조 EU 기관에 대한 벌칙</th><td>제100조 EU기관·기구에 대한 과징금</td><td class="st-keep">대응</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제101조 GPAI 공급자 과징금</td><td class="st-new">확정본 신설</td><td>GPAI 전용 과징금 체계는 원본 7개조 구성에 없었음</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.13 제13장 최종 규정 (원본 미상세 ↔ 확정본 102~113)</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>(대응 없음, "최종조항"으로 총괄표기)</th><td>제102~110조 타법 개정 9개조</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> 적용일 2026.7.27로 명시</td></tr>
+<tr><th>(대응 없음)</th><td>제111조 기존 출시 시스템 경과규정</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> 제4항 신설 — 합성콘텐츠 생성시스템 2026.12.2까지 유예</td></tr>
+<tr><th>(대응 없음)</th><td>제112조 평가 및 검토</td><td class="st-none">원본 미상세</td><td>—</td></tr>
+<tr><th>(대응 없음)</th><td>제113조 발효 및 적용</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> 1·2장 적용일 2025.2.2 확정, 5조1항 신유형 2026.12.2 유예, 3장 단계적 적용 2027.12.2/2028.8.2</td></tr>
+</tbody>
+</table></div>
+
+<h3>2.14 부속서</h3>
+<div class="tw"><table>
+<thead><tr><th>원본</th><th>확정본</th><th>상태</th><th>내용</th></tr></thead>
+<tbody>
+<tr><th>부속서 (미상세, 개수·번호 불명)</th><td>부속서 I~XIV (14개)</td><td class="st-none">원본 미상세</td><td><span class="tag omni">옴니버스</span> 부속서I 섹션A 1호 삭제, 섹션B 21호에 기계류규정(2023/1230) 추가; 부속서VIII 섹션B 7·9호 삭제; 부속서XIV 신설(피통보기관 지정용 AI유형 분류)</td></tr>
+</tbody>
+</table></div>
+
+<h2>3. Ruby 작성 "개정본" 다이어그램 — 확인된 오류</h2>
+<div class="box case">
+  <span class="label">오류 1 · 챕터 3 이후 번호 불일치</span>
+  <p style="margin-bottom:0">제3장(고위험)에서 원본의 옛 번호(6~33)를 그대로 쓰면서, 4장부터는 확정본 번호(50~)로 건너뛰었다. 그 결과 <strong>제34~49조 구간(16개조, 피통보기관 세부절차·표준·적합성평가 등)이 다이어그램에서 통째로 누락</strong>되었다. 확정본 제3장은 6~49조 44개조·5개 절이 맞다.</p>
+</div>
+<div class="box">
+  <span class="label">정정 · 6장과 7장은 실제로 분리되어 있었음</span>
+  <p style="margin-bottom:0">선 연결을 다시 확인한 결과, "제6장. 혁신지원(샌드박스)"은 57~63조(+60a) 블록에, "제7장. 거버넌스"는 64~70조 블록에 <strong>각각 별도의 선으로 정확히 연결</strong>되어 있었다. 저해상도 이미지에서 두 블록이 이어진 것으로 잘못 읽었던 앞선 지적은 철회한다.</p>
+</div>
+<div class="box case">
+  <span class="label">오류 2 · 8장 블록의 조문 누락(71~77조만 표시, 78~94조 없음)</span>
+  <p style="margin-bottom:0">"제8장. 시판후모니터링·시장감시·집행" 블록은 71~77조까지만 나열한다. 확정본 제9장(사후 모니터링·시장감시, 72~94조)에는 <strong>78~94조(17개조)</strong> — 기밀유지(78), 국가/EU 차원 위험시스템 처리절차(79~83), EU AI 시험지원기구(84), <strong>개인의 권리 조항(신고권 85·설명요구권 86·신고자보호 87)</strong>, 범용 AI 공급자 의무 집행(88), 모니터링·과학패널 경보·평가권한(89~94) — 이 빠져 있다. 특히 85~87조는 "사업자 규제법"과 "권리 보장법"의 성격을 가르는 조문이라 강의 비중이 낮지 않다.</p>
+</div>
+<div class="box">
+  <span class="label">축약 표기(오류는 아님) · 9~12장 블록이 95~101·113조만 표시</span>
+  <p style="margin-bottom:0">"제9~12장" 블록은 95~101조와 113조만 보여주고 102~112조(타법 개정 9개조·경과규정·평가검토)는 생략했다. 이 조문들은 대부분 다른 EU 법령 개정·기술적 경과규정이라 강의 다이어그램에서 생략하는 것은 합리적인 선택이나, "전수 비교"가 목적이라면 위 §2.13 표로 보완한다.</p>
+</div>
+<div class="box">
+  <span class="label">확인된 정확한 부분</span>
+  <p style="margin-bottom:0">제4a조(편향탐지 개인정보처리), 제60a조(부속서I 섹션B 실세계시험), 제75a~75d조(AI Office 감독·집행권/약정/과징금/안전장치)는 <strong>모두 실제로 2026년 옴니버스가 신설한 조문이 맞다</strong>(EUR-Lex 및 artificialintelligenceact.eu 대조 확인). Ruby의 다이어그램에서 이 5개 신설조 표시 자체는 정확했다.</p>
+</div>
+
+<footer>
+  <p>작성: 가이아(Claude Code) · 근거자료: <code>C:\AI\AIG\Claude outputs\EU_AI_Act_1.html</code>, <code>EU_AI_Act_2.html</code>(제3·4강 강의보고서), EUR-Lex(Regulation (EU) 2024/1689, 2026/1744), artificialintelligenceact.eu AI Act Explorer</p>
+  <p style="margin-bottom:0"><strong>주의</strong> — "추정" 표시가 붙은 대응관계는 조문 제목의 유사성에 근거한 추론이며, 강의 자료로 확정하기 전에 EUR-Lex 원문 조문 대 조문 대조가 필요하다.</p>
+</footer>
+
+</div>
+</body></html>
